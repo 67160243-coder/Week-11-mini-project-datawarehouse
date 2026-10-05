@@ -1,0 +1,2756 @@
+faostat,m49 code,Country,Item Code,Item,Year,Yield (kg/ha),Yield (kg/ha) flag,Production (tonnes),Production (tonnes) flag,Area harvested (ha),Area harvested (ha) flag
+90,324,Guinea,254,Oil palm fruit,1961,2666.7,E,600000,E,225000,E
+95,340,Honduras,254,Oil palm fruit,1961,8097.9,A,16123,A,1991,A
+101,360,Indonesia,254,Oil palm fruit,1961,13357.1,E,935000,E,70000,E
+123,430,Liberia,254,Oil palm fruit,1961,10000,E,100000,E,10000,E
+41,156,"China, mainland",254,Oil palm fruit,1961,,,120000,E,,M
+170,604,Peru,254,Oil palm fruit,1961,,,,A,,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1961,7692.3,E,150000,E,19500,E
+216,764,Thailand,254,Oil palm fruit,1961,5789.5,E,5500,E,950,E
+53,204,Benin,254,Oil palm fruit,1961,10000,E,300000,E,30000,E
+32,120,Cameroon,254,Oil palm fruit,1961,13766.7,E,413000,E,30000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1961,5813.9,E,261627,A,45000,E
+75,270,Gambia,254,Oil palm fruit,1961,10000,E,25000,E,2500,E
+81,288,Ghana,254,Oil palm fruit,1961,8333.3,E,500000,E,60000,E
+131,458,Malaysia,254,Oil palm fruit,1961,11546.8,E,500000,E,43302,A
+169,600,Paraguay,254,Oil palm fruit,1961,8481,E,67000,E,7900,E
+171,608,Philippines,254,Oil palm fruit,1961,6666.7,E,1000,E,150,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1961,9770.1,E,8500,E,870,E
+197,694,Sierra Leone,254,Oil palm fruit,1961,8064.5,E,250000,E,31000,E
+25,90,Solomon Islands,254,Oil palm fruit,1961,18181.8,E,1000,E,55,E
+217,768,Togo,254,Oil palm fruit,1961,8000,E,116000,E,14500,E
+44,170,Colombia,254,Oil palm fruit,1961,15000,E,12000,E,800,E
+48,188,Costa Rica,254,Oil palm fruit,1961,14333.3,E,21500,E,1500,E
+74,266,Gabon,254,Oil palm fruit,1961,5625,E,9000,E,1600,E
+195,686,Senegal,254,Oil palm fruit,1961,10000,E,70000,E,7000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1961,6899.6,E,1580000,E,229000,A
+56,214,Dominican Republic,254,Oil palm fruit,1961,,,,M,,M
+61,226,Equatorial Guinea,254,Oil palm fruit,1961,10000,E,23000,E,2300,E
+7,24,Angola,254,Oil palm fruit,1961,9545.5,E,210000,E,22000,E
+58,218,Ecuador,254,Oil palm fruit,1961,5964.3,E,167000,E,28000,E
+21,76,Brazil,254,Oil palm fruit,1961,10000,E,20000,E,2000,E
+37,140,Central African Republic,254,Oil palm fruit,1961,8928.6,E,25000,E,2800,E
+46,178,Congo,254,Oil palm fruit,1961,11100,E,111000,E,10000,E
+159,566,Nigeria,254,Oil palm fruit,1961,2500,E,6750000,E,2700000,E
+29,108,Burundi,254,Oil palm fruit,1961,7500,E,6000,E,800,E
+89,320,Guatemala,254,Oil palm fruit,1961,,,,A,,A
+157,558,Nicaragua,254,Oil palm fruit,1961,,,,A,,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1961,,,,A,,M
+138,484,Mexico,254,Oil palm fruit,1961,13028.5,E,253000,E,19419,A
+129,450,Madagascar,254,Oil palm fruit,1961,,,,A,,M
+168,598,Papua New Guinea,254,Oil palm fruit,1961,,,,A,,A
+207,740,Suriname,254,Oil palm fruit,1961,,,,A,,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1961,8181.8,E,9000,E,1100,E
+58,218,Ecuador,254,Oil palm fruit,1962,6100,E,183000,E,30000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1962,8205.1,E,160000,E,19500,E
+123,430,Liberia,254,Oil palm fruit,1962,10000,E,110000,E,11000,E
+41,156,"China, mainland",254,Oil palm fruit,1962,,,120000,E,,M
+46,178,Congo,254,Oil palm fruit,1962,11500,E,115000,E,10000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1962,10208.3,E,24500,E,2400,E
+75,270,Gambia,254,Oil palm fruit,1962,10000,E,25000,E,2500,E
+101,360,Indonesia,254,Oil palm fruit,1962,12785.7,E,895000,E,70000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1962,,,,A,,M
+7,24,Angola,254,Oil palm fruit,1962,9545.5,E,210000,E,22000,E
+21,76,Brazil,254,Oil palm fruit,1962,10869.6,E,25000,E,2300,E
+44,170,Colombia,254,Oil palm fruit,1962,15454.5,E,17000,E,1100,E
+56,214,Dominican Republic,254,Oil palm fruit,1962,,,,M,,M
+197,694,Sierra Leone,254,Oil palm fruit,1962,8064.5,E,250000,E,31000,E
+25,90,Solomon Islands,254,Oil palm fruit,1962,18181.8,E,1000,E,55,E
+216,764,Thailand,254,Oil palm fruit,1962,5789.5,E,5500,E,950,E
+131,458,Malaysia,254,Oil palm fruit,1962,12344.3,E,570000,E,46175,A
+159,566,Nigeria,254,Oil palm fruit,1962,2500,E,6250000,E,2500000,E
+217,768,Togo,254,Oil palm fruit,1962,7733.3,E,116000,E,15000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1962,6720.5,E,302424,A,45000,E
+74,266,Gabon,254,Oil palm fruit,1962,5625,E,9000,E,1600,E
+95,340,Honduras,254,Oil palm fruit,1962,8428.9,A,17018,A,2019,A
+195,686,Senegal,254,Oil palm fruit,1962,10000,E,70000,E,7000,E
+32,120,Cameroon,254,Oil palm fruit,1962,14214.3,E,398000,E,28000,E
+48,188,Costa Rica,254,Oil palm fruit,1962,13947.4,E,26500,E,1900,E
+53,204,Benin,254,Oil palm fruit,1962,10000,E,300000,E,30000,E
+90,324,Guinea,254,Oil palm fruit,1962,2666.7,E,600000,E,225000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1962,,,,A,,A
+169,600,Paraguay,254,Oil palm fruit,1962,8518.5,E,69000,E,8100,E
+207,740,Suriname,254,Oil palm fruit,1962,,,,A,,A
+81,288,Ghana,254,Oil palm fruit,1962,8333.3,E,500000,E,60000,E
+89,320,Guatemala,254,Oil palm fruit,1962,,,,A,,A
+138,484,Mexico,254,Oil palm fruit,1962,13157.3,E,292000,E,22193,A
+171,608,Philippines,254,Oil palm fruit,1962,6666.7,E,1000,E,150,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1962,9500,E,19000,E,2000,E
+37,140,Central African Republic,254,Oil palm fruit,1962,8928.6,E,25000,E,2800,E
+157,558,Nicaragua,254,Oil palm fruit,1962,,,,A,,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1962,6900.5,E,1525000,E,221000,A
+170,604,Peru,254,Oil palm fruit,1962,,,,A,,A
+29,108,Burundi,254,Oil palm fruit,1962,7500,E,6000,E,800,E
+129,450,Madagascar,254,Oil palm fruit,1962,,,,A,,M
+193,678,Sao Tome and Principe,254,Oil palm fruit,1962,9797.7,E,8524,E,870,E
+7,24,Angola,254,Oil palm fruit,1963,9523.8,E,200000,E,21000,E
+29,108,Burundi,254,Oil palm fruit,1963,7500,E,6000,E,800,E
+58,218,Ecuador,254,Oil palm fruit,1963,6100,E,183000,E,30000,E
+90,324,Guinea,254,Oil palm fruit,1963,2666.7,E,600000,E,225000,E
+171,608,Philippines,254,Oil palm fruit,1963,6666.7,E,1000,E,150,E
+25,90,Solomon Islands,254,Oil palm fruit,1963,18181.8,E,1000,E,55,E
+207,740,Suriname,254,Oil palm fruit,1963,,,,A,,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1963,8571.4,E,15000,E,1750,E
+21,76,Brazil,254,Oil palm fruit,1963,11250,E,27000,E,2400,E
+81,288,Ghana,254,Oil palm fruit,1963,8333.3,E,500000,E,60000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1963,6746.2,E,303580,A,45000,E
+131,458,Malaysia,254,Oil palm fruit,1963,13490.1,E,662000,E,49073,A
+197,694,Sierra Leone,254,Oil palm fruit,1963,8064.5,E,250000,E,31000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1963,6898.6,E,1428000,E,207000,A
+37,140,Central African Republic,254,Oil palm fruit,1963,8928.6,E,25000,E,2800,E
+56,214,Dominican Republic,254,Oil palm fruit,1963,,,,M,,M
+75,270,Gambia,254,Oil palm fruit,1963,10000,E,25000,E,2500,E
+169,600,Paraguay,254,Oil palm fruit,1963,8518.5,E,69000,E,8100,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1963,9600,E,7200,E,750,E
+41,156,"China, mainland",254,Oil palm fruit,1963,,,120000,E,,M
+129,450,Madagascar,254,Oil palm fruit,1963,,,,A,,M
+168,598,Papua New Guinea,254,Oil palm fruit,1963,,,,A,,A
+195,686,Senegal,254,Oil palm fruit,1963,10000,E,70000,E,7000,E
+53,204,Benin,254,Oil palm fruit,1963,10000,E,300000,E,30000,E
+216,764,Thailand,254,Oil palm fruit,1963,5789.5,E,5500,E,950,E
+46,178,Congo,254,Oil palm fruit,1963,11916.7,E,143000,E,12000,E
+95,340,Honduras,254,Oil palm fruit,1963,8768.9,A,17301,A,1973,A
+138,484,Mexico,254,Oil palm fruit,1963,11911.4,E,235000,E,19729,A
+159,566,Nigeria,254,Oil palm fruit,1963,2500,E,6500000,E,2600000,E
+32,120,Cameroon,254,Oil palm fruit,1963,15314.3,E,536000,E,35000,E
+44,170,Colombia,254,Oil palm fruit,1963,15200,E,19000,E,1250,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1963,8461.5,E,110000,E,13000,E
+217,768,Togo,254,Oil palm fruit,1963,8333.3,E,125000,E,15000,E
+48,188,Costa Rica,254,Oil palm fruit,1963,14153.8,E,46000,E,3250,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1963,10200,E,25500,E,2500,E
+74,266,Gabon,254,Oil palm fruit,1963,6000,E,9600,E,1600,E
+170,604,Peru,254,Oil palm fruit,1963,,,,A,,A
+157,558,Nicaragua,254,Oil palm fruit,1963,,,,A,,A
+101,360,Indonesia,254,Oil palm fruit,1963,11933.3,E,895000,E,75000,E
+123,430,Liberia,254,Oil palm fruit,1963,10000,E,120000,E,12000,E
+89,320,Guatemala,254,Oil palm fruit,1963,,,,A,,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1963,,,,A,,M
+41,156,"China, mainland",254,Oil palm fruit,1964,,,120000,E,,M
+44,170,Colombia,254,Oil palm fruit,1964,15555.6,E,21000,E,1350,E
+58,218,Ecuador,254,Oil palm fruit,1964,6062.5,E,194000,E,32000,E
+95,340,Honduras,254,Oil palm fruit,1964,9821.9,A,19084,A,1943,A
+129,450,Madagascar,254,Oil palm fruit,1964,,,,A,,M
+138,484,Mexico,254,Oil palm fruit,1964,12280.8,E,257000,E,20927,A
+159,566,Nigeria,254,Oil palm fruit,1964,2500,E,6500000,E,2600000,E
+169,600,Paraguay,254,Oil palm fruit,1964,8504.7,E,91000,E,10700,E
+29,108,Burundi,254,Oil palm fruit,1964,7500,E,6000,E,800,E
+37,140,Central African Republic,254,Oil palm fruit,1964,8928.6,E,25000,E,2800,E
+48,188,Costa Rica,254,Oil palm fruit,1964,13692.3,E,44500,E,3250,E
+81,288,Ghana,254,Oil palm fruit,1964,5882.4,E,500000,E,85000,E
+101,360,Indonesia,254,Oil palm fruit,1964,11650,E,932000,E,80000,E
+123,430,Liberia,254,Oil palm fruit,1964,10000,E,130000,E,13000,E
+171,608,Philippines,254,Oil palm fruit,1964,6666.7,E,1000,E,150,E
+195,686,Senegal,254,Oil palm fruit,1964,10000,E,70000,E,7000,E
+217,768,Togo,254,Oil palm fruit,1964,8333.3,E,125000,E,15000,E
+21,76,Brazil,254,Oil palm fruit,1964,11034.5,E,32000,E,2900,E
+75,270,Gambia,254,Oil palm fruit,1964,10000,E,25000,E,2500,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1964,7692.3,E,100000,E,13000,E
+25,90,Solomon Islands,254,Oil palm fruit,1964,18181.8,E,1000,E,55,E
+131,458,Malaysia,254,Oil palm fruit,1964,12230.6,E,647000,E,52900,X
+197,694,Sierra Leone,254,Oil palm fruit,1964,8064.5,E,250000,E,31000,E
+32,120,Cameroon,254,Oil palm fruit,1964,15783.8,E,584000,E,37000,E
+56,214,Dominican Republic,254,Oil palm fruit,1964,,,,M,,M
+90,324,Guinea,254,Oil palm fruit,1964,2666.7,E,600000,E,225000,E
+53,204,Benin,254,Oil palm fruit,1964,10000,E,300000,E,30000,E
+74,266,Gabon,254,Oil palm fruit,1964,4952.4,E,10400,E,2100,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1964,7274.2,E,327339,A,45000,E
+170,604,Peru,254,Oil palm fruit,1964,,,,A,,A
+216,764,Thailand,254,Oil palm fruit,1964,5789.5,E,5500,E,950,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1964,,,,A,,M
+89,320,Guatemala,254,Oil palm fruit,1964,,,,A,,A
+168,598,Papua New Guinea,254,Oil palm fruit,1964,,,,A,,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1964,6898.9,E,1297000,E,188000,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1964,9333.3,E,7000,E,750,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1964,8571.4,E,15000,E,1750,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1964,10166.7,E,30500,E,3000,E
+157,558,Nicaragua,254,Oil palm fruit,1964,,,,A,,A
+207,740,Suriname,254,Oil palm fruit,1964,,,,A,,A
+7,24,Angola,254,Oil palm fruit,1964,9545.5,E,210000,E,22000,E
+46,178,Congo,254,Oil palm fruit,1964,12444.4,E,112000,E,9000,E
+29,108,Burundi,254,Oil palm fruit,1965,7500,E,6000,E,800,E
+32,120,Cameroon,254,Oil palm fruit,1965,15000,E,675000,E,45000,E
+58,218,Ecuador,254,Oil palm fruit,1965,5973.7,E,227000,E,38000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1965,10166.7,E,30500,E,3000,E
+89,320,Guatemala,254,Oil palm fruit,1965,,,,A,,A
+168,598,Papua New Guinea,254,Oil palm fruit,1965,,,,A,,A
+21,76,Brazil,254,Oil palm fruit,1965,10500,E,42000,E,4000,E
+81,288,Ghana,254,Oil palm fruit,1965,6186.7,E,550000,E,88900,E
+157,558,Nicaragua,254,Oil palm fruit,1965,,,,A,,A
+197,694,Sierra Leone,254,Oil palm fruit,1965,8064.5,E,250000,E,31000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1965,8333.3,E,10000,E,1200,E
+37,140,Central African Republic,254,Oil palm fruit,1965,8928.6,E,25000,E,2800,E
+44,170,Colombia,254,Oil palm fruit,1965,15333.3,E,23000,E,1500,E
+48,188,Costa Rica,254,Oil palm fruit,1965,14153.8,E,46000,E,3250,E
+56,214,Dominican Republic,254,Oil palm fruit,1965,,,,M,,M
+101,360,Indonesia,254,Oil palm fruit,1965,11187.5,E,895000,E,80000,E
+7,24,Angola,254,Oil palm fruit,1965,9444.4,E,170000,E,18000,E
+53,204,Benin,254,Oil palm fruit,1965,10000,E,300000,E,30000,E
+75,270,Gambia,254,Oil palm fruit,1965,10000,E,30000,E,3000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1965,7692.3,E,100000,E,13000,E
+131,458,Malaysia,254,Oil palm fruit,1965,13423.7,E,792000,E,59000,X
+171,608,Philippines,254,Oil palm fruit,1965,6666.7,E,1000,E,150,E
+46,178,Congo,254,Oil palm fruit,1965,12307.7,E,80000,E,6500,E
+159,566,Nigeria,254,Oil palm fruit,1965,2500,E,6750000,E,2700000,E
+195,686,Senegal,254,Oil palm fruit,1965,10000,E,70000,E,7000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1965,,,,A,,M
+169,600,Paraguay,254,Oil palm fruit,1965,8692.3,E,113000,E,13000,E
+170,604,Peru,254,Oil palm fruit,1965,,,,A,,A
+25,90,Solomon Islands,254,Oil palm fruit,1965,18181.8,E,1000,E,55,E
+74,266,Gabon,254,Oil palm fruit,1965,7090.9,E,15600,E,2200,E
+123,430,Liberia,254,Oil palm fruit,1965,10000,E,135000,E,13500,E
+129,450,Madagascar,254,Oil palm fruit,1965,,,,A,,M
+207,740,Suriname,254,Oil palm fruit,1965,,,,A,,A
+216,764,Thailand,254,Oil palm fruit,1965,5789.5,E,5500,E,950,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1965,6902.1,E,987000,E,143000,A
+217,768,Togo,254,Oil palm fruit,1965,8333.3,E,125000,E,15000,E
+90,324,Guinea,254,Oil palm fruit,1965,2666.7,E,600000,E,225000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1965,7317.8,E,329300,A,45000,E
+138,484,Mexico,254,Oil palm fruit,1965,12368.1,E,259000,E,20941,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1965,9466.7,E,7100,E,750,E
+41,156,"China, mainland",254,Oil palm fruit,1965,,,120000,E,,M
+95,340,Honduras,254,Oil palm fruit,1965,11384.9,A,21506,A,1889,A
+21,76,Brazil,254,Oil palm fruit,1966,10576.9,E,55000,E,5200,E
+169,600,Paraguay,254,Oil palm fruit,1966,8424.2,E,139000,E,16500,E
+29,108,Burundi,254,Oil palm fruit,1966,7500,E,6000,E,800,E
+37,140,Central African Republic,254,Oil palm fruit,1966,8888.9,E,40000,E,4500,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1966,9333.3,E,28000,E,3000,E
+81,288,Ghana,254,Oil palm fruit,1966,6179.8,E,550000,E,89000,E
+89,320,Guatemala,254,Oil palm fruit,1966,,,,A,,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1966,7692.3,E,100000,E,13000,E
+197,694,Sierra Leone,254,Oil palm fruit,1966,8064.5,E,250000,E,31000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1966,6903.4,E,1001000,E,145000,A
+101,360,Indonesia,254,Oil palm fruit,1966,11223.5,E,954000,E,85000,E
+171,608,Philippines,254,Oil palm fruit,1966,6666.7,E,2000,E,300,E
+48,188,Costa Rica,254,Oil palm fruit,1966,14130.4,E,45500,E,3220,E
+56,214,Dominican Republic,254,Oil palm fruit,1966,,,,M,,M
+53,204,Benin,254,Oil palm fruit,1966,10000,E,300000,E,30000,E
+44,170,Colombia,254,Oil palm fruit,1966,15151.5,E,25000,E,1650,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1966,7075.6,E,318400,A,45000,E
+123,430,Liberia,254,Oil palm fruit,1966,10000,E,140000,E,14000,E
+157,558,Nicaragua,254,Oil palm fruit,1966,,,,A,,A
+168,598,Papua New Guinea,254,Oil palm fruit,1966,,,,A,,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1966,9466.7,E,7100,E,750,E
+195,686,Senegal,254,Oil palm fruit,1966,10000,E,70000,E,7000,E
+216,764,Thailand,254,Oil palm fruit,1966,5789.5,E,5500,E,950,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1966,8333.3,E,10000,E,1200,E
+217,768,Togo,254,Oil palm fruit,1966,8333.3,E,125000,E,15000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1966,,,,A,,M
+90,324,Guinea,254,Oil palm fruit,1966,2666.7,E,600000,E,225000,E
+32,120,Cameroon,254,Oil palm fruit,1966,15606.1,E,515000,E,33000,E
+129,450,Madagascar,254,Oil palm fruit,1966,,,,A,,M
+138,484,Mexico,254,Oil palm fruit,1966,12398.1,E,260000,E,20971,A
+170,604,Peru,254,Oil palm fruit,1966,,,,A,,A
+207,740,Suriname,254,Oil palm fruit,1966,,,,A,,A
+25,90,Solomon Islands,254,Oil palm fruit,1966,18181.8,E,1000,E,55,E
+58,218,Ecuador,254,Oil palm fruit,1966,6058.8,E,206000,E,34000,E
+74,266,Gabon,254,Oil palm fruit,1966,6857.1,E,14400,E,2100,E
+75,270,Gambia,254,Oil palm fruit,1966,10000,E,30000,E,3000,E
+131,458,Malaysia,254,Oil palm fruit,1966,14080.1,E,949000,E,67400,X
+46,178,Congo,254,Oil palm fruit,1966,12200,E,61000,E,5000,E
+95,340,Honduras,254,Oil palm fruit,1966,11378.5,A,23599,A,2074,A
+159,566,Nigeria,254,Oil palm fruit,1966,2500,E,6500000,E,2600000,E
+41,156,"China, mainland",254,Oil palm fruit,1966,,,180000,E,,M
+7,24,Angola,254,Oil palm fruit,1966,9473.7,E,180000,E,19000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1967,8333.3,E,10000,E,1200,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1967,,,,A,,M
+7,24,Angola,254,Oil palm fruit,1967,9500,E,190000,E,20000,E
+25,90,Solomon Islands,254,Oil palm fruit,1967,18181.8,E,1000,E,55,E
+32,120,Cameroon,254,Oil palm fruit,1967,15422.2,E,694000,E,45000,E
+53,204,Benin,254,Oil palm fruit,1967,10000,E,300000,E,30000,E
+75,270,Gambia,254,Oil palm fruit,1967,10000,E,30000,E,3000,E
+157,558,Nicaragua,254,Oil palm fruit,1967,,,,A,,A
+195,686,Senegal,254,Oil palm fruit,1967,10000,E,70000,E,7000,E
+216,764,Thailand,254,Oil palm fruit,1967,5789.5,E,5500,E,950,E
+29,108,Burundi,254,Oil palm fruit,1967,7500,E,6000,E,800,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1967,7605,E,342225,A,45000,E
+81,288,Ghana,254,Oil palm fruit,1967,6600.7,E,600000,E,90900,E
+90,324,Guinea,254,Oil palm fruit,1967,2666.7,E,600000,E,225000,E
+123,430,Liberia,254,Oil palm fruit,1967,10000,E,140000,E,14000,E
+48,188,Costa Rica,254,Oil palm fruit,1967,14179.1,E,47500,E,3350,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1967,6900.6,E,1180000,E,171000,A
+138,484,Mexico,254,Oil palm fruit,1967,12427.7,E,232000,E,18668,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1967,9925.4,E,6650,E,670,E
+37,140,Central African Republic,254,Oil palm fruit,1967,8888.9,E,40000,E,4500,E
+44,170,Colombia,254,Oil palm fruit,1967,15178.6,E,85000,E,5600,E
+56,214,Dominican Republic,254,Oil palm fruit,1967,,,,M,,M
+131,458,Malaysia,254,Oil palm fruit,1967,14382.2,E,1129000,E,78500,X
+171,608,Philippines,254,Oil palm fruit,1967,6666.7,E,2000,E,300,E
+207,740,Suriname,254,Oil palm fruit,1967,,,,A,,A
+41,156,"China, mainland",254,Oil palm fruit,1967,,,216000,E,,M
+46,178,Congo,254,Oil palm fruit,1967,13400,E,67000,E,5000,E
+89,320,Guatemala,254,Oil palm fruit,1967,,,,A,,A
+58,218,Ecuador,254,Oil palm fruit,1967,5952.4,E,250000,E,42000,E
+169,600,Paraguay,254,Oil palm fruit,1967,8518.5,E,115000,E,13500,E
+170,604,Peru,254,Oil palm fruit,1967,,,,A,,A
+21,76,Brazil,254,Oil palm fruit,1967,10652.2,E,49000,E,4600,E
+217,768,Togo,254,Oil palm fruit,1967,8333.3,E,125000,E,15000,E
+101,360,Indonesia,254,Oil palm fruit,1967,10976.5,E,933000,E,85000,E
+74,266,Gabon,254,Oil palm fruit,1967,7142.9,E,15000,E,2100,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1967,9500,E,28500,E,3000,E
+95,340,Honduras,254,Oil palm fruit,1967,11378.4,A,26193,A,2302,A
+159,566,Nigeria,254,Oil palm fruit,1967,2500,E,5250000,E,2100000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1967,,,,A,,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1967,8461.5,E,110000,E,13000,E
+197,694,Sierra Leone,254,Oil palm fruit,1967,8064.5,E,250000,E,31000,E
+129,450,Madagascar,254,Oil palm fruit,1967,,,,A,,M
+53,204,Benin,254,Oil palm fruit,1968,10000,E,300000,E,30000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1968,10000,E,30000,E,3000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1968,7500,E,90000,E,12000,E
+101,360,Indonesia,254,Oil palm fruit,1968,11111.1,E,1000000,E,90000,E
+138,484,Mexico,254,Oil palm fruit,1968,12284.3,E,252000,E,20514,A
+157,558,Nicaragua,254,Oil palm fruit,1968,8571.4,E,9000,E,1050,E
+207,740,Suriname,254,Oil palm fruit,1968,,,,A,,A
+217,768,Togo,254,Oil palm fruit,1968,8333.3,E,125000,E,15000,E
+7,24,Angola,254,Oil palm fruit,1968,9500,E,190000,E,20000,E
+25,90,Solomon Islands,254,Oil palm fruit,1968,18181.8,E,1000,E,55,E
+29,108,Burundi,254,Oil palm fruit,1968,8888.9,E,8000,E,900,E
+46,178,Congo,254,Oil palm fruit,1968,15200,E,76000,E,5000,E
+89,320,Guatemala,254,Oil palm fruit,1968,,,,A,,A
+123,430,Liberia,254,Oil palm fruit,1968,10000,E,140000,E,14000,E
+21,76,Brazil,254,Oil palm fruit,1968,10408.2,E,51000,E,4900,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1968,6900,E,1518000,E,220000,A
+81,288,Ghana,254,Oil palm fruit,1968,6000,E,600000,E,100000,E
+95,340,Honduras,254,Oil palm fruit,1968,11378.5,A,29072,A,2555,A
+56,214,Dominican Republic,254,Oil palm fruit,1968,,,,M,,M
+215,834,United Republic of Tanzania,254,Oil palm fruit,1968,8333.3,E,10000,E,1200,E
+129,450,Madagascar,254,Oil palm fruit,1968,,,,A,,M
+159,566,Nigeria,254,Oil palm fruit,1968,2500,E,5250000,E,2100000,E
+169,600,Paraguay,254,Oil palm fruit,1968,8437.5,E,135000,E,16000,E
+171,608,Philippines,254,Oil palm fruit,1968,6666.7,E,2000,E,300,E
+197,694,Sierra Leone,254,Oil palm fruit,1968,8064.5,E,250000,E,31000,E
+32,120,Cameroon,254,Oil palm fruit,1968,15170.2,E,713000,E,47000,E
+37,140,Central African Republic,254,Oil palm fruit,1968,8888.9,E,40000,E,4500,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1968,7802.6,E,351117,A,45000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1968,,,,A,,A
+216,764,Thailand,254,Oil palm fruit,1968,5789.5,E,5500,E,950,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1968,,,,A,,M
+44,170,Colombia,254,Oil palm fruit,1968,14600,E,146000,E,10000,E
+90,324,Guinea,254,Oil palm fruit,1968,2666.7,E,600000,E,225000,E
+41,156,"China, mainland",254,Oil palm fruit,1968,,,264000,E,,M
+58,218,Ecuador,254,Oil palm fruit,1968,6000,E,300000,E,50000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1968,9909.1,E,5450,E,550,E
+195,686,Senegal,254,Oil palm fruit,1968,10000,E,70000,E,7000,E
+75,270,Gambia,254,Oil palm fruit,1968,10000,E,30000,E,3000,E
+74,266,Gabon,254,Oil palm fruit,1968,8285.7,E,17400,E,2100,E
+48,188,Costa Rica,254,Oil palm fruit,1968,14166.7,E,51000,E,3600,E
+170,604,Peru,254,Oil palm fruit,1968,,,,A,,A
+131,458,Malaysia,254,Oil palm fruit,1968,14278.5,E,1415000,E,99100,X
+21,76,Brazil,254,Oil palm fruit,1969,10545.5,E,58000,E,5500,E
+25,90,Solomon Islands,254,Oil palm fruit,1969,18181.8,E,2000,E,110,E
+58,218,Ecuador,254,Oil palm fruit,1969,6060.6,E,200000,E,33000,E
+81,288,Ghana,254,Oil palm fruit,1969,6000,E,600000,E,100000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1969,8300.7,E,373532,A,45000,E
+123,430,Liberia,254,Oil palm fruit,1969,10000,E,125000,E,12500,E
+129,450,Madagascar,254,Oil palm fruit,1969,,,,A,,M
+159,566,Nigeria,254,Oil palm fruit,1969,2500,E,5500000,E,2200000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1969,8333.3,E,10000,E,1200,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1969,6879.2,E,1532000,E,222700,A
+53,204,Benin,254,Oil palm fruit,1969,10000,A,300000,A,30000,A
+48,188,Costa Rica,254,Oil palm fruit,1969,14150.9,E,60000,E,4240,E
+75,270,Gambia,254,Oil palm fruit,1969,10000,E,30000,E,3000,E
+90,324,Guinea,254,Oil palm fruit,1969,2666.7,E,600000,E,225000,E
+169,600,Paraguay,254,Oil palm fruit,1969,8523.5,E,127000,E,14900,E
+46,178,Congo,254,Oil palm fruit,1969,14181.8,E,78000,E,5500,E
+89,320,Guatemala,254,Oil palm fruit,1969,,,,A,,A
+101,360,Indonesia,254,Oil palm fruit,1969,13333.3,E,1200000,E,90000,E
+138,484,Mexico,254,Oil palm fruit,1969,10631,E,186000,E,17496,A
+157,558,Nicaragua,254,Oil palm fruit,1969,8571.4,E,9000,E,1050,E
+216,764,Thailand,254,Oil palm fruit,1969,5789.5,E,5500,E,950,E
+168,598,Papua New Guinea,254,Oil palm fruit,1969,,,,A,,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1969,9381.8,E,5160,E,550,E
+195,686,Senegal,254,Oil palm fruit,1969,10000,E,70000,E,7000,E
+32,120,Cameroon,254,Oil palm fruit,1969,14953.5,E,643000,E,43000,E
+56,214,Dominican Republic,254,Oil palm fruit,1969,,,,M,,M
+7,24,Angola,254,Oil palm fruit,1969,9565.2,E,220000,E,23000,E
+74,266,Gabon,254,Oil palm fruit,1969,6857.1,E,14400,E,2100,E
+170,604,Peru,254,Oil palm fruit,1969,,,,A,,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1969,8000,E,100000,E,12500,E
+217,768,Togo,254,Oil palm fruit,1969,8333.3,E,125000,E,15000,E
+37,140,Central African Republic,254,Oil palm fruit,1969,9230.8,E,60000,E,6500,E
+41,156,"China, mainland",254,Oil palm fruit,1969,,,300000,E,,M
+44,170,Colombia,254,Oil palm fruit,1969,15000,E,150000,E,10000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1969,10000,E,30000,E,3000,E
+171,608,Philippines,254,Oil palm fruit,1969,6666.7,E,4000,E,600,E
+197,694,Sierra Leone,254,Oil palm fruit,1969,8064.5,E,250000,E,31000,E
+131,458,Malaysia,254,Oil palm fruit,1969,14043.1,E,1761000,E,125400,X
+95,340,Honduras,254,Oil palm fruit,1969,11378.3,A,32269,A,2836,A
+207,740,Suriname,254,Oil palm fruit,1969,,,,A,,A
+29,108,Burundi,254,Oil palm fruit,1969,9090.9,E,10000,E,1100,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1969,,,,A,,M
+32,120,Cameroon,254,Oil palm fruit,1970,15081.1,E,558000,E,37000,E
+44,170,Colombia,254,Oil palm fruit,1970,15217.4,E,175000,E,11500,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1970,10676.6,E,480445,A,45000,E
+25,90,Solomon Islands,254,Oil palm fruit,1970,18181.8,E,2000,E,110,E
+48,188,Costa Rica,254,Oil palm fruit,1970,14130.4,E,65000,E,4600,E
+95,340,Honduras,254,Oil palm fruit,1970,11378.3,A,35819,A,3148,A
+7,24,Angola,254,Oil palm fruit,1970,9523.8,E,200000,E,21000,E
+37,140,Central African Republic,254,Oil palm fruit,1970,9230.8,E,60000,E,6500,E
+81,288,Ghana,254,Oil palm fruit,1970,6275.9,A,696000,A,110900,A
+90,324,Guinea,254,Oil palm fruit,1970,2666.7,E,600000,E,225000,E
+101,360,Indonesia,254,Oil palm fruit,1970,13000,E,1300000,E,100000,A
+169,600,Paraguay,254,Oil palm fruit,1970,8524.6,E,156000,E,18300,E
+170,604,Peru,254,Oil palm fruit,1970,8967.7,A,278,A,31,A
+171,608,Philippines,254,Oil palm fruit,1970,7000,E,7700,E,1100,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1970,9000,E,4500,E,500,E
+53,204,Benin,254,Oil palm fruit,1970,10000,A,300000,A,30000,A
+29,108,Burundi,254,Oil palm fruit,1970,9666.7,E,11600,A,1200,E
+46,178,Congo,254,Oil palm fruit,1970,14181.8,E,78000,E,5500,E
+74,266,Gabon,254,Oil palm fruit,1970,6285.7,E,13200,E,2100,E
+131,458,Malaysia,254,Oil palm fruit,1970,14376.3,E,2155000,E,149900,X
+159,566,Nigeria,254,Oil palm fruit,1970,2500,E,5375000,E,2150000,E
+197,694,Sierra Leone,254,Oil palm fruit,1970,8064.5,E,250000,E,31000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1970,,,,A,,M
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1970,6880.7,A,1475900,A,214500,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1970,7368.4,E,70000,E,9500,E
+157,558,Nicaragua,254,Oil palm fruit,1970,8571.4,E,9000,E,1050,E
+21,76,Brazil,254,Oil palm fruit,1970,10454.5,E,23000,E,2200,E
+56,214,Dominican Republic,254,Oil palm fruit,1970,,,,M,,M
+123,430,Liberia,254,Oil palm fruit,1970,10000,E,130000,E,13000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1970,8333.3,E,10000,E,1200,E
+41,156,"China, mainland",254,Oil palm fruit,1970,,,336000,E,,M
+195,686,Senegal,254,Oil palm fruit,1970,10000,E,70000,E,7000,E
+216,764,Thailand,254,Oil palm fruit,1970,5789.5,E,5500,E,950,E
+217,768,Togo,254,Oil palm fruit,1970,8333.3,E,125000,E,15000,E
+75,270,Gambia,254,Oil palm fruit,1970,10000,E,30000,E,3000,E
+138,484,Mexico,254,Oil palm fruit,1970,10615.7,E,140000,E,13188,A
+58,218,Ecuador,254,Oil palm fruit,1970,6000,E,150000,E,25000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1970,,,,A,,A
+89,320,Guatemala,254,Oil palm fruit,1970,,,,A,,A
+207,740,Suriname,254,Oil palm fruit,1970,,,,M,50,A
+129,450,Madagascar,254,Oil palm fruit,1970,,,,A,,M
+61,226,Equatorial Guinea,254,Oil palm fruit,1970,10000,E,30000,E,3000,E
+129,450,Madagascar,254,Oil palm fruit,1971,,,,A,,M
+159,566,Nigeria,254,Oil palm fruit,1971,2500,E,5375000,E,2150000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1971,9111.1,E,4100,E,450,E
+195,686,Senegal,254,Oil palm fruit,1971,10000,E,70000,E,7000,E
+21,76,Brazil,254,Oil palm fruit,1971,10400,E,26000,E,2500,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1971,10000,E,30000,E,3000,E
+75,270,Gambia,254,Oil palm fruit,1971,10000,E,30000,E,3000,E
+90,324,Guinea,254,Oil palm fruit,1971,2666.7,E,600000,E,225000,E
+101,360,Indonesia,254,Oil palm fruit,1971,15789.5,E,1500000,E,95000,E
+157,558,Nicaragua,254,Oil palm fruit,1971,8571.4,E,9000,E,1050,E
+197,694,Sierra Leone,254,Oil palm fruit,1971,8064.5,E,250000,E,31000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1971,,,,A,,M
+53,204,Benin,254,Oil palm fruit,1971,10000,A,300000,A,30000,A
+29,108,Burundi,254,Oil palm fruit,1971,9916.7,E,11900,A,1200,E
+74,266,Gabon,254,Oil palm fruit,1971,6857.1,E,14400,E,2100,E
+216,764,Thailand,254,Oil palm fruit,1971,5789.5,E,5500,E,950,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1971,10759.5,E,537973,A,50000,E
+169,600,Paraguay,254,Oil palm fruit,1971,8500,E,204000,E,24000,E
+170,604,Peru,254,Oil palm fruit,1971,3433.6,A,776,A,226,A
+171,608,Philippines,254,Oil palm fruit,1971,6857.1,E,9600,E,1400,E
+217,768,Togo,254,Oil palm fruit,1971,8387.1,E,130000,E,15500,E
+37,140,Central African Republic,254,Oil palm fruit,1971,9230.8,E,60000,E,6500,E
+44,170,Colombia,254,Oil palm fruit,1971,14492.8,E,200000,E,13800,A
+32,120,Cameroon,254,Oil palm fruit,1971,15000,E,510000,E,34000,E
+46,178,Congo,254,Oil palm fruit,1971,14181.8,E,78000,E,5500,E
+56,214,Dominican Republic,254,Oil palm fruit,1971,,,,M,,M
+123,430,Liberia,254,Oil palm fruit,1971,10000,E,180000,E,18000,E
+138,484,Mexico,254,Oil palm fruit,1971,13649.7,E,149000,E,10916,A
+25,90,Solomon Islands,254,Oil palm fruit,1971,17857.1,E,2500,E,140,E
+89,320,Guatemala,254,Oil palm fruit,1971,,,,A,,A
+207,740,Suriname,254,Oil palm fruit,1971,,,,M,330,A
+7,24,Angola,254,Oil palm fruit,1971,9523.8,E,200000,E,21000,E
+41,156,"China, mainland",254,Oil palm fruit,1971,,,384000,E,,M
+215,834,United Republic of Tanzania,254,Oil palm fruit,1971,10000,E,40000,E,4000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1971,6842.3,A,1405400,A,205400,A
+48,188,Costa Rica,254,Oil palm fruit,1971,14000,E,70000,E,5000,E
+81,288,Ghana,254,Oil palm fruit,1971,6275.9,A,696000,A,110900,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1971,8421.1,E,80000,E,9500,E
+95,340,Honduras,254,Oil palm fruit,1971,9821.5,A,32578,A,3317,A
+131,458,Malaysia,254,Oil palm fruit,1971,15771.7,E,2902000,E,184000,X
+168,598,Papua New Guinea,254,Oil palm fruit,1971,16666.7,E,5000,E,300,E
+58,218,Ecuador,254,Oil palm fruit,1971,6000,E,216000,E,36000,E
+37,140,Central African Republic,254,Oil palm fruit,1972,9411.8,E,80000,E,8500,E
+41,156,"China, mainland",254,Oil palm fruit,1972,,,444000,E,,M
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1972,6738,A,1324700,A,196600,A
+75,270,Gambia,254,Oil palm fruit,1972,10000,E,30000,E,3000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1972,8235.3,E,70000,E,8500,E
+131,458,Malaysia,254,Oil palm fruit,1972,14555.5,E,3422000,E,235100,X
+159,566,Nigeria,254,Oil palm fruit,1972,2500,E,5000000,E,2000000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1972,16666.7,E,25000,E,1500,E
+7,24,Angola,254,Oil palm fruit,1972,9523.8,E,200000,E,21000,E
+25,90,Solomon Islands,254,Oil palm fruit,1972,17857.1,E,2500,E,140,E
+29,108,Burundi,254,Oil palm fruit,1972,9727.3,E,10700,A,1100,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1972,10000,E,31000,E,3100,E
+74,266,Gabon,254,Oil palm fruit,1972,6857.1,E,14400,E,2100,E
+81,288,Ghana,254,Oil palm fruit,1972,6275.4,A,711000,A,113300,A
+123,430,Liberia,254,Oil palm fruit,1972,10000,E,150000,E,15000,E
+169,600,Paraguay,254,Oil palm fruit,1972,8484.8,E,168000,E,19800,E
+170,604,Peru,254,Oil palm fruit,1972,3000,A,18,A,6,A
+195,686,Senegal,254,Oil palm fruit,1972,10000,E,70000,E,7000,E
+207,740,Suriname,254,Oil palm fruit,1972,,,,M,840,A
+53,204,Benin,254,Oil palm fruit,1972,10000,A,300000,A,30000,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,1972,13329.1,A,677251,A,50810,A
+58,218,Ecuador,254,Oil palm fruit,1972,6060.6,E,200000,E,33000,E
+171,608,Philippines,254,Oil palm fruit,1972,7037,E,19000,E,2700,E
+21,76,Brazil,254,Oil palm fruit,1972,10000,E,27000,E,2700,E
+95,340,Honduras,254,Oil palm fruit,1972,9785.6,A,37929,A,3876,A
+101,360,Indonesia,254,Oil palm fruit,1972,16000,E,1600000,E,100000,E
+197,694,Sierra Leone,254,Oil palm fruit,1972,8064.5,E,250000,E,31000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1972,,,,A,,M
+90,324,Guinea,254,Oil palm fruit,1972,2666.7,E,600000,E,225000,E
+129,450,Madagascar,254,Oil palm fruit,1972,,,,A,,M
+217,768,Togo,254,Oil palm fruit,1972,8516.1,E,132000,E,15500,E
+89,320,Guatemala,254,Oil palm fruit,1972,,,,A,,A
+138,484,Mexico,254,Oil palm fruit,1972,8607.2,E,110000,E,12780,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1972,8625,E,3450,E,400,E
+32,120,Cameroon,254,Oil palm fruit,1972,15200,E,532000,E,35000,E
+48,188,Costa Rica,254,Oil palm fruit,1972,14000,E,70000,E,5000,E
+56,214,Dominican Republic,254,Oil palm fruit,1972,,,,M,,M
+157,558,Nicaragua,254,Oil palm fruit,1972,8571.4,E,9000,E,1050,E
+216,764,Thailand,254,Oil palm fruit,1972,5789.5,E,5500,E,950,E
+44,170,Colombia,254,Oil palm fruit,1972,15333.3,E,230000,X,15000,A
+46,178,Congo,254,Oil palm fruit,1972,14181.8,E,78000,E,5500,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1972,10000,E,40000,E,4000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1973,6670.8,A,1238100,A,185600,A
+129,450,Madagascar,254,Oil palm fruit,1973,8600,E,2150,E,250,E
+170,604,Peru,254,Oil palm fruit,1973,3000,A,18,A,6,A
+21,76,Brazil,254,Oil palm fruit,1973,10344.8,E,30000,E,2900,E
+56,214,Dominican Republic,254,Oil palm fruit,1973,,,,M,,M
+58,218,Ecuador,254,Oil palm fruit,1973,6148.1,E,166000,E,27000,E
+81,288,Ghana,254,Oil palm fruit,1973,6276.1,A,782000,A,124600,A
+101,360,Indonesia,254,Oil palm fruit,1973,17500,E,1750000,E,100000,E
+216,764,Thailand,254,Oil palm fruit,1973,5833.3,E,10500,E,1800,E
+168,598,Papua New Guinea,254,Oil palm fruit,1973,16666.7,E,50000,E,3000,E
+197,694,Sierra Leone,254,Oil palm fruit,1973,8064.5,E,250000,E,31000,E
+25,90,Solomon Islands,254,Oil palm fruit,1973,17857.1,E,2500,E,140,E
+53,204,Benin,254,Oil palm fruit,1973,10000,A,300000,A,30000,A
+29,108,Burundi,254,Oil palm fruit,1973,9307.7,E,12100,A,1300,E
+48,188,Costa Rica,254,Oil palm fruit,1973,14177.2,E,112000,E,7900,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1973,11436.3,A,684519,A,59855,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1973,10161.3,E,31500,E,3100,E
+195,686,Senegal,254,Oil palm fruit,1973,10000,E,70000,E,7000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1973,9500,E,38000,E,4000,E
+75,270,Gambia,254,Oil palm fruit,1973,10000,E,30000,E,3000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1973,7058.8,E,60000,E,8500,E
+138,484,Mexico,254,Oil palm fruit,1973,9722.5,E,130000,E,13371,A
+157,558,Nicaragua,254,Oil palm fruit,1973,8571.4,E,12000,E,1400,E
+159,566,Nigeria,254,Oil palm fruit,1973,2500,E,5000000,E,2000000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1973,9468.1,E,4450,E,470,E
+217,768,Togo,254,Oil palm fruit,1973,8516.1,E,132000,E,15500,E
+32,120,Cameroon,254,Oil palm fruit,1973,15361.1,E,553000,E,36000,E
+44,170,Colombia,254,Oil palm fruit,1973,14812.1,E,244400,X,16500,A
+74,266,Gabon,254,Oil palm fruit,1973,6857.1,E,14400,E,2100,E
+41,156,"China, mainland",254,Oil palm fruit,1973,,,456000,E,,M
+89,320,Guatemala,254,Oil palm fruit,1973,,,,A,,A
+123,430,Liberia,254,Oil palm fruit,1973,10000,E,140000,E,14000,E
+207,740,Suriname,254,Oil palm fruit,1973,,,,M,1215,A
+37,140,Central African Republic,254,Oil palm fruit,1973,9411.8,E,80000,E,8500,E
+46,178,Congo,254,Oil palm fruit,1973,13258.5,E,78000,E,5883,A
+131,458,Malaysia,254,Oil palm fruit,1973,13905.9,E,3870000,E,278300,X
+171,608,Philippines,254,Oil palm fruit,1973,6923.1,E,27000,E,3900,E
+90,324,Guinea,254,Oil palm fruit,1973,2666.7,E,600000,E,225000,E
+95,340,Honduras,254,Oil palm fruit,1973,8278.1,A,45000,A,5436,A
+169,600,Paraguay,254,Oil palm fruit,1973,8518.5,E,115000,E,13500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1973,,,,A,,M
+7,24,Angola,254,Oil palm fruit,1973,9523.8,E,200000,E,21000,E
+21,76,Brazil,254,Oil palm fruit,1974,10322.6,E,32000,E,3100,E
+74,266,Gabon,254,Oil palm fruit,1974,7142.9,E,15000,E,2100,E
+81,288,Ghana,254,Oil palm fruit,1974,6273.1,A,916500,A,146100,A
+123,430,Liberia,254,Oil palm fruit,1974,10000,E,170000,E,17000,E
+138,484,Mexico,254,Oil palm fruit,1974,9887.3,E,136000,E,13755,A
+195,686,Senegal,254,Oil palm fruit,1974,10000,E,70000,E,7000,E
+217,768,Togo,254,Oil palm fruit,1974,8544.3,E,135000,E,15800,E
+32,120,Cameroon,254,Oil palm fruit,1974,15513.5,E,574000,E,37000,E
+58,218,Ecuador,254,Oil palm fruit,1974,6428.6,E,90000,E,14000,E
+171,608,Philippines,254,Oil palm fruit,1974,6923.1,E,27000,E,3900,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1974,8333.3,E,100000,E,12000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1974,8888.9,E,4000,E,450,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1974,9500,E,38000,E,4000,E
+37,140,Central African Republic,254,Oil palm fruit,1974,9411.8,E,80000,E,8500,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1974,13762.5,A,915233,A,66502,A
+89,320,Guatemala,254,Oil palm fruit,1974,,,,A,,A
+131,458,Malaysia,254,Oil palm fruit,1974,15103.1,E,4981000,E,329800,X
+53,204,Benin,254,Oil palm fruit,1974,10000,A,300000,A,30000,A
+44,170,Colombia,254,Oil palm fruit,1974,15505.5,E,282200,X,18200,A
+46,178,Congo,254,Oil palm fruit,1974,13000,E,78000,E,6000,E
+95,340,Honduras,254,Oil palm fruit,1974,8479.9,A,50557,A,5962,A
+170,604,Peru,254,Oil palm fruit,1974,3000,A,18,A,6,A
+197,694,Sierra Leone,254,Oil palm fruit,1974,8064.5,E,250000,E,31000,E
+25,90,Solomon Islands,254,Oil palm fruit,1974,18518.5,E,5000,E,270,E
+207,740,Suriname,254,Oil palm fruit,1974,1149.8,A,1650,A,1435,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1974,,,,A,,M
+7,24,Angola,254,Oil palm fruit,1974,9523.8,E,200000,E,21000,E
+90,324,Guinea,254,Oil palm fruit,1974,2666.7,E,600000,E,225000,E
+101,360,Indonesia,254,Oil palm fruit,1974,18181.8,E,2000000,E,110000,E
+157,558,Nicaragua,254,Oil palm fruit,1974,8571.4,E,12000,E,1400,E
+56,214,Dominican Republic,254,Oil palm fruit,1974,,,,M,,M
+168,598,Papua New Guinea,254,Oil palm fruit,1974,16666.7,E,50000,E,3000,E
+169,600,Paraguay,254,Oil palm fruit,1974,8512.8,E,166000,E,19500,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1974,10322.6,E,32000,E,3100,E
+75,270,Gambia,254,Oil palm fruit,1974,10000,E,35000,E,3500,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1974,6646.9,A,1174500,A,176700,A
+29,108,Burundi,254,Oil palm fruit,1974,9700,E,9700,A,1000,E
+48,188,Costa Rica,254,Oil palm fruit,1974,13924.1,E,110000,E,7900,E
+216,764,Thailand,254,Oil palm fruit,1974,5833.3,E,10500,E,1800,E
+129,450,Madagascar,254,Oil palm fruit,1974,10288.9,E,4630,E,450,E
+159,566,Nigeria,254,Oil palm fruit,1974,2500,E,5375000,E,2150000,E
+41,156,"China, mainland",254,Oil palm fruit,1974,,,468000,E,,M
+7,24,Angola,254,Oil palm fruit,1975,9523.8,E,200000,E,21000,E
+217,768,Togo,254,Oil palm fruit,1975,8354.4,E,132000,E,15800,E
+25,90,Solomon Islands,254,Oil palm fruit,1975,17142.9,E,12000,E,700,E
+58,218,Ecuador,254,Oil palm fruit,1975,6407.6,E,94512,A,14750,X
+157,558,Nicaragua,254,Oil palm fruit,1975,8571.4,E,12000,E,1400,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1975,8000,E,2000,E,250,E
+216,764,Thailand,254,Oil palm fruit,1975,5823.5,E,29700,E,5100,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1975,6667.6,A,1155500,A,173300,A
+37,140,Central African Republic,254,Oil palm fruit,1975,9090.9,E,100000,E,11000,E
+74,266,Gabon,254,Oil palm fruit,1975,6000,E,12000,E,2000,E
+159,566,Nigeria,254,Oil palm fruit,1975,2500,E,5250000,E,2100000,E
+197,694,Sierra Leone,254,Oil palm fruit,1975,8064.5,E,250000,E,31000,E
+46,178,Congo,254,Oil palm fruit,1975,13000,E,78000,E,6000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1975,10161.3,E,31500,E,3100,E
+101,360,Indonesia,254,Oil palm fruit,1975,16197.2,E,2300000,E,142000,A
+129,450,Madagascar,254,Oil palm fruit,1975,10384.6,E,13500,E,1300,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1975,10000,E,40000,E,4000,E
+53,204,Benin,254,Oil palm fruit,1975,10000,A,300000,A,30000,A
+90,324,Guinea,254,Oil palm fruit,1975,2666.7,E,600000,E,225000,E
+123,430,Liberia,254,Oil palm fruit,1975,10000,E,180000,E,18000,E
+138,484,Mexico,254,Oil palm fruit,1975,13441.9,E,104000,E,7737,A
+32,120,Cameroon,254,Oil palm fruit,1975,15000,E,630000,E,42000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1975,8000,E,80000,E,10000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1975,,,,A,,M
+44,170,Colombia,254,Oil palm fruit,1975,16433.1,E,258000,X,15700,A
+75,270,Gambia,254,Oil palm fruit,1975,10000,E,35000,E,3500,E
+131,458,Malaysia,254,Oil palm fruit,1975,16076.1,E,6200000,E,385666,A
+169,600,Paraguay,254,Oil palm fruit,1975,8478.3,E,117000,E,13800,E
+171,608,Philippines,254,Oil palm fruit,1975,7037,E,38000,E,5400,E
+21,76,Brazil,254,Oil palm fruit,1975,10606.1,E,35000,E,3300,E
+48,188,Costa Rica,254,Oil palm fruit,1975,13924.1,E,110000,E,7900,E
+81,288,Ghana,254,Oil palm fruit,1975,6272.1,A,901300,A,143700,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,1975,13902.1,A,963235,A,69287,A
+41,156,"China, mainland",254,Oil palm fruit,1975,,,468000,E,,M
+56,214,Dominican Republic,254,Oil palm fruit,1975,,,,M,,M
+168,598,Papua New Guinea,254,Oil palm fruit,1975,15384.6,E,100000,E,6500,E
+170,604,Peru,254,Oil palm fruit,1975,3000,A,4344,A,1448,A
+95,340,Honduras,254,Oil palm fruit,1975,6518.3,A,50002,A,7671,A
+89,320,Guatemala,254,Oil palm fruit,1975,,,,A,,A
+195,686,Senegal,254,Oil palm fruit,1975,10000,E,70000,E,7000,E
+29,108,Burundi,254,Oil palm fruit,1975,9666.7,E,11600,A,1200,E
+207,740,Suriname,254,Oil palm fruit,1975,1960.5,A,3225,A,1645,A
+25,90,Solomon Islands,254,Oil palm fruit,1976,20824.3,A,21220,A,1019,A
+48,188,Costa Rica,254,Oil palm fruit,1976,14197.5,E,115000,E,8100,E
+90,324,Guinea,254,Oil palm fruit,1976,2666.7,E,600000,E,225000,E
+171,608,Philippines,254,Oil palm fruit,1976,7000,E,42000,E,6000,E
+29,108,Burundi,254,Oil palm fruit,1976,9666.7,E,11600,A,1200,E
+41,156,"China, mainland",254,Oil palm fruit,1976,,,492000,E,,M
+107,384,Côte d'Ivoire,254,Oil palm fruit,1976,13510,A,968570,A,71693,A
+58,218,Ecuador,254,Oil palm fruit,1976,5951.3,E,111587,A,18750,X
+74,266,Gabon,254,Oil palm fruit,1976,6000,E,12000,E,2000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1976,8000,E,80000,E,10000,E
+101,360,Indonesia,254,Oil palm fruit,1976,17692.3,E,2300000,E,130000,E
+170,604,Peru,254,Oil palm fruit,1976,3250.2,A,4118,A,1267,A
+207,740,Suriname,254,Oil palm fruit,1976,3888.9,A,6650,A,1710,A
+53,204,Benin,254,Oil palm fruit,1976,10000,A,300000,A,30000,A
+44,170,Colombia,254,Oil palm fruit,1976,15300,E,244800,X,16000,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1976,6672.6,A,1117000,A,167400,A
+168,598,Papua New Guinea,254,Oil palm fruit,1976,15789.5,E,150000,E,9500,E
+217,768,Togo,254,Oil palm fruit,1976,8291.1,E,131000,E,15800,E
+21,76,Brazil,254,Oil palm fruit,1976,10465.1,E,45000,E,4300,E
+32,120,Cameroon,254,Oil palm fruit,1976,15151.5,E,500000,E,33000,E
+37,140,Central African Republic,254,Oil palm fruit,1976,9090.9,E,100000,E,11000,E
+46,178,Congo,254,Oil palm fruit,1976,13000,E,78000,E,6000,E
+56,214,Dominican Republic,254,Oil palm fruit,1976,,,,M,,M
+95,340,Honduras,254,Oil palm fruit,1976,6181.1,A,47656,A,7710,A
+138,484,Mexico,254,Oil palm fruit,1976,12137.5,E,149000,E,12276,A
+159,566,Nigeria,254,Oil palm fruit,1976,2500,E,5250000,E,2100000,E
+157,558,Nicaragua,254,Oil palm fruit,1976,8571.4,E,12000,E,1400,E
+195,686,Senegal,254,Oil palm fruit,1976,10000,E,70000,E,7000,E
+169,600,Paraguay,254,Oil palm fruit,1976,8551.7,E,124000,E,14500,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1976,9714.3,E,34000,E,3500,E
+75,270,Gambia,254,Oil palm fruit,1976,10000,E,40000,E,4000,E
+129,450,Madagascar,254,Oil palm fruit,1976,5180,E,5180,E,1000,E
+81,288,Ghana,254,Oil palm fruit,1976,6287.5,A,901000,A,143300,A
+216,764,Thailand,254,Oil palm fruit,1976,10843,A,37300,A,3440,A
+123,430,Liberia,254,Oil palm fruit,1976,10000,E,170000,E,17000,E
+131,458,Malaysia,254,Oil palm fruit,1976,14316.9,E,6500000,E,454009,A
+89,320,Guatemala,254,Oil palm fruit,1976,,,,A,,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1976,8958.3,E,2150,E,240,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1976,10000,E,40000,E,4000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1976,,,,A,,M
+7,24,Angola,254,Oil palm fruit,1976,10000,E,190000,E,19000,E
+197,694,Sierra Leone,254,Oil palm fruit,1976,8064.5,E,250000,E,31000,E
+37,140,Central African Republic,254,Oil palm fruit,1977,9782.6,E,90000,E,9200,E
+46,178,Congo,254,Oil palm fruit,1977,11857.1,E,83000,E,7000,E
+58,218,Ecuador,254,Oil palm fruit,1977,8750,A,124801,A,14263,A
+74,266,Gabon,254,Oil palm fruit,1977,6000,E,9600,E,1600,E
+89,320,Guatemala,254,Oil palm fruit,1977,,,,A,,A
+169,600,Paraguay,254,Oil palm fruit,1977,8487.8,E,174000,E,20500,E
+197,694,Sierra Leone,254,Oil palm fruit,1977,8064.5,E,250000,E,31000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1977,10000,E,35000,E,3500,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1977,11542.8,A,854824,A,74057,A
+123,430,Liberia,254,Oil palm fruit,1977,10000,E,140000,E,14000,E
+29,108,Burundi,254,Oil palm fruit,1977,9583.3,E,11500,A,1200,E
+90,324,Guinea,254,Oil palm fruit,1977,2666.7,E,600000,E,225000,E
+217,768,Togo,254,Oil palm fruit,1977,8227.8,E,130000,E,15800,E
+44,170,Colombia,254,Oil palm fruit,1977,15155.2,E,263700,X,17400,A
+171,608,Philippines,254,Oil palm fruit,1977,7000,E,42000,E,6000,E
+195,686,Senegal,254,Oil palm fruit,1977,10000,E,70000,E,7000,E
+101,360,Indonesia,254,Oil palm fruit,1977,17142.9,E,2400000,E,140000,E
+129,450,Madagascar,254,Oil palm fruit,1977,10409.1,E,11450,E,1100,E
+138,484,Mexico,254,Oil palm fruit,1977,22104.8,E,138000,E,6243,A
+159,566,Nigeria,254,Oil palm fruit,1977,2500,E,5375000,E,2150000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1977,15789.5,E,150000,E,9500,E
+170,604,Peru,254,Oil palm fruit,1977,10496.2,A,17959,A,1711,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1977,,,,A,,M
+25,90,Solomon Islands,254,Oil palm fruit,1977,13021.5,A,32085,A,2464,A
+48,188,Costa Rica,254,Oil palm fruit,1977,14197.5,E,115000,E,8100,E
+131,458,Malaysia,254,Oil palm fruit,1977,14382,E,7500000,E,521486,A
+216,764,Thailand,254,Oil palm fruit,1977,12207.4,A,45900,A,3760,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1977,6649.4,A,1103800,A,166000,A
+32,120,Cameroon,254,Oil palm fruit,1977,15151.5,E,500000,E,33000,E
+53,204,Benin,254,Oil palm fruit,1977,10000,A,300000,A,30000,A
+75,270,Gambia,254,Oil palm fruit,1977,10000,E,40000,E,4000,E
+157,558,Nicaragua,254,Oil palm fruit,1977,8571.4,E,12000,E,1400,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1977,8500,E,1700,E,200,E
+207,740,Suriname,254,Oil palm fruit,1977,5375.5,A,10106,A,1880,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1977,10000,E,40000,E,4000,E
+21,76,Brazil,254,Oil palm fruit,1977,10526.3,E,60000,E,5700,E
+81,288,Ghana,254,Oil palm fruit,1977,5278.6,A,739000,A,140000,A
+41,156,"China, mainland",254,Oil palm fruit,1977,,,480000,E,,M
+95,340,Honduras,254,Oil palm fruit,1977,3817.4,A,50600,A,13255,A
+56,214,Dominican Republic,254,Oil palm fruit,1977,,,,M,,M
+7,24,Angola,254,Oil palm fruit,1977,9444.4,E,170000,E,18000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1977,8461.5,E,110000,E,13000,E
+7,24,Angola,254,Oil palm fruit,1978,9500,E,190000,E,20000,E
+29,108,Burundi,254,Oil palm fruit,1978,10000,E,16000,A,1600,E
+46,178,Congo,254,Oil palm fruit,1978,11857.1,E,83000,E,7000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1978,11949.1,A,924407,A,77362,A
+159,566,Nigeria,254,Oil palm fruit,1978,2500,E,5000000,E,2000000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1978,10750,E,43000,E,4000,E
+21,76,Brazil,254,Oil palm fruit,1978,10563.4,E,75000,E,7100,E
+41,156,"China, mainland",254,Oil palm fruit,1978,,,504000,E,,M
+44,170,Colombia,254,Oil palm fruit,1978,15739.6,E,302200,X,19200,A
+48,188,Costa Rica,254,Oil palm fruit,1978,15102,E,148000,E,9800,E
+56,214,Dominican Republic,254,Oil palm fruit,1978,,,,M,,M
+90,324,Guinea,254,Oil palm fruit,1978,2666.7,E,600000,E,225000,E
+95,340,Honduras,254,Oil palm fruit,1978,3709.3,A,56745,A,15298,A
+101,360,Indonesia,254,Oil palm fruit,1978,13888.9,E,2500000,E,180000,E
+171,608,Philippines,254,Oil palm fruit,1978,6909.1,E,38000,E,5500,E
+216,764,Thailand,254,Oil palm fruit,1978,10381.1,A,58300,A,5616,A
+123,430,Liberia,254,Oil palm fruit,1978,10000,E,125000,E,12500,E
+131,458,Malaysia,254,Oil palm fruit,1978,16415.5,E,9900000,E,603087,A
+138,484,Mexico,254,Oil palm fruit,1978,20649,E,84000,E,4068,A
+32,120,Cameroon,254,Oil palm fruit,1978,15555.6,E,560000,E,36000,E
+58,218,Ecuador,254,Oil palm fruit,1978,6198.9,X,162100,X,26150,X
+75,270,Gambia,254,Oil palm fruit,1978,10000,E,35000,E,3500,E
+129,450,Madagascar,254,Oil palm fruit,1978,10454.5,E,11500,E,1100,E
+168,598,Papua New Guinea,254,Oil palm fruit,1978,15789.5,E,150000,E,9500,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1978,8500,E,1700,E,200,E
+25,90,Solomon Islands,254,Oil palm fruit,1978,15903.8,A,47616,A,2994,A
+217,768,Togo,254,Oil palm fruit,1978,8227.8,E,130000,E,15800,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1978,6630.9,A,1088800,A,164200,A
+74,266,Gabon,254,Oil palm fruit,1978,5250,E,8400,E,1600,E
+170,604,Peru,254,Oil palm fruit,1978,12831.1,A,21954,A,1711,A
+37,140,Central African Republic,254,Oil palm fruit,1978,10000,E,80000,E,8000,E
+157,558,Nicaragua,254,Oil palm fruit,1978,8571.4,E,18000,E,2100,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1978,10285.7,E,36000,E,3500,E
+207,740,Suriname,254,Oil palm fruit,1978,7330.4,A,14844,A,2025,A
+53,204,Benin,254,Oil palm fruit,1978,10000,A,300000,A,30000,A
+169,600,Paraguay,254,Oil palm fruit,1978,8474.6,E,100000,E,11800,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1978,10000,E,130000,E,13000,E
+195,686,Senegal,254,Oil palm fruit,1978,10000,E,70000,E,7000,E
+197,694,Sierra Leone,254,Oil palm fruit,1978,8064.5,E,250000,E,31000,E
+81,288,Ghana,254,Oil palm fruit,1978,6233.3,A,935000,A,150000,A
+89,320,Guatemala,254,Oil palm fruit,1978,,,,A,,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1978,,,,A,,M
+21,76,Brazil,254,Oil palm fruit,1979,10526.3,E,80000,E,7600,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1979,10613.4,A,849319,A,80023,A
+56,214,Dominican Republic,254,Oil palm fruit,1979,,,,M,,M
+74,266,Gabon,254,Oil palm fruit,1979,6000,E,9600,E,1600,E
+131,458,Malaysia,254,Oil palm fruit,1979,15963,E,10700000,E,670299,A
+159,566,Nigeria,254,Oil palm fruit,1979,2500,E,5750000,E,2300000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1979,15909.1,E,175000,E,11000,E
+169,600,Paraguay,254,Oil palm fruit,1979,8478.3,E,156000,E,18400,E
+170,604,Peru,254,Oil palm fruit,1979,9927,A,24053,A,2423,A
+171,608,Philippines,254,Oil palm fruit,1979,7000,E,42000,E,6000,E
+29,108,Burundi,254,Oil palm fruit,1979,9916.7,E,11900,A,1200,E
+46,178,Congo,254,Oil palm fruit,1979,11857.1,E,83000,E,7000,E
+217,768,Togo,254,Oil palm fruit,1979,8490.6,E,135000,E,15900,E
+81,288,Ghana,254,Oil palm fruit,1979,5956.4,A,1012000,A,169900,A
+207,740,Suriname,254,Oil palm fruit,1979,10438,A,24759,A,2372,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1979,10750,E,43000,E,4000,E
+32,120,Cameroon,254,Oil palm fruit,1979,15263.2,E,580000,E,38000,E
+37,140,Central African Republic,254,Oil palm fruit,1979,8750,E,70000,E,8000,E
+90,324,Guinea,254,Oil palm fruit,1979,2666.7,E,600000,E,225000,E
+101,360,Indonesia,254,Oil palm fruit,1979,16500,E,3300000,E,200000,E
+123,430,Liberia,254,Oil palm fruit,1979,10000,E,110000,E,11000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1979,8000,E,1200,E,150,E
+197,694,Sierra Leone,254,Oil palm fruit,1979,8064.5,E,250000,E,31000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1979,5927.6,A,1064000,A,179500,A
+95,340,Honduras,254,Oil palm fruit,1979,3334.1,A,61871,A,18557,A
+195,686,Senegal,254,Oil palm fruit,1979,10000,E,70000,E,7000,E
+41,156,"China, mainland",254,Oil palm fruit,1979,,,516000,E,,M
+61,226,Equatorial Guinea,254,Oil palm fruit,1979,10285.7,E,36000,E,3500,E
+216,764,Thailand,254,Oil palm fruit,1979,10281,A,78300,A,7616,A
+53,204,Benin,254,Oil palm fruit,1979,10000,A,300000,A,30000,A
+138,484,Mexico,254,Oil palm fruit,1979,20745.9,E,75100,E,3620,A
+157,558,Nicaragua,254,Oil palm fruit,1979,8571.4,E,18000,E,2100,E
+44,170,Colombia,254,Oil palm fruit,1979,15885,E,359000,X,22600,A
+75,270,Gambia,254,Oil palm fruit,1979,10000,E,35000,E,3500,E
+129,450,Madagascar,254,Oil palm fruit,1979,10454.5,E,11500,E,1100,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1979,8461.5,E,110000,E,13000,E
+25,90,Solomon Islands,254,Oil palm fruit,1979,17014,A,55908,A,3286,A
+48,188,Costa Rica,254,Oil palm fruit,1979,13750,E,154000,E,11200,E
+58,218,Ecuador,254,Oil palm fruit,1979,9336.4,A,164712,A,17642,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1979,,,,A,,M
+7,24,Angola,254,Oil palm fruit,1979,10000,E,200000,E,20000,E
+89,320,Guatemala,254,Oil palm fruit,1979,,,,A,,A
+48,188,Costa Rica,254,Oil palm fruit,1980,14227.3,E,156500,E,11000,E
+56,214,Dominican Republic,254,Oil palm fruit,1980,,,,M,,M
+74,266,Gabon,254,Oil palm fruit,1980,6000,E,12000,E,2000,E
+90,324,Guinea,254,Oil palm fruit,1980,2666.7,E,600000,E,225000,E
+157,558,Nicaragua,254,Oil palm fruit,1980,8571.4,E,18000,E,2100,E
+159,566,Nigeria,254,Oil palm fruit,1980,2500,E,5750000,E,2300000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1980,15909.1,E,175000,E,11000,E
+171,608,Philippines,254,Oil palm fruit,1980,7056.5,E,43750,E,6200,E
+197,694,Sierra Leone,254,Oil palm fruit,1980,8064.5,E,250000,E,31000,E
+207,740,Suriname,254,Oil palm fruit,1980,8043.6,A,21026,A,2614,A
+21,76,Brazil,254,Oil palm fruit,1980,10526.3,E,60000,E,5700,E
+37,140,Central African Republic,254,Oil palm fruit,1980,8750,E,70000,E,8000,E
+46,178,Congo,254,Oil palm fruit,1980,11857.1,E,83000,E,7000,E
+101,360,Indonesia,254,Oil palm fruit,1980,16666.7,E,3400000,E,204000,A
+195,686,Senegal,254,Oil palm fruit,1980,10000,E,70000,E,7000,E
+216,764,Thailand,254,Oil palm fruit,1980,9644.4,A,107400,A,11136,A
+95,340,Honduras,254,Oil palm fruit,1980,3424.9,A,60918,A,17787,A
+170,604,Peru,254,Oil palm fruit,1980,20000,A,60000,A,3000,A
+81,288,Ghana,254,Oil palm fruit,1980,6273.2,A,914000,A,145700,A
+169,600,Paraguay,254,Oil palm fruit,1980,8486.5,E,157000,E,18500,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1980,8000,E,800,E,100,E
+44,170,Colombia,254,Oil palm fruit,1980,15000,X,381000,X,25400,X
+129,450,Madagascar,254,Oil palm fruit,1980,10250,E,12300,E,1200,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1980,10731.7,E,44000,E,4100,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1980,8646.8,E,19023,A,2200,E
+25,90,Solomon Islands,254,Oil palm fruit,1980,19420.7,A,64768,A,3335,A
+53,204,Benin,254,Oil palm fruit,1980,10000,A,300000,A,30000,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,1980,12291.1,A,1083260,A,88134,A
+131,458,Malaysia,254,Oil palm fruit,1980,16465.4,E,12800000,E,777388,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1980,7692.3,E,100000,E,13000,E
+29,108,Burundi,254,Oil palm fruit,1980,10000,E,12000,A,1200,E
+123,430,Liberia,254,Oil palm fruit,1980,10000,E,110000,E,11000,E
+138,484,Mexico,254,Oil palm fruit,1980,18421.1,E,84000,E,4560,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1980,10000,E,37000,E,3700,E
+7,24,Angola,254,Oil palm fruit,1980,10000,E,200000,E,20000,E
+32,120,Cameroon,254,Oil palm fruit,1980,15302.3,E,658000,E,43000,E
+217,768,Togo,254,Oil palm fruit,1980,8805,E,140000,E,15900,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1980,5661.6,A,1044000,A,184400,A
+75,270,Gambia,254,Oil palm fruit,1980,9210.5,E,35000,E,3800,E
+89,320,Guatemala,254,Oil palm fruit,1980,,,,A,,A
+58,218,Ecuador,254,Oil palm fruit,1980,9540,A,244930,A,25674,A
+41,156,"China, mainland",254,Oil palm fruit,1980,,,480000,E,,M
+53,204,Benin,254,Oil palm fruit,1981,10000,A,300000,A,30000,A
+44,170,Colombia,254,Oil palm fruit,1981,14981.9,X,415000,X,27700,X
+61,226,Equatorial Guinea,254,Oil palm fruit,1981,10000,E,37000,E,3700,E
+81,288,Ghana,254,Oil palm fruit,1981,6210.7,A,890000,A,143300,A
+101,360,Indonesia,254,Oil palm fruit,1981,16521.7,E,3800000,E,230000,A
+46,178,Congo,254,Oil palm fruit,1981,11857.1,E,83000,E,7000,E
+95,340,Honduras,254,Oil palm fruit,1981,4234.7,A,85685,A,20234,A
+129,450,Madagascar,254,Oil palm fruit,1981,10000,E,12000,E,1200,E
+168,598,Papua New Guinea,254,Oil palm fruit,1981,13608.3,E,210928,A,15500,E
+171,608,Philippines,254,Oil palm fruit,1981,6861.5,E,44600,E,6500,X
+175,624,Guinea-Bissau,254,Oil palm fruit,1981,7692.3,E,100000,E,13000,E
+32,120,Cameroon,254,Oil palm fruit,1981,15428.6,E,540000,E,35000,E
+37,140,Central African Republic,254,Oil palm fruit,1981,8750,E,70000,E,8000,E
+48,188,Costa Rica,254,Oil palm fruit,1981,15541.7,E,186500,E,12000,E
+159,566,Nigeria,254,Oil palm fruit,1981,2500,E,5000000,E,2000000,E
+207,740,Suriname,254,Oil palm fruit,1981,8362.6,A,24653,A,2948,A
+21,76,Brazil,254,Oil palm fruit,1981,10606.1,E,70000,E,6600,E
+41,156,"China, mainland",254,Oil palm fruit,1981,,,492000,E,,M
+58,218,Ecuador,254,Oil palm fruit,1981,11538.5,A,300000,A,26000,A
+131,458,Malaysia,254,Oil palm fruit,1981,16978.3,E,14400000,E,848143,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1981,5698.5,A,1081000,A,189700,A
+138,484,Mexico,254,Oil palm fruit,1981,20000,E,50000,E,2500,E
+29,108,Burundi,254,Oil palm fruit,1981,10000,E,12000,A,1200,E
+75,270,Gambia,254,Oil palm fruit,1981,9210.5,E,35000,E,3800,E
+90,324,Guinea,254,Oil palm fruit,1981,2666.7,E,600000,E,225000,E
+169,600,Paraguay,254,Oil palm fruit,1981,8461.5,E,110000,E,13000,E
+216,764,Thailand,254,Oil palm fruit,1981,10116.5,A,152800,A,15104,A
+217,768,Togo,254,Oil palm fruit,1981,8805,E,140000,E,15900,E
+74,266,Gabon,254,Oil palm fruit,1981,6000,E,12000,E,2000,E
+123,430,Liberia,254,Oil palm fruit,1981,10000,E,100000,E,10000,E
+25,90,Solomon Islands,254,Oil palm fruit,1981,24878,A,82968,A,3335,A
+195,686,Senegal,254,Oil palm fruit,1981,10000,E,70000,E,7000,E
+197,694,Sierra Leone,254,Oil palm fruit,1981,8064.5,E,250000,E,31000,E
+157,558,Nicaragua,254,Oil palm fruit,1981,8571.4,E,18000,E,2100,E
+7,24,Angola,254,Oil palm fruit,1981,10000,E,190000,E,19000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1981,10731.7,E,44000,E,4100,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1981,10036.5,A,914833,A,91151,A
+170,604,Peru,254,Oil palm fruit,1981,20000,A,62000,A,3100,A
+56,214,Dominican Republic,254,Oil palm fruit,1981,,,,M,,M
+89,320,Guatemala,254,Oil palm fruit,1981,,,,A,,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1981,8175,E,13080,A,1600,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1981,8333.3,E,1000,E,120,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1982,10473.2,A,991036,A,94626,A
+58,218,Ecuador,254,Oil palm fruit,1982,11541,A,309288,A,26799,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1982,10270.3,E,38000,E,3700,E
+129,450,Madagascar,254,Oil palm fruit,1982,10344.8,E,15000,E,1450,E
+25,90,Solomon Islands,254,Oil palm fruit,1982,26835.5,A,89416,A,3332,A
+53,204,Benin,254,Oil palm fruit,1982,10000,A,300000,A,30000,A
+81,288,Ghana,254,Oil palm fruit,1982,6206.6,A,889400,A,143300,A
+90,324,Guinea,254,Oil palm fruit,1982,2666.7,E,600000,E,225000,E
+169,600,Paraguay,254,Oil palm fruit,1982,8461.5,E,220000,E,26000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1982,10731.7,E,44000,E,4100,E
+41,156,"China, mainland",254,Oil palm fruit,1982,,,540000,E,,M
+56,214,Dominican Republic,254,Oil palm fruit,1982,,,,M,,M
+74,266,Gabon,254,Oil palm fruit,1982,6000,E,12000,E,2000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1982,7692.3,E,100000,E,13000,E
+101,360,Indonesia,254,Oil palm fruit,1982,17939.1,E,4300000,E,239700,A
+157,558,Nicaragua,254,Oil palm fruit,1982,8571.4,E,18000,E,2100,E
+171,608,Philippines,254,Oil palm fruit,1982,7000,E,105000,E,15000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1982,8000,E,800,E,100,E
+32,120,Cameroon,254,Oil palm fruit,1982,15250,E,610000,E,40000,E
+46,178,Congo,254,Oil palm fruit,1982,11857.1,E,83000,E,7000,E
+48,188,Costa Rica,254,Oil palm fruit,1982,16178.9,E,199000,E,12300,E
+89,320,Guatemala,254,Oil palm fruit,1982,,,,A,,A
+197,694,Sierra Leone,254,Oil palm fruit,1982,8064.5,E,250000,E,31000,E
+7,24,Angola,254,Oil palm fruit,1982,10000,E,190000,E,19000,E
+44,170,Colombia,254,Oil palm fruit,1982,15170.9,E,479400,X,31600,A
+170,604,Peru,254,Oil palm fruit,1982,20000,A,64000,A,3200,A
+207,740,Suriname,254,Oil palm fruit,1982,6713,A,28188,A,4199,A
+216,764,Thailand,254,Oil palm fruit,1982,10261.8,A,254000,A,24752,A
+217,768,Togo,254,Oil palm fruit,1982,8875,E,142000,E,16000,E
+21,76,Brazil,254,Oil palm fruit,1982,10526.3,E,80000,E,7600,E
+159,566,Nigeria,254,Oil palm fruit,1982,2500,E,5000000,E,2000000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1982,14301.9,E,357547,A,25000,E
+75,270,Gambia,254,Oil palm fruit,1982,10000,E,35000,E,3500,E
+123,430,Liberia,254,Oil palm fruit,1982,10909.1,E,120000,E,11000,E
+131,458,Malaysia,254,Oil palm fruit,1982,20143.6,E,17900000,E,888619,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1982,8465.5,E,18624,A,2200,E
+95,340,Honduras,254,Oil palm fruit,1982,7652.3,A,156000,A,20386,A
+195,686,Senegal,254,Oil palm fruit,1982,10000,E,70000,E,7000,E
+29,108,Burundi,254,Oil palm fruit,1982,10000,E,12000,A,1200,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1982,5256.1,A,1026000,A,195200,A
+138,484,Mexico,254,Oil palm fruit,1982,20000,E,40000,E,2000,E
+37,140,Central African Republic,254,Oil palm fruit,1982,8750,E,70000,E,8000,E
+48,188,Costa Rica,254,Oil palm fruit,1983,14407.3,E,215000,E,14923,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1983,4945.3,A,994000,A,201000,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1983,10540.5,E,39000,E,3700,E
+75,270,Gambia,254,Oil palm fruit,1983,10000,E,35000,E,3500,E
+138,484,Mexico,254,Oil palm fruit,1983,45714.3,E,40000,E,875,A
+171,608,Philippines,254,Oil palm fruit,1983,7009.3,E,75000,E,10700,E
+25,90,Solomon Islands,254,Oil palm fruit,1983,26145.6,A,87117,A,3332,A
+207,740,Suriname,254,Oil palm fruit,1983,6305,A,31235,A,4954,A
+46,178,Congo,254,Oil palm fruit,1983,12142.9,E,85000,E,7000,E
+81,288,Ghana,254,Oil palm fruit,1983,6206.6,A,889400,A,143300,A
+89,320,Guatemala,254,Oil palm fruit,1983,5968,X,14920,X,2500,X
+101,360,Indonesia,254,Oil palm fruit,1983,18018,E,4600000,E,255300,A
+159,566,Nigeria,254,Oil palm fruit,1983,2500,E,4750000,E,1900000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1983,9204.6,E,23932,A,2600,E
+53,204,Benin,254,Oil palm fruit,1983,10000,E,300000,E,30000,E
+29,108,Burundi,254,Oil palm fruit,1983,10000,E,12000,A,1200,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1983,10670.1,A,969403,A,90852,A
+32,120,Cameroon,254,Oil palm fruit,1983,15151.5,E,500000,E,33000,E
+37,140,Central African Republic,254,Oil palm fruit,1983,9375,E,75000,E,8000,E
+74,266,Gabon,254,Oil palm fruit,1983,6666.7,E,16000,E,2400,E
+129,450,Madagascar,254,Oil palm fruit,1983,10344.8,E,15000,E,1450,E
+195,686,Senegal,254,Oil palm fruit,1983,10000,E,70000,E,7000,E
+41,156,"China, mainland",254,Oil palm fruit,1983,,,564000,E,,M
+58,218,Ecuador,254,Oil palm fruit,1983,12412.4,A,354225,A,28538,A
+131,458,Malaysia,254,Oil palm fruit,1983,15234.3,E,15400000,E,1010879,A
+168,598,Papua New Guinea,254,Oil palm fruit,1983,15418.8,E,400890,A,26000,E
+197,694,Sierra Leone,254,Oil palm fruit,1983,8064.5,E,250000,E,31000,E
+169,600,Paraguay,254,Oil palm fruit,1983,8333.3,E,100000,E,12000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1983,10731.7,E,44000,E,4100,E
+95,340,Honduras,254,Oil palm fruit,1983,8333.3,A,171000,A,20520,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1983,8823.5,E,1500,E,170,E
+7,24,Angola,254,Oil palm fruit,1983,10000,E,200000,E,20000,E
+44,170,Colombia,254,Oil palm fruit,1983,16395.5,E,580400,X,35400,A
+90,324,Guinea,254,Oil palm fruit,1983,2666.7,E,600000,E,225000,E
+216,764,Thailand,254,Oil palm fruit,1983,8361.8,A,303300,A,36272,A
+56,214,Dominican Republic,254,Oil palm fruit,1983,,,,M,,M
+123,430,Liberia,254,Oil palm fruit,1983,10909.1,E,120000,E,11000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1983,8333.3,E,75000,E,9000,E
+217,768,Togo,254,Oil palm fruit,1983,8518.5,E,115000,E,13500,E
+21,76,Brazil,254,Oil palm fruit,1983,10465.1,E,90000,E,8600,E
+170,604,Peru,254,Oil palm fruit,1983,20000,A,70000,A,3500,A
+157,558,Nicaragua,254,Oil palm fruit,1983,8636.4,E,19000,E,2200,E
+29,108,Burundi,254,Oil palm fruit,1984,10000,E,12000,A,1200,E
+46,178,Congo,254,Oil palm fruit,1984,12142.9,E,85000,E,7000,E
+74,266,Gabon,254,Oil palm fruit,1984,7200,E,18000,E,2500,E
+131,458,Malaysia,254,Oil palm fruit,1984,18182.6,E,19500000,E,1072451,A
+197,694,Sierra Leone,254,Oil palm fruit,1984,8064.5,E,250000,E,31000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1984,9077.5,E,25417,A,2800,E
+81,288,Ghana,254,Oil palm fruit,1984,6243.9,A,768000,A,123000,A
+129,450,Madagascar,254,Oil palm fruit,1984,10344.8,E,15000,E,1450,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1984,8823.5,E,1500,E,170,E
+21,76,Brazil,254,Oil palm fruit,1984,10454.5,E,115000,E,11000,E
+32,120,Cameroon,254,Oil palm fruit,1984,14666.7,E,660000,E,45000,E
+159,566,Nigeria,254,Oil palm fruit,1984,2500,E,5500000,E,2200000,E
+169,600,Paraguay,254,Oil palm fruit,1984,8571.4,E,180000,E,21000,E
+37,140,Central African Republic,254,Oil palm fruit,1984,9375,E,75000,E,8000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1984,10670.4,A,956079,A,89601,A
+75,270,Gambia,254,Oil palm fruit,1984,10000,E,35000,E,3500,E
+101,360,Indonesia,254,Oil palm fruit,1984,21194.7,E,6280000,E,296300,A
+195,686,Senegal,254,Oil palm fruit,1984,10000,E,70000,E,7000,E
+41,156,"China, mainland",254,Oil palm fruit,1984,,,552000,E,,M
+61,226,Equatorial Guinea,254,Oil palm fruit,1984,11081.1,E,41000,E,3700,E
+90,324,Guinea,254,Oil palm fruit,1984,2666.7,E,600000,E,225000,E
+95,340,Honduras,254,Oil palm fruit,1984,12620,A,259000,A,20523,A
+157,558,Nicaragua,254,Oil palm fruit,1984,8695.7,E,20000,E,2300,E
+171,608,Philippines,254,Oil palm fruit,1984,7058.8,A,120000,A,17000,A
+207,740,Suriname,254,Oil palm fruit,1984,5897.7,A,33894,A,5747,A
+138,484,Mexico,254,Oil palm fruit,1984,20000,E,20000,E,1000,X
+170,604,Peru,254,Oil palm fruit,1984,20000,A,80000,A,4000,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1984,10731.7,E,44000,E,4100,E
+44,170,Colombia,254,Oil palm fruit,1984,16636.6,E,644600,X,38746,A
+89,320,Guatemala,254,Oil palm fruit,1984,5968,X,14920,X,2500,X
+123,430,Liberia,254,Oil palm fruit,1984,11043.5,E,127000,E,11500,E
+216,764,Thailand,254,Oil palm fruit,1984,8694.8,A,393700,A,45280,A
+58,218,Ecuador,254,Oil palm fruit,1984,12758.1,A,372473,A,29195,A
+217,768,Togo,254,Oil palm fruit,1984,8518.5,E,115000,E,13500,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1984,5004.8,A,1033000,A,206400,A
+25,90,Solomon Islands,254,Oil palm fruit,1984,24706.8,A,87215,A,3530,A
+56,214,Dominican Republic,254,Oil palm fruit,1984,,,,M,,M
+48,188,Costa Rica,254,Oil palm fruit,1984,16206.3,A,224150,A,13831,A
+53,204,Benin,254,Oil palm fruit,1984,10000,E,300000,E,30000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1984,9090.9,E,100000,E,11000,E
+7,24,Angola,254,Oil palm fruit,1984,10000,E,190000,E,19000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1984,12667.9,E,481380,A,38000,E
+7,24,Angola,254,Oil palm fruit,1985,10000,E,180000,E,18000,E
+53,204,Benin,254,Oil palm fruit,1985,11041.7,E,265000,E,24000,E
+44,170,Colombia,254,Oil palm fruit,1985,16751.8,E,734400,X,43840,A
+58,218,Ecuador,254,Oil palm fruit,1985,13371.5,A,457895,A,34244,A
+89,320,Guatemala,254,Oil palm fruit,1985,9400,E,23500,E,2500,X
+101,360,Indonesia,254,Oil palm fruit,1985,18784.1,E,6550000,E,348700,A
+168,598,Papua New Guinea,254,Oil palm fruit,1985,14564.9,E,560747,A,38500,E
+195,686,Senegal,254,Oil palm fruit,1985,10000,E,70000,E,7000,E
+207,740,Suriname,254,Oil palm fruit,1985,6176.2,A,38212,A,6187,A
+41,156,"China, mainland",254,Oil palm fruit,1985,13090.9,E,720000,E,55000,E
+56,214,Dominican Republic,254,Oil palm fruit,1985,,,,M,,M
+61,226,Equatorial Guinea,254,Oil palm fruit,1985,10540.5,E,39000,E,3700,E
+81,288,Ghana,254,Oil palm fruit,1985,6561.2,A,643000,A,98000,A
+138,484,Mexico,254,Oil palm fruit,1985,20618.6,E,20000,E,970,A
+157,558,Nicaragua,254,Oil palm fruit,1985,8695.7,E,20000,E,2300,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1985,7777.8,E,70000,E,9000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1985,4917.1,A,1038000,A,211100,A
+32,120,Cameroon,254,Oil palm fruit,1985,15555.6,E,700000,E,45000,E
+37,140,Central African Republic,254,Oil palm fruit,1985,10000,E,80000,E,8000,E
+123,430,Liberia,254,Oil palm fruit,1985,11043.5,E,127000,E,11500,E
+131,458,Malaysia,254,Oil palm fruit,1985,17818.3,E,21400000,E,1201010,A
+169,600,Paraguay,254,Oil palm fruit,1985,8500,E,170000,E,20000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1985,9270,A,22248,A,2400,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1985,8823.5,E,1500,E,170,E
+216,764,Thailand,254,Oil palm fruit,1985,11445.5,A,609530,A,53255,A
+48,188,Costa Rica,254,Oil palm fruit,1985,12742.3,A,176047,A,13816,A
+74,266,Gabon,254,Oil palm fruit,1985,6800,E,17000,E,2500,E
+159,566,Nigeria,254,Oil palm fruit,1985,2590.9,E,5700000,E,2200000,E
+25,90,Solomon Islands,254,Oil palm fruit,1985,24302.2,A,92251,A,3796,A
+217,768,Togo,254,Oil palm fruit,1985,8518.5,E,115000,E,13500,E
+21,76,Brazil,254,Oil palm fruit,1985,10740.7,E,145000,E,13500,E
+197,694,Sierra Leone,254,Oil palm fruit,1985,8064.5,A,250000,A,31000,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1985,10975.6,E,45000,E,4100,E
+171,608,Philippines,254,Oil palm fruit,1985,7058.6,A,125100,A,17723,A
+46,178,Congo,254,Oil palm fruit,1985,12142.9,E,85000,E,7000,E
+95,340,Honduras,254,Oil palm fruit,1985,13958.9,A,311660,A,22327,A
+75,270,Gambia,254,Oil palm fruit,1985,10000,E,35000,E,3500,E
+170,604,Peru,254,Oil palm fruit,1985,13441.6,A,48699,A,3623,A
+29,108,Burundi,254,Oil palm fruit,1985,10400,E,13000,A,1250,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1985,10058.5,A,909667,A,90438,A
+129,450,Madagascar,254,Oil palm fruit,1985,10689.7,E,15500,E,1450,E
+90,324,Guinea,254,Oil palm fruit,1985,2666.7,E,600000,E,225000,E
+29,108,Burundi,254,Oil palm fruit,1986,10400,E,13000,A,1250,E
+89,320,Guatemala,254,Oil palm fruit,1986,9777.8,E,44000,E,4500,X
+101,360,Indonesia,254,Oil palm fruit,1986,20649.6,E,7725000,E,374100,A
+129,450,Madagascar,254,Oil palm fruit,1986,10000,E,16000,E,1600,E
+131,458,Malaysia,254,Oil palm fruit,1986,16978.1,E,23100000,E,1360579,A
+169,600,Paraguay,254,Oil palm fruit,1986,9500,E,190000,E,20000,E
+216,764,Thailand,254,Oil palm fruit,1986,11582.3,A,694716,A,59981,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1986,11084.3,E,46000,E,4150,E
+37,140,Central African Republic,254,Oil palm fruit,1986,10000,E,80000,E,8000,E
+44,170,Colombia,254,Oil palm fruit,1986,15372,E,750000,X,48790,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1986,10810.8,E,40000,E,3700,E
+159,566,Nigeria,254,Oil palm fruit,1986,2657.7,E,5900000,E,2220000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1986,13619.6,E,558404,A,41000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1986,8333.3,E,1000,E,120,E
+217,768,Togo,254,Oil palm fruit,1986,8888.9,E,120000,E,13500,E
+7,24,Angola,254,Oil palm fruit,1986,10000,E,190000,E,19000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1986,12508.7,A,1138703,A,91033,A
+171,608,Philippines,254,Oil palm fruit,1986,8000,E,136000,E,17000,E
+197,694,Sierra Leone,254,Oil palm fruit,1986,8064.5,A,250000,A,31000,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1986,8978.7,E,23973,A,2670,E
+48,188,Costa Rica,254,Oil palm fruit,1986,15776.8,A,225450,A,14290,A
+74,266,Gabon,254,Oil palm fruit,1986,9615.4,E,25000,E,2600,E
+81,288,Ghana,254,Oil palm fruit,1986,6400,E,640000,E,100000,A
+90,324,Guinea,254,Oil palm fruit,1986,2666.7,E,600000,E,225000,E
+138,484,Mexico,254,Oil palm fruit,1986,20618.6,E,20000,E,970,A
+32,120,Cameroon,254,Oil palm fruit,1986,16222.2,E,730000,E,45000,E
+41,156,"China, mainland",254,Oil palm fruit,1986,13584.9,E,720000,E,53000,E
+123,430,Liberia,254,Oil palm fruit,1986,11000,E,110000,E,10000,E
+58,218,Ecuador,254,Oil palm fruit,1986,14948.6,A,657740,A,44000,A
+157,558,Nicaragua,254,Oil palm fruit,1986,8541.7,E,20500,E,2400,E
+170,604,Peru,254,Oil palm fruit,1986,5454.8,A,51068,A,9362,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1986,8846.2,E,115000,E,13000,E
+207,740,Suriname,254,Oil palm fruit,1986,4943.9,A,30296,A,6128,A
+21,76,Brazil,254,Oil palm fruit,1986,10689.7,E,155000,E,14500,E
+25,90,Solomon Islands,254,Oil palm fruit,1986,17541.3,A,68727,A,3918,A
+56,214,Dominican Republic,254,Oil palm fruit,1986,,,,M,,M
+75,270,Gambia,254,Oil palm fruit,1986,10000,E,35000,E,3500,E
+46,178,Congo,254,Oil palm fruit,1986,12428.6,E,87000,E,7000,E
+95,340,Honduras,254,Oil palm fruit,1986,14274.5,A,329912,A,23112,A
+53,204,Benin,254,Oil palm fruit,1986,8333.3,E,200000,E,24000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1986,4678.1,A,1010000,A,215900,A
+195,686,Senegal,254,Oil palm fruit,1986,10000,E,70000,E,7000,E
+29,108,Burundi,254,Oil palm fruit,1987,10640,E,13300,A,1250,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1987,4329.5,A,956000,A,220810,A
+131,458,Malaysia,254,Oil palm fruit,1987,16604.2,E,22800000,E,1373147,A
+168,598,Papua New Guinea,254,Oil palm fruit,1987,13164.6,E,539748,A,41000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1987,9375,E,1500,E,160,E
+21,76,Brazil,254,Oil palm fruit,1987,10833.3,E,195000,E,18000,E
+41,156,"China, mainland",254,Oil palm fruit,1987,13267.3,E,670000,E,50500,E
+44,170,Colombia,254,Oil palm fruit,1987,16660.2,E,859000,X,51560,A
+81,288,Ghana,254,Oil palm fruit,1987,6400,E,640000,E,100000,E
+138,484,Mexico,254,Oil palm fruit,1987,30927.8,E,30000,E,970,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1987,8333.3,E,100000,E,12000,E
+217,768,Togo,254,Oil palm fruit,1987,8888.9,E,120000,E,13500,E
+37,140,Central African Republic,254,Oil palm fruit,1987,10000,E,80000,E,8000,E
+75,270,Gambia,254,Oil palm fruit,1987,10000,E,35000,E,3500,E
+101,360,Indonesia,254,Oil palm fruit,1987,21013.2,A,8859147,A,421600,A
+159,566,Nigeria,254,Oil palm fruit,1987,2652.2,E,6100000,E,2300000,E
+170,604,Peru,254,Oil palm fruit,1987,13419.9,A,114190,A,8509,A
+171,608,Philippines,254,Oil palm fruit,1987,9266.7,E,139000,E,15000,E
+207,740,Suriname,254,Oil palm fruit,1987,3223.7,A,19900,A,6173,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1987,9162.2,E,24738,A,2700,E
+7,24,Angola,254,Oil palm fruit,1987,10000,E,200000,E,20000,E
+32,120,Cameroon,254,Oil palm fruit,1987,16000,E,720000,E,45000,E
+46,178,Congo,254,Oil palm fruit,1987,12428.6,E,87000,E,7000,E
+74,266,Gabon,254,Oil palm fruit,1987,10000,E,26000,E,2600,E
+56,214,Dominican Republic,254,Oil palm fruit,1987,,,,M,,M
+89,320,Guatemala,254,Oil palm fruit,1987,11733.3,E,52800,E,4500,X
+123,430,Liberia,254,Oil palm fruit,1987,10526.3,E,100000,E,9500,E
+129,450,Madagascar,254,Oil palm fruit,1987,10625,E,17000,E,1600,E
+25,90,Solomon Islands,254,Oil palm fruit,1987,11791.7,A,54124,A,4590,A
+216,764,Thailand,254,Oil palm fruit,1987,10531.2,A,728315,A,69158,A
+90,324,Guinea,254,Oil palm fruit,1987,2666.7,A,600000,A,225000,A
+95,340,Honduras,254,Oil palm fruit,1987,14662.6,A,297666,A,20301,A
+157,558,Nicaragua,254,Oil palm fruit,1987,8400,E,21000,E,2500,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1987,10810.8,E,40000,E,3700,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1987,13307.3,A,1189304,A,89372,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1987,11325.3,E,47000,E,4150,E
+48,188,Costa Rica,254,Oil palm fruit,1987,14321.9,A,235796,A,16464,A
+169,600,Paraguay,254,Oil palm fruit,1987,9659.1,E,170000,E,17600,E
+195,686,Senegal,254,Oil palm fruit,1987,10000,E,70000,E,7000,E
+58,218,Ecuador,254,Oil palm fruit,1987,14296.5,A,687661,A,48100,A
+197,694,Sierra Leone,254,Oil palm fruit,1987,8064.5,A,250000,A,31000,A
+53,204,Benin,254,Oil palm fruit,1987,8333.3,E,200000,E,24000,E
+7,24,Angola,254,Oil palm fruit,1988,10500,E,210000,E,20000,E
+170,604,Peru,254,Oil palm fruit,1988,16954,A,103606,A,6111,A
+48,188,Costa Rica,254,Oil palm fruit,1988,16269.9,A,303548,A,18657,A
+81,288,Ghana,254,Oil palm fruit,1988,6363.6,E,700000,E,110000,E
+157,558,Nicaragua,254,Oil palm fruit,1988,8600,E,21500,E,2500,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1988,9523.8,E,600,E,63,E
+197,694,Sierra Leone,254,Oil palm fruit,1988,8064.5,A,250000,A,31000,A
+207,740,Suriname,254,Oil palm fruit,1988,1895.7,A,11609,A,6124,A
+217,768,Togo,254,Oil palm fruit,1988,8888.9,E,120000,E,13500,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1988,4556.5,A,1029000,A,225830,A
+58,218,Ecuador,254,Oil palm fruit,1988,12836,A,674147,A,52520,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1988,10810.8,E,40000,E,3700,E
+171,608,Philippines,254,Oil palm fruit,1988,11769.2,E,153000,E,13000,E
+29,108,Burundi,254,Oil palm fruit,1988,10880,E,13600,A,1250,E
+44,170,Colombia,254,Oil palm fruit,1988,19436.9,E,1222000,X,62870,A
+75,270,Gambia,254,Oil palm fruit,1988,10000,E,35000,E,3500,E
+123,430,Liberia,254,Oil palm fruit,1988,10555.6,E,95000,E,9000,E
+216,764,Thailand,254,Oil palm fruit,1988,10693,A,885104,A,82774,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1988,8287,E,19060,A,2300,E
+53,204,Benin,254,Oil palm fruit,1988,8333.3,E,200000,E,24000,E
+21,76,Brazil,254,Oil palm fruit,1988,10952.4,E,230000,E,21000,E
+37,140,Central African Republic,254,Oil palm fruit,1988,10000,E,80000,E,8000,E
+41,156,"China, mainland",254,Oil palm fruit,1988,12673.3,E,640000,E,50500,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1988,8333.3,E,100000,E,12000,E
+159,566,Nigeria,254,Oil palm fruit,1988,2666.7,E,6000000,E,2250000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1988,14451,E,498560,A,34500,E
+195,686,Senegal,254,Oil palm fruit,1988,10000,E,60000,E,6000,E
+32,120,Cameroon,254,Oil palm fruit,1988,16066.7,E,723000,E,45000,E
+89,320,Guatemala,254,Oil palm fruit,1988,12900,E,38700,E,3000,X
+129,450,Madagascar,254,Oil palm fruit,1988,11562.5,E,18500,E,1600,E
+169,600,Paraguay,254,Oil palm fruit,1988,9659.1,E,170000,E,17600,E
+95,340,Honduras,254,Oil palm fruit,1988,13898.8,A,314364,A,22618,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,1988,10316.2,A,1051066,A,101885,A
+46,178,Congo,254,Oil palm fruit,1988,12571.4,E,88000,E,7000,E
+101,360,Indonesia,254,Oil palm fruit,1988,20160.5,A,10785847,A,535000,A
+74,266,Gabon,254,Oil palm fruit,1988,8846.2,E,23000,X,2600,E
+131,458,Malaysia,254,Oil palm fruit,1988,16526.2,E,25300000,E,1530905,A
+138,484,Mexico,254,Oil palm fruit,1988,25641,E,20000,E,780,A
+56,214,Dominican Republic,254,Oil palm fruit,1988,,,,M,,M
+25,90,Solomon Islands,254,Oil palm fruit,1988,16315.4,A,70303,A,4309,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1988,11566.3,E,48000,E,4150,E
+90,324,Guinea,254,Oil palm fruit,1988,2652.2,E,610000,E,230000,E
+29,108,Burundi,254,Oil palm fruit,1989,8240,E,10300,A,1250,E
+56,214,Dominican Republic,254,Oil palm fruit,1989,15000,X,15000,X,1000,X
+89,320,Guatemala,254,Oil palm fruit,1989,13833.3,E,41500,E,3000,X
+90,324,Guinea,254,Oil palm fruit,1989,2625,E,630000,E,240000,E
+95,340,Honduras,254,Oil palm fruit,1989,14093.2,A,335248,A,23788,A
+138,484,Mexico,254,Oil palm fruit,1989,20000,E,20000,E,1000,X
+157,558,Nicaragua,254,Oil palm fruit,1989,8461.5,E,22000,E,2600,E
+171,608,Philippines,254,Oil palm fruit,1989,12500,E,150000,E,12000,X
+193,678,Sao Tome and Principe,254,Oil palm fruit,1989,9605.3,E,1825,E,190,E
+37,140,Central African Republic,254,Oil palm fruit,1989,10000,E,80000,E,8000,E
+41,156,"China, mainland",254,Oil palm fruit,1989,12978.7,E,610000,E,47000,E
+129,450,Madagascar,254,Oil palm fruit,1989,10256.4,E,20000,E,1950,E
+159,566,Nigeria,254,Oil palm fruit,1989,2699.1,E,6100000,E,2260000,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1989,8333.3,E,100000,E,12000,E
+197,694,Sierra Leone,254,Oil palm fruit,1989,8064.5,A,250000,A,31000,A
+216,764,Thailand,254,Oil palm fruit,1989,12083.3,A,1098130,A,90880,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1989,4416.3,A,1020000,A,230960,A
+44,170,Colombia,254,Oil palm fruit,1989,16345.2,A,1244444,A,76135,A
+48,188,Costa Rica,254,Oil palm fruit,1989,12581.9,A,251637,A,20000,A
+58,218,Ecuador,254,Oil palm fruit,1989,16314.5,A,903170,A,55360,A
+131,458,Malaysia,254,Oil palm fruit,1989,18300.4,E,30600000,E,1672096,A
+217,768,Togo,254,Oil palm fruit,1989,8888.9,E,120000,E,13500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1989,9479.6,E,25595,A,2700,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1989,10810.8,E,40000,E,3700,E
+74,266,Gabon,254,Oil palm fruit,1989,6250,E,12500,X,2000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1989,14017.9,E,581744,A,41500,E
+53,204,Benin,254,Oil palm fruit,1989,9444.4,E,170000,E,18000,E
+32,120,Cameroon,254,Oil palm fruit,1989,19272.7,E,1060000,E,55000,E
+75,270,Gambia,254,Oil palm fruit,1989,10000,E,35000,E,3500,E
+169,600,Paraguay,254,Oil palm fruit,1989,9659.1,E,170000,E,17600,E
+25,90,Solomon Islands,254,Oil palm fruit,1989,24485.7,A,97600,A,3986,A
+7,24,Angola,254,Oil palm fruit,1989,10000,E,210000,E,21000,E
+195,686,Senegal,254,Oil palm fruit,1989,10000,E,50000,E,5000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1989,11807.2,E,49000,E,4150,E
+46,178,Congo,254,Oil palm fruit,1989,12571.4,E,88000,E,7000,E
+170,604,Peru,254,Oil palm fruit,1989,21793.8,A,134860,A,6188,A
+101,360,Indonesia,254,Oil palm fruit,1989,17343.9,A,10232890,A,590000,A
+21,76,Brazil,254,Oil palm fruit,1989,10720,E,268000,E,25000,E
+81,288,Ghana,254,Oil palm fruit,1989,6615.4,E,860000,E,130000,E
+123,430,Liberia,254,Oil palm fruit,1989,10588.2,E,90000,E,8500,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1989,10175.2,A,1044213,A,102623,A
+207,740,Suriname,254,Oil palm fruit,1989,2276.9,A,13953,A,6128,A
+41,156,"China, mainland",254,Oil palm fruit,1990,12325.6,E,530000,E,43000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1990,11070.6,A,1286430,A,116202,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1990,4417.6,A,1025410,A,232120,A
+56,214,Dominican Republic,254,Oil palm fruit,1990,16666.7,X,50000,X,3000,X
+90,324,Guinea,254,Oil palm fruit,1990,2640,E,660000,E,250000,E
+138,484,Mexico,254,Oil palm fruit,1990,14563.9,A,25414,A,1745,A
+7,24,Angola,254,Oil palm fruit,1990,10476.2,E,220000,E,21000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1990,10810.8,E,40000,E,3700,E
+74,266,Gabon,254,Oil palm fruit,1990,9583.3,E,23000,X,2400,E
+123,430,Liberia,254,Oil palm fruit,1990,10625,E,85000,E,8000,E
+129,450,Madagascar,254,Oil palm fruit,1990,11282.1,E,22000,E,1950,E
+169,600,Paraguay,254,Oil palm fruit,1990,9659.1,E,170000,E,17600,E
+217,768,Togo,254,Oil palm fruit,1990,8888.9,E,120000,E,13500,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1990,7777.8,E,70000,E,9000,E
+95,340,Honduras,254,Oil palm fruit,1990,14049.6,A,345184,A,24569,A
+159,566,Nigeria,254,Oil palm fruit,1990,2695.7,E,6200000,E,2300000,E
+216,764,Thailand,254,Oil palm fruit,1990,12414.3,A,1191769,A,96000,A
+53,204,Benin,254,Oil palm fruit,1990,9444.4,E,170000,E,18000,E
+44,170,Colombia,254,Oil palm fruit,1990,15610.2,A,1399784,A,89671,A
+170,604,Peru,254,Oil palm fruit,1990,27903.6,A,115800,A,4150,A
+207,740,Suriname,254,Oil palm fruit,1990,1418.4,A,7695,A,5425,A
+58,218,Ecuador,254,Oil palm fruit,1990,14270.8,A,835697,A,58560,A
+81,288,Ghana,254,Oil palm fruit,1990,6538.5,E,850000,E,130000,E
+89,320,Guatemala,254,Oil palm fruit,1990,10800,E,54000,E,5000,X
+168,598,Papua New Guinea,254,Oil palm fruit,1990,14497.5,E,659634,A,45500,E
+197,694,Sierra Leone,254,Oil palm fruit,1990,8064.5,A,250000,A,31000,A
+21,76,Brazil,254,Oil palm fruit,1990,9939.4,E,328000,E,33000,E
+32,120,Cameroon,254,Oil palm fruit,1990,19090.9,E,1050000,E,55000,E
+46,178,Congo,254,Oil palm fruit,1990,12571.4,E,88000,E,7000,E
+131,458,Malaysia,254,Oil palm fruit,1990,17754.3,E,31000000,E,1746054,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1990,8766,E,21915,A,2500,E
+75,270,Gambia,254,Oil palm fruit,1990,10000,E,35000,E,3500,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1990,11904.8,E,50000,E,4200,E
+101,360,Indonesia,254,Oil palm fruit,1990,16569.5,A,11151795,A,673033,A
+195,686,Senegal,254,Oil palm fruit,1990,10000,E,60000,E,6000,E
+25,90,Solomon Islands,254,Oil palm fruit,1990,17756.8,A,98000,A,5519,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1990,9722.2,E,1750,E,180,E
+29,108,Burundi,254,Oil palm fruit,1990,11360,E,14200,A,1250,E
+48,188,Costa Rica,254,Oil palm fruit,1990,14346.7,A,332600,A,23183,A
+171,608,Philippines,254,Oil palm fruit,1990,12384.6,E,161000,E,13000,X
+37,140,Central African Republic,254,Oil palm fruit,1990,10000,E,80000,E,8000,E
+157,558,Nicaragua,254,Oil palm fruit,1990,8518.5,E,23000,E,2700,E
+21,76,Brazil,254,Oil palm fruit,1991,7588,A,525968,A,69316,A
+56,214,Dominican Republic,254,Oil palm fruit,1991,14000,X,70000,X,5000,X
+61,226,Equatorial Guinea,254,Oil palm fruit,1991,10810.8,E,40000,E,3700,E
+74,266,Gabon,254,Oil palm fruit,1991,9714.3,E,34000,X,3500,E
+123,430,Liberia,254,Oil palm fruit,1991,10672.3,E,127000,E,11900,E
+131,458,Malaysia,254,Oil palm fruit,1991,15042.8,E,31500000,E,2094028,A
+159,566,Nigeria,254,Oil palm fruit,1991,2653.1,E,6500000,E,2450000,E
+216,764,Thailand,254,Oil palm fruit,1991,12746.6,A,1314280,A,103108,A
+25,90,Solomon Islands,254,Oil palm fruit,1991,14285.7,E,100000,A,7000,X
+90,324,Guinea,254,Oil palm fruit,1991,2653.8,E,690000,E,260000,E
+157,558,Nicaragua,254,Oil palm fruit,1991,8392.9,E,23500,E,2800,E
+169,600,Paraguay,254,Oil palm fruit,1991,9659.1,E,170000,E,17600,E
+171,608,Philippines,254,Oil palm fruit,1991,13214.3,E,185000,E,14000,X
+53,204,Benin,254,Oil palm fruit,1991,8666.7,E,130000,E,15000,E
+58,218,Ecuador,254,Oil palm fruit,1991,9645.2,A,541962,A,56190,A
+207,740,Suriname,254,Oil palm fruit,1991,1616.1,A,7814,A,4835,A
+7,24,Angola,254,Oil palm fruit,1991,10697.7,E,230000,E,21500,E
+29,108,Burundi,254,Oil palm fruit,1991,11600,E,14500,A,1250,E
+46,178,Congo,254,Oil palm fruit,1991,12142.9,E,85000,E,7000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1991,10454.9,A,1359131,A,130000,A
+75,270,Gambia,254,Oil palm fruit,1991,10000,E,35000,E,3500,E
+81,288,Ghana,254,Oil palm fruit,1991,6538.5,E,850000,E,130000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1991,17135.9,E,771115,A,45000,X
+193,678,Sao Tome and Principe,254,Oil palm fruit,1991,9808.3,E,4708,E,480,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1991,4417.6,A,1030840,A,233350,A
+101,360,Indonesia,254,Oil palm fruit,1991,15737.5,A,12153216,A,772245,A
+115,116,Cambodia,254,Oil palm fruit,1991,12226.6,E,160000,I,13086,I
+195,686,Senegal,254,Oil palm fruit,1991,10000,E,40000,E,4000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1991,12261.9,E,51500,E,4200,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1991,9501.9,E,34207,A,3600,E
+44,170,Colombia,254,Oil palm fruit,1991,16555.3,A,1615866,A,97604,A
+129,450,Madagascar,254,Oil palm fruit,1991,11538.5,E,22500,E,1950,E
+197,694,Sierra Leone,254,Oil palm fruit,1991,8064.5,A,250000,A,31000,A
+41,156,"China, mainland",254,Oil palm fruit,1991,13658.5,E,560000,E,41000,E
+170,604,Peru,254,Oil palm fruit,1991,24571.6,A,106100,A,4318,A
+37,140,Central African Republic,254,Oil palm fruit,1991,8750,E,70000,E,8000,E
+48,188,Costa Rica,254,Oil palm fruit,1991,15042.9,A,359389,A,23891,A
+166,591,Panama,254,Oil palm fruit,1991,,,,M,,M
+175,624,Guinea-Bissau,254,Oil palm fruit,1991,7777.8,E,70000,E,9000,E
+217,768,Togo,254,Oil palm fruit,1991,8888.9,E,120000,E,13500,E
+138,484,Mexico,254,Oil palm fruit,1991,15000,A,17250,A,1150,A
+32,120,Cameroon,254,Oil palm fruit,1991,17884.6,E,930000,E,52000,E
+95,340,Honduras,254,Oil palm fruit,1991,12840.3,A,343273,A,26734,A
+89,320,Guatemala,254,Oil palm fruit,1991,9524.3,E,66670,E,7000,X
+44,170,Colombia,254,Oil palm fruit,1992,15589.8,A,1691644,A,108510,A
+48,188,Costa Rica,254,Oil palm fruit,1992,14507.7,A,356890,A,24600,A
+58,218,Ecuador,254,Oil palm fruit,1992,13803.6,A,902063,A,65350,A
+90,324,Guinea,254,Oil palm fruit,1992,2245.6,E,640000,E,285000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1992,17842.1,E,892104,A,50000,X
+169,600,Paraguay,254,Oil palm fruit,1992,9659.1,E,170000,E,17600,E
+197,694,Sierra Leone,254,Oil palm fruit,1992,8047.9,E,235000,E,29200,E
+25,90,Solomon Islands,254,Oil palm fruit,1992,16875,E,135000,E,8000,X
+7,24,Angola,254,Oil palm fruit,1992,11162.8,E,240000,E,21500,E
+21,76,Brazil,254,Oil palm fruit,1992,8062.8,A,652541,A,80932,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1992,10540.5,E,39000,E,3700,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1992,11054.7,A,1480940,A,133965,A
+115,116,Cambodia,254,Oil palm fruit,1992,12202.2,E,160000,I,13112,I
+157,558,Nicaragua,254,Oil palm fruit,1992,12250,E,24500,E,2000,X
+175,624,Guinea-Bissau,254,Oil palm fruit,1992,7777.8,E,70000,E,9000,E
+195,686,Senegal,254,Oil palm fruit,1992,10000,E,40000,E,4000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1992,12093,E,52000,E,4300,E
+217,768,Togo,254,Oil palm fruit,1992,8888.9,E,120000,E,13500,E
+81,288,Ghana,254,Oil palm fruit,1992,6444.4,E,870000,E,135000,E
+89,320,Guatemala,254,Oil palm fruit,1992,13333.3,E,100000,E,7500,X
+95,340,Honduras,254,Oil palm fruit,1992,13374,A,403000,A,30133,A
+138,484,Mexico,254,Oil palm fruit,1992,15087,A,17350,A,1150,A
+170,604,Peru,254,Oil palm fruit,1992,22326.6,A,99800,A,4470,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1992,9827.6,E,5700,E,580,E
+207,740,Suriname,254,Oil palm fruit,1992,2300.5,A,10640,A,4625,A
+32,120,Cameroon,254,Oil palm fruit,1992,17714.3,E,930000,E,52500,X
+37,140,Central African Republic,254,Oil palm fruit,1992,8571.4,E,60000,E,7000,E
+56,214,Dominican Republic,254,Oil palm fruit,1992,15000,X,90000,X,6000,X
+75,270,Gambia,254,Oil palm fruit,1992,10000,E,35000,E,3500,E
+129,450,Madagascar,254,Oil palm fruit,1992,12051.3,E,23500,E,1950,E
+171,608,Philippines,254,Oil palm fruit,1992,13785.7,E,193000,E,14000,X
+131,458,Malaysia,254,Oil palm fruit,1992,15107,E,33200000,E,2197660,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1992,4408.5,E,1036000,A,235000,E
+53,204,Benin,254,Oil palm fruit,1992,8666.7,E,130000,E,15000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1992,6200.9,A,70678,A,11398,A
+29,108,Burundi,254,Oil palm fruit,1992,11920,E,14900,A,1250,E
+74,266,Gabon,254,Oil palm fruit,1992,9371.4,E,32800,X,3500,E
+216,764,Thailand,254,Oil palm fruit,1992,12439.7,A,1317460,A,105908,A
+41,156,"China, mainland",254,Oil palm fruit,1992,14024.4,E,575000,E,41000,E
+101,360,Indonesia,254,Oil palm fruit,1992,15134.9,A,13244564,A,875100,A
+123,430,Liberia,254,Oil palm fruit,1992,10672.3,E,127000,E,11900,E
+166,591,Panama,254,Oil palm fruit,1992,,,,M,,M
+46,178,Congo,254,Oil palm fruit,1992,11571.4,E,81000,E,7000,E
+159,566,Nigeria,254,Oil palm fruit,1992,2666.7,E,6800000,E,2550000,E
+56,214,Dominican Republic,254,Oil palm fruit,1993,14375,X,115000,X,8000,X
+129,450,Madagascar,254,Oil palm fruit,1993,12250,E,24500,E,2000,E
+131,458,Malaysia,254,Oil palm fruit,1993,17216.5,E,39700000,E,2305925,A
+159,566,Nigeria,254,Oil palm fruit,1993,2666.7,E,7200000,E,2700000,E
+207,740,Suriname,254,Oil palm fruit,1993,2085.3,A,8681,A,4163,A
+74,266,Gabon,254,Oil palm fruit,1993,10175,E,40700,X,4000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1993,17909.7,E,985033,A,55000,X
+169,600,Paraguay,254,Oil palm fruit,1993,9722.2,E,175000,E,18000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1993,7777.8,E,70000,E,9000,E
+217,768,Togo,254,Oil palm fruit,1993,8888.9,E,120000,E,13500,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1993,4411,E,1041000,A,236000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1993,11242.3,A,1503020,A,133693,A
+90,324,Guinea,254,Oil palm fruit,1993,2610.2,E,770000,E,295000,E
+157,558,Nicaragua,254,Oil palm fruit,1993,15000,E,30000,E,2000,X
+215,834,United Republic of Tanzania,254,Oil palm fruit,1993,12325.6,E,53000,E,4300,E
+7,24,Angola,254,Oil palm fruit,1993,11627.9,E,250000,E,21500,E
+21,76,Brazil,254,Oil palm fruit,1993,9421.8,A,656834,A,69714,A
+37,140,Central African Republic,254,Oil palm fruit,1993,8771.9,E,50000,E,5700,E
+123,430,Liberia,254,Oil palm fruit,1993,10672.3,E,127000,E,11900,E
+25,90,Solomon Islands,254,Oil palm fruit,1993,17500,E,140000,E,8000,X
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1993,8000.1,A,102881,A,12860,A
+58,218,Ecuador,254,Oil palm fruit,1993,14488.1,A,947231,A,65380,A
+170,604,Peru,254,Oil palm fruit,1993,26700,E,133500,A,5000,X
+41,156,"China, mainland",254,Oil palm fruit,1993,14634.1,E,600000,E,41000,E
+44,170,Colombia,254,Oil palm fruit,1993,15432.8,E,1750000,E,113395,A
+171,608,Philippines,254,Oil palm fruit,1993,13000,E,195000,E,15000,X
+32,120,Cameroon,254,Oil palm fruit,1993,19791.7,E,950000,E,48000,X
+48,188,Costa Rica,254,Oil palm fruit,1993,13684.2,A,364000,A,26600,A
+95,340,Honduras,254,Oil palm fruit,1993,17920.4,A,367870,A,20528,A
+101,360,Indonesia,254,Oil palm fruit,1993,18577.6,E,17110000,E,921000,A
+53,204,Benin,254,Oil palm fruit,1993,8666.7,E,130000,E,15000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1993,9482.8,E,5500,E,580,E
+115,116,Cambodia,254,Oil palm fruit,1993,12177.9,E,160000,I,13139,I
+75,270,Gambia,254,Oil palm fruit,1993,10000,E,35000,E,3500,E
+89,320,Guatemala,254,Oil palm fruit,1993,11666.7,E,105000,E,9000,X
+138,484,Mexico,254,Oil palm fruit,1993,15899.7,A,42659,A,2683,A
+29,108,Burundi,254,Oil palm fruit,1993,11600,E,14500,A,1250,E
+216,764,Thailand,254,Oil palm fruit,1993,13704.1,A,1828845,A,133452,A
+166,591,Panama,254,Oil palm fruit,1993,,,,M,,M
+81,288,Ghana,254,Oil palm fruit,1993,6444.4,E,870000,E,135000,E
+197,694,Sierra Leone,254,Oil palm fruit,1993,8061.7,E,235000,A,29150,E
+46,178,Congo,254,Oil palm fruit,1993,11857.1,E,83000,E,7000,E
+195,686,Senegal,254,Oil palm fruit,1993,10000,E,40000,E,4000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1993,10405.4,E,38500,E,3700,E
+115,116,Cambodia,254,Oil palm fruit,1994,12153.6,E,160000,I,13165,I
+197,694,Sierra Leone,254,Oil palm fruit,1994,8063.3,E,231418,A,28700,E
+29,108,Burundi,254,Oil palm fruit,1994,10400,E,13000,E,1250,E
+101,360,Indonesia,254,Oil palm fruit,1994,19177,E,20040000,E,1045000,A
+131,458,Malaysia,254,Oil palm fruit,1994,16086.2,E,38800000,E,2411999,A
+166,591,Panama,254,Oil palm fruit,1994,,,,M,,M
+46,178,Congo,254,Oil palm fruit,1994,12142.9,E,85000,E,7000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1994,11380.9,A,1521701,A,133706,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1994,4413.5,E,1046000,A,237000,E
+89,320,Guatemala,254,Oil palm fruit,1994,14700,E,147000,E,10000,X
+95,340,Honduras,254,Oil palm fruit,1994,13252.5,E,410826,A,31000,X
+138,484,Mexico,254,Oil palm fruit,1994,14000,A,27300,A,1950,A
+169,600,Paraguay,254,Oil palm fruit,1994,9722.2,E,175000,E,18000,E
+25,90,Solomon Islands,254,Oil palm fruit,1994,15750,X,126000,X,8000,X
+44,170,Colombia,254,Oil palm fruit,1994,15565.5,A,1681700,A,108040,A
+48,188,Costa Rica,254,Oil palm fruit,1994,17807.2,A,474598,A,26652,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1994,10416.7,E,37500,E,3600,E
+81,288,Ghana,254,Oil palm fruit,1994,6513.2,E,879278,A,135000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1994,7777.8,E,70000,E,9000,E
+170,604,Peru,254,Oil palm fruit,1994,25142.6,A,145073,A,5770,A
+171,608,Philippines,254,Oil palm fruit,1994,13857.1,E,194000,E,14000,X
+193,678,Sao Tome and Principe,254,Oil palm fruit,1994,9111.1,E,4100,E,450,E
+32,120,Cameroon,254,Oil palm fruit,1994,19387.8,E,950000,E,49000,X
+56,214,Dominican Republic,254,Oil palm fruit,1994,14222.2,X,128000,X,9000,X
+75,270,Gambia,254,Oil palm fruit,1994,10000,E,35000,E,3500,E
+41,156,"China, mainland",254,Oil palm fruit,1994,14634.1,E,600000,E,41000,E
+58,218,Ecuador,254,Oil palm fruit,1994,12517.1,A,1081600,A,86410,A
+216,764,Thailand,254,Oil palm fruit,1994,13815.1,A,1922516,A,139160,A
+7,24,Angola,254,Oil palm fruit,1994,12093,E,260000,E,21500,E
+37,140,Central African Republic,254,Oil palm fruit,1994,8771.9,E,50000,E,5700,E
+53,204,Benin,254,Oil palm fruit,1994,8666.7,E,130000,E,15000,E
+90,324,Guinea,254,Oil palm fruit,1994,2666.7,E,800000,E,300000,E
+159,566,Nigeria,254,Oil palm fruit,1994,2636.4,E,7250000,E,2750000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1994,16750,E,988251,A,59000,X
+217,768,Togo,254,Oil palm fruit,1994,8888.9,E,120000,E,13500,E
+123,430,Liberia,254,Oil palm fruit,1994,10672.3,E,127000,E,11900,E
+157,558,Nicaragua,254,Oil palm fruit,1994,20000,E,40000,E,2000,X
+195,686,Senegal,254,Oil palm fruit,1994,10000,E,50000,E,5000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1994,9000.4,A,144934,A,16103,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,1994,12272.7,E,54000,E,4400,E
+21,76,Brazil,254,Oil palm fruit,1994,9817.9,A,661609,A,67388,A
+207,740,Suriname,254,Oil palm fruit,1994,2027,E,7500,E,3700,E
+74,266,Gabon,254,Oil palm fruit,1994,9425,E,37700,X,4000,E
+129,450,Madagascar,254,Oil palm fruit,1994,11944.4,E,21500,E,1800,E
+7,24,Angola,254,Oil palm fruit,1995,12045.5,E,265000,E,22000,E
+53,204,Benin,254,Oil palm fruit,1995,10000,E,180000,E,18000,E
+29,108,Burundi,254,Oil palm fruit,1995,11200,E,14000,E,1250,E
+115,116,Cambodia,254,Oil palm fruit,1995,12129.2,E,160000,I,13191,I
+32,120,Cameroon,254,Oil palm fruit,1995,20000,E,1000000,E,50000,X
+41,156,"China, mainland",254,Oil palm fruit,1995,14634.1,E,600000,E,41000,E
+46,178,Congo,254,Oil palm fruit,1995,12428.6,E,87000,E,7000,E
+58,218,Ecuador,254,Oil palm fruit,1995,10983.7,A,999627,A,91010,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1995,10000,E,36000,E,3600,E
+75,270,Gambia,254,Oil palm fruit,1995,10000,E,35000,E,3500,E
+81,288,Ghana,254,Oil palm fruit,1995,6436.9,E,901170,A,140000,E
+123,430,Liberia,254,Oil palm fruit,1995,10672.3,E,127000,E,11900,E
+138,484,Mexico,254,Oil palm fruit,1995,10403.1,E,32000,E,3076,A
+170,604,Peru,254,Oil palm fruit,1995,25848.1,A,134100,A,5188,A
+171,608,Philippines,254,Oil palm fruit,1995,13500,E,189000,E,14000,X
+217,768,Togo,254,Oil palm fruit,1995,8774.2,E,136000,E,15500,E
+95,340,Honduras,254,Oil palm fruit,1995,14959.7,E,463752,A,31000,X
+157,558,Nicaragua,254,Oil palm fruit,1995,20500,E,41000,E,2000,X
+207,740,Suriname,254,Oil palm fruit,1995,2040,E,5100,E,2500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1995,9170.3,A,172393,A,18799,A
+159,566,Nigeria,254,Oil palm fruit,1995,2654.9,E,7800000,E,2938000,A
+169,600,Paraguay,254,Oil palm fruit,1995,9565.2,E,110000,E,11500,E
+195,686,Senegal,254,Oil palm fruit,1995,10000,E,69000,E,6900,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1995,4458,E,1061000,A,238000,E
+56,214,Dominican Republic,254,Oil palm fruit,1995,15111.1,X,136000,X,9000,X
+89,320,Guatemala,254,Oil palm fruit,1995,13333.3,E,160000,E,12000,X
+166,591,Panama,254,Oil palm fruit,1995,,,,M,,M
+215,834,United Republic of Tanzania,254,Oil palm fruit,1995,12500,E,55000,E,4400,E
+44,170,Colombia,254,Oil palm fruit,1995,16256.1,A,1842900,A,113367,A
+74,266,Gabon,254,Oil palm fruit,1995,9250,E,37000,X,4000,E
+25,90,Solomon Islands,254,Oil palm fruit,1995,16250,X,130000,X,8000,X
+90,324,Guinea,254,Oil palm fruit,1995,2666.7,E,800000,E,300000,E
+168,598,Papua New Guinea,254,Oil palm fruit,1995,15864.4,E,983592,A,62000,X
+216,764,Thailand,254,Oil palm fruit,1995,14692.1,A,2254098,A,153422,A
+37,140,Central African Republic,254,Oil palm fruit,1995,8888.9,E,40000,E,4500,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1995,10860.1,A,1451360,A,133641,A
+175,624,Guinea-Bissau,254,Oil palm fruit,1995,7777.8,E,70000,E,9000,E
+101,360,Indonesia,254,Oil palm fruit,1995,18823.5,E,22400000,E,1190000,A
+131,458,Malaysia,254,Oil palm fruit,1995,16613.6,E,42200000,E,2540087,A
+48,188,Costa Rica,254,Oil palm fruit,1995,17382.1,A,490000,A,28190,A
+197,694,Sierra Leone,254,Oil palm fruit,1995,8064.5,E,225000,E,27900,E
+129,450,Madagascar,254,Oil palm fruit,1995,11944.4,E,21500,E,1800,E
+21,76,Brazil,254,Oil palm fruit,1995,10007.5,A,680541,A,68003,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1995,9000,E,3600,E,400,E
+29,108,Burundi,254,Oil palm fruit,1996,11600,E,14500,E,1250,E
+46,178,Congo,254,Oil palm fruit,1996,12500,E,90000,E,7200,E
+56,214,Dominican Republic,254,Oil palm fruit,1996,14675.8,E,132082.34,I,9000,X
+81,288,Ghana,254,Oil palm fruit,1996,6562.6,E,984394,A,150000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1996,7777.8,E,70000,E,9000,E
+101,360,Indonesia,254,Oil palm fruit,1996,17145.7,E,24490000,E,1428350,A
+157,558,Nicaragua,254,Oil palm fruit,1996,25000,E,50000,E,2000,X
+159,566,Nigeria,254,Oil palm fruit,1996,2627.1,E,7750000,E,2950000,E
+32,120,Cameroon,254,Oil palm fruit,1996,19607.8,E,1000000,E,51000,X
+41,156,"China, mainland",254,Oil palm fruit,1996,14476.2,E,608000,E,42000,E
+74,266,Gabon,254,Oil palm fruit,1996,8375,E,33500,X,4000,E
+90,324,Guinea,254,Oil palm fruit,1996,2677.4,E,830000,E,310000,E
+95,340,Honduras,254,Oil palm fruit,1996,16001.5,E,496048,A,31000,X
+138,484,Mexico,254,Oil palm fruit,1996,14591.7,A,40098,A,2748,A
+195,686,Senegal,254,Oil palm fruit,1996,10000,E,60000,E,6000,E
+197,694,Sierra Leone,254,Oil palm fruit,1996,8067.8,E,238000,E,29500,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1996,12727.3,E,56000,E,4400,E
+216,764,Thailand,254,Oil palm fruit,1996,15644.7,A,2611334,A,166915,A
+217,768,Togo,254,Oil palm fruit,1996,8727.3,E,144000,E,16500,E
+207,740,Suriname,254,Oil palm fruit,1996,1998.2,E,3736.36,I,1870,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1996,9170.3,A,255054,A,27813,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1996,10277.8,E,37000,E,3600,E
+89,320,Guatemala,254,Oil palm fruit,1996,16000,E,240000,E,15000,X
+21,76,Brazil,254,Oil palm fruit,1996,10150.4,A,740262,A,72929,A
+7,24,Angola,254,Oil palm fruit,1996,12053.6,E,270000,E,22400,E
+169,600,Paraguay,254,Oil palm fruit,1996,9565.2,E,110000,E,11500,E
+44,170,Colombia,254,Oil palm fruit,1996,16243.1,A,1914300,A,117853,A
+53,204,Benin,254,Oil palm fruit,1996,10555.6,E,190000,E,18000,X
+58,218,Ecuador,254,Oil palm fruit,1996,12143.6,A,1103732,A,90890,A
+75,270,Gambia,254,Oil palm fruit,1996,10000,E,35000,E,3500,E
+170,604,Peru,254,Oil palm fruit,1996,22886.9,A,128098,A,5597,A
+48,188,Costa Rica,254,Oil palm fruit,1996,15492.5,A,422000,A,27239,A
+123,430,Liberia,254,Oil palm fruit,1996,10672.3,E,127000,E,11900,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1996,4485.4,E,1072000,A,239000,E
+131,458,Malaysia,254,Oil palm fruit,1996,16354.1,E,44030000,E,2692286,A
+166,591,Panama,254,Oil palm fruit,1996,,,,M,,M
+168,598,Papua New Guinea,254,Oil palm fruit,1996,16290.3,E,1010000,E,62000,X
+193,678,Sao Tome and Principe,254,Oil palm fruit,1996,9166.7,E,5500,E,600,E
+25,90,Solomon Islands,254,Oil palm fruit,1996,16250,X,130000,X,8000,X
+37,140,Central African Republic,254,Oil palm fruit,1996,8888.9,E,40000,E,4500,E
+129,450,Madagascar,254,Oil palm fruit,1996,11111.1,E,20000,E,1800,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1996,12352.1,E,1642835,A,133000,E
+171,608,Philippines,254,Oil palm fruit,1996,13285.7,E,186000,E,14000,X
+115,116,Cambodia,254,Oil palm fruit,1996,12104.9,E,160000,I,13218,I
+29,108,Burundi,254,Oil palm fruit,1997,12000,E,15000,E,1250,E
+115,116,Cambodia,254,Oil palm fruit,1997,12080.6,E,160000,I,13244,I
+44,170,Colombia,254,Oil palm fruit,1997,16997,A,2042900,A,120192,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1997,10000,E,35000,E,3500,E
+123,430,Liberia,254,Oil palm fruit,1997,10740.7,E,174000,E,16200,E
+159,566,Nigeria,254,Oil palm fruit,1997,2627.1,E,7750000,E,2950000,E
+169,600,Paraguay,254,Oil palm fruit,1997,9565.2,E,110000,E,11500,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,1997,9333.3,E,5600,E,600,E
+207,740,Suriname,254,Oil palm fruit,1997,1997.4,E,2305.41,I,1154,I
+217,768,Togo,254,Oil palm fruit,1997,8846.2,E,115000,E,13000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1997,12500,E,55000,E,4400,E
+25,90,Solomon Islands,254,Oil palm fruit,1997,17125,X,137000,X,8000,X
+46,178,Congo,254,Oil palm fruit,1997,12142.9,E,85000,E,7000,E
+216,764,Thailand,254,Oil palm fruit,1997,14521.8,A,2577508,A,177492,A
+53,204,Benin,254,Oil palm fruit,1997,10526.3,E,200000,E,19000,X
+37,140,Central African Republic,254,Oil palm fruit,1997,8888.9,E,40000,E,4500,E
+41,156,"China, mainland",254,Oil palm fruit,1997,14642.9,E,615000,E,42000,E
+48,188,Costa Rica,254,Oil palm fruit,1997,18393.1,A,489000,A,26586,A
+95,340,Honduras,254,Oil palm fruit,1997,17358.4,E,555469,A,32000,X
+138,484,Mexico,254,Oil palm fruit,1997,12971.6,A,35646,A,2748,A
+170,604,Peru,254,Oil palm fruit,1997,18998.3,A,143760,A,7567,A
+58,218,Ecuador,254,Oil palm fruit,1997,11944.5,A,1146434,A,95980,A
+74,266,Gabon,254,Oil palm fruit,1997,8750,E,35000,X,4000,E
+89,320,Guatemala,254,Oil palm fruit,1997,13750,E,220000,E,16000,X
+131,458,Malaysia,254,Oil palm fruit,1997,16477.2,E,47670000,E,2893089,A
+7,24,Angola,254,Oil palm fruit,1997,12045.5,E,265000,E,22000,E
+171,608,Philippines,254,Oil palm fruit,1997,13285.7,E,186000,E,14000,X
+195,686,Senegal,254,Oil palm fruit,1997,10000,E,60000,E,6000,E
+21,76,Brazil,254,Oil palm fruit,1997,9833.1,A,790038,A,80345,A
+75,270,Gambia,254,Oil palm fruit,1997,10000,E,35000,E,3500,E
+81,288,Ghana,254,Oil palm fruit,1997,6370,E,955505,A,150000,E
+90,324,Guinea,254,Oil palm fruit,1997,2677.4,E,830000,E,310000,E
+129,450,Madagascar,254,Oil palm fruit,1997,11666.7,E,21000,E,1800,E
+157,558,Nicaragua,254,Oil palm fruit,1997,26500,E,53000,E,2000,X
+56,214,Dominican Republic,254,Oil palm fruit,1997,14561.1,E,130104.72,I,8935,I
+197,694,Sierra Leone,254,Oil palm fruit,1997,8032.8,E,245000,E,30500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1997,11232.3,A,316022,A,28135,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,1997,7543.3,E,1010800,A,134000,X
+166,591,Panama,254,Oil palm fruit,1997,10204.1,E,25000,E,2450,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1997,8421.1,E,80000,E,9500,E
+32,120,Cameroon,254,Oil palm fruit,1997,20192.3,E,1050000,E,52000,X
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1997,5044.5,E,1109786,A,220000,E
+101,360,Indonesia,254,Oil palm fruit,1997,16597.8,E,26930000,E,1622503,A
+168,598,Papua New Guinea,254,Oil palm fruit,1997,14650.8,E,923000,E,63000,X
+21,76,Brazil,254,Oil palm fruit,1998,9523.1,A,752526,A,79021,A
+32,120,Cameroon,254,Oil palm fruit,1998,20192.3,E,1050000,E,52000,X
+131,458,Malaysia,254,Oil palm fruit,1998,14242.5,E,43840000,E,3078116,A
+25,90,Solomon Islands,254,Oil palm fruit,1998,17250,E,138000,A,8000,X
+207,740,Suriname,254,Oil palm fruit,1998,2000,E,500,E,250,E
+46,178,Congo,254,Oil palm fruit,1998,12253.5,E,87000,E,7100,E
+90,324,Guinea,254,Oil palm fruit,1998,2677.4,E,830000,E,310000,E
+166,591,Panama,254,Oil palm fruit,1998,10204.1,E,50000,E,4900,E
+168,598,Papua New Guinea,254,Oil palm fruit,1998,16406.3,E,1050000,E,64000,X
+169,600,Paraguay,254,Oil palm fruit,1998,9565.2,E,110000,E,11500,E
+170,604,Peru,254,Oil palm fruit,1998,17084.3,A,173184,A,10137,A
+7,24,Angola,254,Oil palm fruit,1998,12053.6,E,270000,E,22400,E
+41,156,"China, mainland",254,Oil palm fruit,1998,14465.1,E,622000,E,43000,E
+44,170,Colombia,254,Oil palm fruit,1998,16707.5,A,2057200,A,123130,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,1998,8383.6,A,1228200,A,146500,A
+61,226,Equatorial Guinea,254,Oil palm fruit,1998,10147.1,E,34500,E,3400,E
+175,624,Guinea-Bissau,254,Oil palm fruit,1998,8421.1,E,80000,E,9500,E
+123,430,Liberia,254,Oil palm fruit,1998,10740.7,E,174000,E,16200,E
+159,566,Nigeria,254,Oil palm fruit,1998,2644.1,E,7800000,E,2950000,E
+171,608,Philippines,254,Oil palm fruit,1998,13285.7,E,186000,E,14000,X
+53,204,Benin,254,Oil palm fruit,1998,11000,E,220000,E,20000,X
+115,116,Cambodia,254,Oil palm fruit,1998,12056.2,E,160000,I,13271,I
+37,140,Central African Republic,254,Oil palm fruit,1998,8888.9,E,40000,E,4500,E
+74,266,Gabon,254,Oil palm fruit,1998,8899.5,E,47101.59,I,5293,I
+89,320,Guatemala,254,Oil palm fruit,1998,14117.6,E,240000,E,17000,X
+138,484,Mexico,254,Oil palm fruit,1998,13000,E,65000,E,5000,X
+217,768,Togo,254,Oil palm fruit,1998,8846.2,E,115000,E,13000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1998,12888.9,E,58000,E,4500,E
+48,188,Costa Rica,254,Oil palm fruit,1998,16783.2,A,444000,A,26455,A
+58,218,Ecuador,254,Oil palm fruit,1998,15656.5,E,1503020,A,96000,E
+101,360,Indonesia,254,Oil palm fruit,1998,16439.4,E,29510000,E,1795081,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,1998,8909.1,E,4900,E,550,E
+216,764,Thailand,254,Oil palm fruit,1998,12277.4,A,2522863,A,205489,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1998,13548.6,A,338714,A,25000,A
+56,214,Dominican Republic,254,Oil palm fruit,1998,14593.4,E,171421.89,I,11747,I
+129,450,Madagascar,254,Oil palm fruit,1998,11666.7,E,21000,E,1800,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1998,5451.5,E,1144819,A,210000,E
+195,686,Senegal,254,Oil palm fruit,1998,10000,E,64000,E,6400,E
+75,270,Gambia,254,Oil palm fruit,1998,10000,E,35000,E,3500,E
+81,288,Ghana,254,Oil palm fruit,1998,6387.6,E,1022010,A,160000,E
+197,694,Sierra Leone,254,Oil palm fruit,1998,8064.5,E,200000,E,24800,E
+95,340,Honduras,254,Oil palm fruit,1998,19975.9,E,659205,A,33000,X
+157,558,Nicaragua,254,Oil palm fruit,1998,26500,E,53000,E,2000,X
+29,108,Burundi,254,Oil palm fruit,1998,11600,E,14500,E,1250,E
+74,266,Gabon,254,Oil palm fruit,1999,8900.7,E,51857.45,I,5826,I
+175,624,Guinea-Bissau,254,Oil palm fruit,1999,8421.1,E,80000,E,9500,E
+101,360,Indonesia,254,Oil palm fruit,1999,17745,E,32775000,E,1847000,X
+129,450,Madagascar,254,Oil palm fruit,1999,12222.2,E,22000,E,1800,E
+168,598,Papua New Guinea,254,Oil palm fruit,1999,16279.4,E,1107000,E,68000,X
+169,600,Paraguay,254,Oil palm fruit,1999,9615.4,E,125000,E,13000,E
+207,740,Suriname,254,Oil palm fruit,1999,2083.3,E,750,E,360,E
+29,108,Burundi,254,Oil palm fruit,1999,11200,E,14000,E,1250,E
+37,140,Central African Republic,254,Oil palm fruit,1999,7777.8,E,35000,E,4500,E
+58,218,Ecuador,254,Oil palm fruit,1999,10579.3,E,952140,A,90000,E
+81,288,Ghana,254,Oil palm fruit,1999,6449.5,E,1031919,A,160000,E
+115,116,Cambodia,254,Oil palm fruit,1999,12031.9,E,160000,I,13298,I
+216,764,Thailand,254,Oil palm fruit,1999,15858.3,A,3413030,A,215220,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,1999,5497.2,E,1099440,A,200000,E
+90,324,Guinea,254,Oil palm fruit,1999,2677.4,E,830000,E,310000,E
+123,430,Liberia,254,Oil palm fruit,1999,10740.7,E,174000,E,16200,E
+131,458,Malaysia,254,Oil palm fruit,1999,16599.3,E,55000000,E,3313393,A
+157,558,Nicaragua,254,Oil palm fruit,1999,26500,E,53000,E,2000,X
+170,604,Peru,254,Oil palm fruit,1999,25990.3,A,198852,A,7651,A
+195,686,Senegal,254,Oil palm fruit,1999,10000,E,64000,E,6400,E
+197,694,Sierra Leone,254,Oil palm fruit,1999,8027.5,E,175000,E,21800,E
+48,188,Costa Rica,254,Oil palm fruit,1999,13119,A,492000,A,37503,A
+25,90,Solomon Islands,254,Oil palm fruit,1999,16625,E,133000,E,8000,X
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,1999,13474.1,A,336260,A,24956,A
+44,170,Colombia,254,Oil palm fruit,1999,18688.2,E,2400000,X,128423,A
+46,178,Congo,254,Oil palm fruit,1999,12500,E,90000,E,7200,E
+61,226,Equatorial Guinea,254,Oil palm fruit,1999,10000,E,35000,E,3500,E
+138,484,Mexico,254,Oil palm fruit,1999,15833.3,E,95000,E,6000,X
+21,76,Brazil,254,Oil palm fruit,1999,8532.7,A,663611,A,77773,A
+32,120,Cameroon,254,Oil palm fruit,1999,20000,E,1100000,E,55000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,1999,8373.7,A,1325400,A,158282,A
+171,608,Philippines,254,Oil palm fruit,1999,13266.7,E,199000,E,15000,X
+193,678,Sao Tome and Principe,254,Oil palm fruit,1999,9166.7,E,5500,E,600,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,1999,13777.8,E,62000,E,4500,E
+41,156,"China, mainland",254,Oil palm fruit,1999,14651.2,E,630000,E,43000,E
+89,320,Guatemala,254,Oil palm fruit,1999,15789.5,E,300000,E,19000,X
+159,566,Nigeria,254,Oil palm fruit,1999,2666.7,E,8000000,E,3000000,E
+166,591,Panama,254,Oil palm fruit,1999,10363.6,E,57000,E,5500,E
+75,270,Gambia,254,Oil palm fruit,1999,10000,E,35000,E,3500,E
+217,768,Togo,254,Oil palm fruit,1999,8518.5,E,115000,E,13500,E
+53,204,Benin,254,Oil palm fruit,1999,11000,E,220000,E,20000,X
+56,214,Dominican Republic,254,Oil palm fruit,1999,14557.6,E,182735.23,I,12553,I
+7,24,Angola,254,Oil palm fruit,1999,12000,E,270000,E,22500,E
+95,340,Honduras,254,Oil palm fruit,1999,18466.7,E,609400,A,33000,X
+56,214,Dominican Republic,254,Oil palm fruit,2000,14521.9,E,196443.61,I,13527,I
+58,218,Ecuador,254,Oil palm fruit,2000,11781.6,X,1339400,X,113686,X
+75,270,Gambia,254,Oil palm fruit,2000,10000,E,35000,E,3500,E
+90,324,Guinea,254,Oil palm fruit,2000,2677.4,E,830000,E,310000,E
+95,340,Honduras,254,Oil palm fruit,2000,18194.1,E,618600,A,34000,X
+197,694,Sierra Leone,254,Oil palm fruit,2000,8027.5,E,175000,E,21800,E
+216,764,Thailand,254,Oil palm fruit,2000,14531.1,A,3342923,A,230053,A
+44,170,Colombia,254,Oil palm fruit,2000,18327.2,E,2470000,X,134772,A
+74,266,Gabon,254,Oil palm fruit,2000,8902.7,E,56985.95,I,6401,I
+193,678,Sao Tome and Principe,254,Oil palm fruit,2000,9727.3,E,10700,E,1100,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2000,5595.9,E,1119190,A,200000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,2000,10000,E,35000,E,3500,E
+129,450,Madagascar,254,Oil palm fruit,2000,11666.7,E,21000,E,1800,E
+170,604,Peru,254,Oil palm fruit,2000,14022.8,A,140088,A,9990,A
+115,116,Cambodia,254,Oil palm fruit,2000,12007.6,E,160000,I,13325,I
+25,90,Solomon Islands,254,Oil palm fruit,2000,16666.7,E,150000,E,9000,X
+207,740,Suriname,254,Oil palm fruit,2000,2000,E,1100,E,550,E
+32,120,Cameroon,254,Oil palm fruit,2000,19616.6,E,1100000,E,56075,A
+131,458,Malaysia,254,Oil palm fruit,2000,16762.1,E,56600000,E,3376664,A
+217,768,Togo,254,Oil palm fruit,2000,8518.5,E,115000,E,13500,E
+53,204,Benin,254,Oil palm fruit,2000,10476.2,E,220000,E,21000,X
+157,558,Nicaragua,254,Oil palm fruit,2000,26500,E,53000,E,2000,X
+159,566,Nigeria,254,Oil palm fruit,2000,2668.8,E,8220000,E,3080000,E
+46,178,Congo,254,Oil palm fruit,2000,12500,E,90000,E,7200,E
+101,360,Indonesia,254,Oil palm fruit,2000,18063.6,E,36380000,E,2014000,X
+138,484,Mexico,254,Oil palm fruit,2000,15333.3,E,138000,E,9000,X
+166,591,Panama,254,Oil palm fruit,2000,10357.1,E,58000,E,5600,E
+168,598,Papua New Guinea,254,Oil palm fruit,2000,17291.7,E,1245000,E,72000,X
+169,600,Paraguay,254,Oil palm fruit,2000,9615.4,E,125000,E,13000,E
+171,608,Philippines,254,Oil palm fruit,2000,15312.5,E,245000,E,16000,X
+215,834,United Republic of Tanzania,254,Oil palm fruit,2000,14222.2,E,64000,E,4500,E
+48,188,Costa Rica,254,Oil palm fruit,2000,15308.3,A,609117,A,39790,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2000,8421.1,E,80000,E,9500,E
+7,24,Angola,254,Oil palm fruit,2000,12173.9,E,280000,E,23000,E
+37,140,Central African Republic,254,Oil palm fruit,2000,7500,E,30000,E,4000,E
+89,320,Guatemala,254,Oil palm fruit,2000,15238.1,E,320000,E,21000,X
+123,430,Liberia,254,Oil palm fruit,2000,10740.7,E,174000,X,16200,E
+195,686,Senegal,254,Oil palm fruit,2000,10000,E,65000,E,6500,E
+21,76,Brazil,254,Oil palm fruit,2000,8289.2,A,678727,A,81881,A
+41,156,"China, mainland",254,Oil palm fruit,2000,14222.2,E,640000,E,45000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2000,15080.7,A,372658,A,24711,A
+29,108,Burundi,254,Oil palm fruit,2000,10833.3,E,13000,E,1200,E
+81,288,Ghana,254,Oil palm fruit,2000,6665.2,E,1066426,A,160000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,2000,7129.6,A,1133606,A,159000,A
+74,266,Gabon,254,Oil palm fruit,2001,8905.1,E,62455.91,I,7014,I
+81,288,Ghana,254,Oil palm fruit,2001,6122.7,E,1102087,A,180000,E
+95,340,Honduras,254,Oil palm fruit,2001,13113.6,E,668794,A,51000,X
+131,458,Malaysia,254,Oil palm fruit,2001,16847.6,E,58950000,E,3499012,A
+166,591,Panama,254,Oil palm fruit,2001,10172.4,E,59000,E,5800,E
+216,764,Thailand,254,Oil palm fruit,2001,16868.6,A,4096562,A,242852,A
+46,178,Congo,254,Oil palm fruit,2001,12500,E,90000,E,7200,E
+56,214,Dominican Republic,254,Oil palm fruit,2001,14486.2,E,210151.99,I,14507,I
+58,218,Ecuador,254,Oil palm fruit,2001,11392,E,1424000,E,125000,E
+101,360,Indonesia,254,Oil palm fruit,2001,18613.6,E,40950000,E,2200000,X
+159,566,Nigeria,254,Oil palm fruit,2001,2673,E,8500000,E,3180000,E
+195,686,Senegal,254,Oil palm fruit,2001,10000,E,65000,E,6500,E
+37,140,Central African Republic,254,Oil palm fruit,2001,7500,E,30000,E,4000,E
+44,170,Colombia,254,Oil palm fruit,2001,18778.4,E,2600000,E,138457,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2001,6073.7,A,993438,A,163565,A
+89,320,Guatemala,254,Oil palm fruit,2001,17391.3,E,400000,E,23000,X
+193,678,Sao Tome and Principe,254,Oil palm fruit,2001,9615.4,E,12500,E,1300,E
+197,694,Sierra Leone,254,Oil palm fruit,2001,8181.8,E,180000,E,22000,E
+25,90,Solomon Islands,254,Oil palm fruit,2001,16666.7,E,150000,E,9000,X
+75,270,Gambia,254,Oil palm fruit,2001,10000,E,35000,E,3500,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2001,14222.2,E,64000,E,4500,E
+7,24,Angola,254,Oil palm fruit,2001,12173.9,E,280000,E,23000,E
+90,324,Guinea,254,Oil palm fruit,2001,2677.4,E,830000,E,310000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,2001,8421.1,E,80000,E,9500,E
+168,598,Papua New Guinea,254,Oil palm fruit,2001,16240,E,1218000,E,75000,X
+169,600,Paraguay,254,Oil palm fruit,2001,9615.4,E,125000,E,13000,E
+171,608,Philippines,254,Oil palm fruit,2001,18000,E,288000,E,16000,X
+29,108,Burundi,254,Oil palm fruit,2001,10000,E,9500,X,950,E
+53,204,Benin,254,Oil palm fruit,2001,12777.8,E,230000,E,18000,X
+217,768,Togo,254,Oil palm fruit,2001,8518.5,E,115000,E,13500,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2001,6028.2,E,1085070,A,180000,E
+32,120,Cameroon,254,Oil palm fruit,2001,20909.1,E,1150000,E,55000,X
+41,156,"China, mainland",254,Oil palm fruit,2001,13829.8,E,650000,E,47000,E
+48,188,Costa Rica,254,Oil palm fruit,2001,16740,A,666084,A,39790,A
+129,450,Madagascar,254,Oil palm fruit,2001,11666.7,E,21000,E,1800,E
+138,484,Mexico,254,Oil palm fruit,2001,15333.3,E,184000,E,12000,X
+207,740,Suriname,254,Oil palm fruit,2001,2000,E,1100,E,550,E
+61,226,Equatorial Guinea,254,Oil palm fruit,2001,10000,E,35000,E,3500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2001,13873.5,A,348295,A,25105,A
+123,430,Liberia,254,Oil palm fruit,2001,10740.7,E,174000,X,16200,E
+170,604,Peru,254,Oil palm fruit,2001,15698.3,A,175821,A,11200,A
+21,76,Brazil,254,Oil palm fruit,2001,9122.6,A,772097,A,84636,A
+115,116,Cambodia,254,Oil palm fruit,2001,11983.2,E,160000,I,13352,I
+157,558,Nicaragua,254,Oil palm fruit,2001,26500,E,53000,E,2000,X
+37,140,Central African Republic,254,Oil palm fruit,2002,7500,E,30000,E,4000,E
+41,156,"China, mainland",254,Oil palm fruit,2002,14042.6,E,660000,E,47000,E
+44,170,Colombia,254,Oil palm fruit,2002,17927.8,E,2600000,E,145026,A
+48,188,Costa Rica,254,Oil palm fruit,2002,13446.3,A,571200,A,42480,A
+61,226,Equatorial Guinea,254,Oil palm fruit,2002,10000,E,35000,E,3500,E
+74,266,Gabon,254,Oil palm fruit,2002,8907.6,E,68235.88,I,7660,I
+95,340,Honduras,254,Oil palm fruit,2002,14239.5,E,797410,A,56000,X
+131,458,Malaysia,254,Oil palm fruit,2002,16224,E,59546000,E,3670243,A
+207,740,Suriname,254,Oil palm fruit,2002,2000,E,1100,E,550,E
+29,108,Burundi,254,Oil palm fruit,2002,10000,E,11000,X,1100,E
+53,204,Benin,254,Oil palm fruit,2002,13333.3,E,240000,E,18000,X
+75,270,Gambia,254,Oil palm fruit,2002,10000,E,35000,E,3500,E
+138,484,Mexico,254,Oil palm fruit,2002,14285.7,E,200000,E,14000,X
+168,598,Papua New Guinea,254,Oil palm fruit,2002,14911.4,E,1178000,E,79000,X
+107,384,Côte d'Ivoire,254,Oil palm fruit,2002,6580.5,A,1160122,A,176297,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2002,6188.5,E,1052040,A,170000,E
+89,320,Guatemala,254,Oil palm fruit,2002,16666.7,E,400000,E,24000,X
+101,360,Indonesia,254,Oil palm fruit,2002,16774.2,E,46800000,E,2790000,X
+157,558,Nicaragua,254,Oil palm fruit,2002,26500,E,53000,E,2000,E
+197,694,Sierra Leone,254,Oil palm fruit,2002,8181.8,E,180000,E,22000,E
+32,120,Cameroon,254,Oil palm fruit,2002,20535.7,E,1150000,E,56000,X
+56,214,Dominican Republic,254,Oil palm fruit,2002,14450.5,E,223860.38,I,15492,I
+169,600,Paraguay,254,Oil palm fruit,2002,9653.8,E,125500,E,13000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,2002,9807.7,E,12750,E,1300,E
+175,624,Guinea-Bissau,254,Oil palm fruit,2002,8421.1,E,80000,E,9500,E
+216,764,Thailand,254,Oil palm fruit,2002,15213.3,A,4001376,A,263018,A
+217,768,Togo,254,Oil palm fruit,2002,8518.5,E,115000,E,13500,E
+25,90,Solomon Islands,254,Oil palm fruit,2002,16666.7,E,150000,E,9000,X
+46,178,Congo,254,Oil palm fruit,2002,12500,E,90000,E,7200,E
+170,604,Peru,254,Oil palm fruit,2002,15578.9,A,148965,A,9562,A
+90,324,Guinea,254,Oil palm fruit,2002,2677.4,E,830000,E,310000,E
+171,608,Philippines,254,Oil palm fruit,2002,16909.7,A,337975,A,19987,A
+7,24,Angola,254,Oil palm fruit,2002,12173.9,E,280000,E,23000,E
+58,218,Ecuador,254,Oil palm fruit,2002,8942.3,A,909392,A,101696,A
+81,288,Ghana,254,Oil palm fruit,2002,6111.1,E,1100000,E,180000,E
+129,450,Madagascar,254,Oil palm fruit,2002,11666.7,E,21000,E,1800,E
+195,686,Senegal,254,Oil palm fruit,2002,10000,E,65000,E,6500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2002,12735.8,A,319873,A,25116,A
+166,591,Panama,254,Oil palm fruit,2002,10087.7,E,57500,E,5700,E
+123,430,Liberia,254,Oil palm fruit,2002,10740.7,E,174000,X,16200,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2002,14444.4,E,65000,E,4500,E
+159,566,Nigeria,254,Oil palm fruit,2002,2673,E,8500000,E,3180000,E
+115,116,Cambodia,254,Oil palm fruit,2002,11958.9,E,160000,I,13379,I
+21,76,Brazil,254,Oil palm fruit,2002,9161.1,A,717893,A,78363,A
+32,120,Cameroon,254,Oil palm fruit,2003,21052.6,E,1200000,E,57000,X
+46,178,Congo,254,Oil palm fruit,2003,12500,E,90000,E,7200,E
+89,320,Guatemala,254,Oil palm fruit,2003,16800,E,420000,E,25000,X
+95,340,Honduras,254,Oil palm fruit,2003,15241.8,E,929752,A,61000,X
+138,484,Mexico,254,Oil palm fruit,2003,16010,A,217063,A,13558,A
+157,558,Nicaragua,254,Oil palm fruit,2003,24318.2,E,53500,E,2200,E
+195,686,Senegal,254,Oil palm fruit,2003,10000,E,70000,E,7000,E
+197,694,Sierra Leone,254,Oil palm fruit,2003,8125,E,195000,E,24000,E
+207,740,Suriname,254,Oil palm fruit,2003,2000,E,1100,E,550,E
+29,108,Burundi,254,Oil palm fruit,2003,10000,E,15000,E,1500,E
+53,204,Benin,254,Oil palm fruit,2003,13500,E,270000,E,20000,X
+101,360,Indonesia,254,Oil palm fruit,2003,17302.6,E,52600000,E,3040000,X
+131,458,Malaysia,254,Oil palm fruit,2003,17562.9,E,66775000,E,3802040,A
+170,604,Peru,254,Oil palm fruit,2003,20357.2,A,180446,A,8864,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2003,10583.7,A,265905,A,25124,A
+61,226,Equatorial Guinea,254,Oil palm fruit,2003,10000,E,35000,E,3500,E
+115,116,Cambodia,254,Oil palm fruit,2003,11934.6,E,160000,I,13406,I
+107,384,Côte d'Ivoire,254,Oil palm fruit,2003,5991.1,A,1029141,A,171779,A
+90,324,Guinea,254,Oil palm fruit,2003,2677.4,E,830000,E,310000,E
+123,430,Liberia,254,Oil palm fruit,2003,10740.7,E,174000,X,16200,E
+169,600,Paraguay,254,Oil palm fruit,2003,9511.3,E,126500,E,13300,E
+217,768,Togo,254,Oil palm fruit,2003,8518.5,E,115000,E,13500,E
+41,156,"China, mainland",254,Oil palm fruit,2003,14255.3,E,670000,E,47000,E
+48,188,Costa Rica,254,Oil palm fruit,2003,13449.1,A,581000,A,43200,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2003,6658.1,E,1065300,A,160000,E
+75,270,Gambia,254,Oil palm fruit,2003,10000,E,35000,E,3500,E
+175,624,Guinea-Bissau,254,Oil palm fruit,2003,8421.1,E,80000,E,9500,E
+129,450,Madagascar,254,Oil palm fruit,2003,11666.7,E,21000,E,1800,E
+171,608,Philippines,254,Oil palm fruit,2003,17067.7,A,355111,A,20806,A
+7,24,Angola,254,Oil palm fruit,2003,12173.9,E,280000,E,23000,E
+21,76,Brazil,254,Oil palm fruit,2003,10435.5,A,896295,A,85889,A
+44,170,Colombia,254,Oil palm fruit,2003,17150.8,A,2579459,A,150399,A
+81,288,Ghana,254,Oil palm fruit,2003,6666.7,E,1600000,E,240000,E
+168,598,Papua New Guinea,254,Oil palm fruit,2003,14457.8,E,1200000,E,83000,X
+56,214,Dominican Republic,254,Oil palm fruit,2003,14414.8,E,237568.76,I,16481,I
+58,218,Ecuador,254,Oil palm fruit,2003,10399.9,A,991145,A,95303,A
+159,566,Nigeria,254,Oil palm fruit,2003,2615.8,E,8632000,E,3300000,E
+166,591,Panama,254,Oil palm fruit,2003,10172.4,E,59000,E,5800,E
+74,266,Gabon,254,Oil palm fruit,2003,8910.4,E,74293.47,I,8338,I
+37,140,Central African Republic,254,Oil palm fruit,2003,7567.6,E,28000,E,3700,E
+216,764,Thailand,254,Oil palm fruit,2003,17028.6,A,4902575,A,287903,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2003,9629.6,E,13000,E,1350,E
+25,90,Solomon Islands,254,Oil palm fruit,2003,16666.7,E,150000,E,9000,X
+215,834,United Republic of Tanzania,254,Oil palm fruit,2003,14444.4,E,65000,E,4500,E
+29,108,Burundi,254,Oil palm fruit,2004,10000,E,20000,E,2000,E
+32,120,Cameroon,254,Oil palm fruit,2004,21052.6,E,1200000,E,57000,X
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2004,6760,A,1078770,A,159581,A
+75,270,Gambia,254,Oil palm fruit,2004,10000,E,35000,E,3500,E
+166,591,Panama,254,Oil palm fruit,2004,10156.3,E,65000,E,6400,E
+170,604,Peru,254,Oil palm fruit,2004,21946.7,A,208538,A,9502,A
+44,170,Colombia,254,Oil palm fruit,2004,19745.4,A,3106500,A,157328,A
+48,188,Costa Rica,254,Oil palm fruit,2004,14377.7,A,670000,A,46600,A
+56,214,Dominican Republic,254,Oil palm fruit,2004,14378.9,E,251277.14,I,17475,I
+101,360,Indonesia,254,Oil palm fruit,2004,18222.9,E,60500000,E,3320000,X
+123,430,Liberia,254,Oil palm fruit,2004,10740.7,E,174000,X,16200,E
+138,484,Mexico,254,Oil palm fruit,2004,13899.1,A,247905,A,17836,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2004,6457.3,A,1311035,A,203031,A
+95,340,Honduras,254,Oil palm fruit,2004,13784.7,E,951142,A,69000,X
+129,450,Madagascar,254,Oil palm fruit,2004,11666.7,E,21000,E,1800,E
+171,608,Philippines,254,Oil palm fruit,2004,16022.4,A,355874,A,22211,A
+197,694,Sierra Leone,254,Oil palm fruit,2004,8076.9,E,210000,E,26000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2004,14444.4,E,65000,E,4500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2004,13478.6,A,331668,A,24607,A
+46,178,Congo,254,Oil palm fruit,2004,12500,E,100000,E,8000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,2004,8421.1,E,80000,E,9500,E
+195,686,Senegal,254,Oil palm fruit,2004,10000,E,70000,E,7000,E
+25,90,Solomon Islands,254,Oil palm fruit,2004,16666.7,E,150000,E,9000,X
+58,218,Ecuador,254,Oil palm fruit,2004,9916.9,A,1221346,A,123158,A
+61,226,Equatorial Guinea,254,Oil palm fruit,2004,10000,E,35000,E,3500,E
+74,266,Gabon,254,Oil palm fruit,2004,8913.2,E,80596.33,I,9042,I
+159,566,Nigeria,254,Oil palm fruit,2004,2620.5,E,8700000,E,3320000,E
+217,768,Togo,254,Oil palm fruit,2004,8518.5,E,115000,E,13500,E
+53,204,Benin,254,Oil palm fruit,2004,12857.1,E,270000,E,21000,X
+168,598,Papua New Guinea,254,Oil palm fruit,2004,14705.9,E,1250000,E,85000,X
+169,600,Paraguay,254,Oil palm fruit,2004,9592.4,E,125660,E,13100,E
+207,740,Suriname,254,Oil palm fruit,2004,2000,E,1100,E,550,E
+21,76,Brazil,254,Oil palm fruit,2004,10386.8,A,909285,A,87542,A
+37,140,Central African Republic,254,Oil palm fruit,2004,7567.6,E,28000,E,3700,E
+90,324,Guinea,254,Oil palm fruit,2004,2677.4,E,830000,E,310000,E
+41,156,"China, mainland",254,Oil palm fruit,2004,14361.7,E,675000,E,47000,E
+157,558,Nicaragua,254,Oil palm fruit,2004,22400,E,56000,E,2500,E
+216,764,Thailand,254,Oil palm fruit,2004,16760.6,A,5181797,A,309165,A
+89,320,Guatemala,254,Oil palm fruit,2004,16153.8,E,420000,E,26000,X
+193,678,Sao Tome and Principe,254,Oil palm fruit,2004,9642.9,E,13500,E,1400,E
+7,24,Angola,254,Oil palm fruit,2004,12173.9,E,280000,E,23000,E
+131,458,Malaysia,254,Oil palm fruit,2004,18032.3,E,69881000,E,3875327,A
+115,116,Cambodia,254,Oil palm fruit,2004,11884.7,E,160000,I,13463,I
+81,288,Ghana,254,Oil palm fruit,2004,6156.5,A,1955300,A,317600,A
+115,116,Cambodia,254,Oil palm fruit,2005,11809.1,E,160000,I,13549,I
+37,140,Central African Republic,254,Oil palm fruit,2005,7500,E,26250,E,3500,E
+46,178,Congo,254,Oil palm fruit,2005,12500,E,105000,E,8400,E
+56,214,Dominican Republic,254,Oil palm fruit,2005,14342.7,E,264985.52,I,18475,I
+75,270,Gambia,254,Oil palm fruit,2005,10000,E,35000,E,3500,E
+81,288,Ghana,254,Oil palm fruit,2005,6225.7,A,2024600,A,325200,A
+89,320,Guatemala,254,Oil palm fruit,2005,20000,E,540000,E,27000,X
+123,430,Liberia,254,Oil palm fruit,2005,10235.3,E,174000,X,17000,E
+138,484,Mexico,254,Oil palm fruit,2005,11932.4,A,219270,A,18376,A
+169,600,Paraguay,254,Oil palm fruit,2005,9587.2,E,125880,E,13130,E
+207,740,Suriname,254,Oil palm fruit,2005,2000,E,1100,E,550,E
+53,204,Benin,254,Oil palm fruit,2005,13181.8,E,290000,E,22000,X
+95,340,Honduras,254,Oil palm fruit,2005,12965.3,E,972394,A,75000,X
+129,450,Madagascar,254,Oil palm fruit,2005,11666.7,E,21000,E,1800,E
+131,458,Malaysia,254,Oil palm fruit,2005,18462.9,E,74800000,E,4051374,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2005,9642.9,E,13500,E,1400,E
+217,768,Togo,254,Oil palm fruit,2005,8518.5,E,115000,E,13500,E
+48,188,Costa Rica,254,Oil palm fruit,2005,15561.1,A,780000,A,50125,A
+168,598,Papua New Guinea,254,Oil palm fruit,2005,14772.7,E,1300000,E,88000,X
+171,608,Philippines,254,Oil palm fruit,2005,13926.2,A,354811,A,25478,A
+7,24,Angola,254,Oil palm fruit,2005,12173.9,E,280000,E,23000,E
+41,156,"China, mainland",254,Oil palm fruit,2005,14361.7,E,675000,E,47000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,2005,8421.1,E,80000,E,9500,E
+197,694,Sierra Leone,254,Oil palm fruit,2005,8076.9,E,210000,E,26000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2005,14444.4,E,65000,E,4500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2005,11586.9,A,304468,A,26277,A
+58,218,Ecuador,254,Oil palm fruit,2005,11058.5,A,1554391,A,140561,A
+157,558,Nicaragua,254,Oil palm fruit,2005,22920,E,57300,E,2500,E
+170,604,Peru,254,Oil palm fruit,2005,19297.5,A,199941,A,10361,A
+90,324,Guinea,254,Oil palm fruit,2005,2677.4,E,830000,E,310000,E
+166,591,Panama,254,Oil palm fruit,2005,10074.6,E,67500,E,6700,E
+216,764,Thailand,254,Oil palm fruit,2005,15431.1,A,5002670,A,324193,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2005,6760,A,1092450,A,161605,A
+25,90,Solomon Islands,254,Oil palm fruit,2005,16666.7,E,150000,E,9000,X
+44,170,Colombia,254,Oil palm fruit,2005,19299.5,A,3272500,A,169564,A
+195,686,Senegal,254,Oil palm fruit,2005,10000,E,70000,E,7000,E
+101,360,Indonesia,254,Oil palm fruit,2005,18970.2,E,70000000,E,3690000,X
+29,108,Burundi,254,Oil palm fruit,2005,10000,E,33000,E,3300,E
+32,120,Cameroon,254,Oil palm fruit,2005,20714.3,E,1450000,E,70000,X
+74,266,Gabon,254,Oil palm fruit,2005,8916,E,87113.51,I,9770,I
+61,226,Equatorial Guinea,254,Oil palm fruit,2005,10000,E,35000,E,3500,E
+159,566,Nigeria,254,Oil palm fruit,2005,2537.3,E,8500000,E,3350000,E
+21,76,Brazil,254,Oil palm fruit,2005,10275.8,A,903500,A,87925,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2005,6247.6,A,1231754,A,197156,A
+41,156,"China, mainland",254,Oil palm fruit,2006,14444.4,E,650000,E,45000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,2006,10000,E,35000,E,3500,E
+75,270,Gambia,254,Oil palm fruit,2006,10000,E,35000,E,3500,E
+175,624,Guinea-Bissau,254,Oil palm fruit,2006,8421.1,E,80000,E,9500,E
+166,591,Panama,254,Oil palm fruit,2006,10147.1,E,69000,E,6800,E
+169,600,Paraguay,254,Oil palm fruit,2006,9587.2,E,125880,E,13130,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,2006,9375,E,15000,E,1600,E
+195,686,Senegal,254,Oil palm fruit,2006,10000,E,70000,E,7000,E
+25,90,Solomon Islands,254,Oil palm fruit,2006,17000,E,170000,E,10000,X
+216,764,Thailand,254,Oil palm fruit,2006,17677.1,A,6715036,A,379872,A
+29,108,Burundi,254,Oil palm fruit,2006,10000,E,55000,E,5500,E
+44,170,Colombia,254,Oil palm fruit,2006,19393.9,E,3200000,E,165000,E
+48,188,Costa Rica,254,Oil palm fruit,2006,18023.5,A,872444,A,48406,A
+81,288,Ghana,254,Oil palm fruit,2006,6298.5,A,2097400,A,333000,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,2006,14444.4,E,65000,E,4500,E
+53,204,Benin,254,Oil palm fruit,2006,13636.4,E,300000,E,22000,X
+168,598,Papua New Guinea,254,Oil palm fruit,2006,14673.9,E,1350000,E,92000,X
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2006,12173.4,A,307403,A,25252,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2006,6059.5,A,1328443,A,219233,A
+56,214,Dominican Republic,254,Oil palm fruit,2006,14306.5,E,278693.91,I,19480,I
+90,324,Guinea,254,Oil palm fruit,2006,2677.4,E,830000,E,310000,E
+138,484,Mexico,254,Oil palm fruit,2006,14050.8,A,309582,A,22033,A
+217,768,Togo,254,Oil palm fruit,2006,8545.8,E,116563.39,I,13640,I
+159,566,Nigeria,254,Oil palm fruit,2006,2699.2,E,8300000,E,3075000,E
+171,608,Philippines,254,Oil palm fruit,2006,11876.2,A,373435,A,31444,A
+207,740,Suriname,254,Oil palm fruit,2006,2000,E,1100,E,550,E
+7,24,Angola,254,Oil palm fruit,2006,12173.9,E,280000,E,23000,E
+58,218,Ecuador,254,Oil palm fruit,2006,11671.5,A,1673088,A,143348,A
+95,340,Honduras,254,Oil palm fruit,2006,17755.2,E,1420414,A,80000,X
+101,360,Indonesia,254,Oil palm fruit,2006,19525.5,E,80250000,E,4110000,X
+129,450,Madagascar,254,Oil palm fruit,2006,11666.7,E,21000,E,1800,E
+131,458,Malaysia,254,Oil palm fruit,2006,19062.6,E,79400000,E,4165215,A
+197,694,Sierra Leone,254,Oil palm fruit,2006,8125,E,195000,E,24000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2006,6520.9,A,1106300,A,169654,A
+32,120,Cameroon,254,Oil palm fruit,2006,20833.3,E,1500000,E,72000,X
+157,558,Nicaragua,254,Oil palm fruit,2006,23480,E,58700,E,2500,E
+74,266,Gabon,254,Oil palm fruit,2006,8925.8,E,93816.87,I,10511,I
+170,604,Peru,254,Oil palm fruit,2006,21673.8,A,236374,A,10906,A
+21,76,Brazil,254,Oil palm fruit,2006,12509.5,A,1207276,A,96509,A
+37,140,Central African Republic,254,Oil palm fruit,2006,7500,E,22500,E,3000,E
+46,178,Congo,254,Oil palm fruit,2006,12500,E,135000,E,10800,E
+89,320,Guatemala,254,Oil palm fruit,2006,17777.8,E,800000,E,45000,X
+123,430,Liberia,254,Oil palm fruit,2006,10235.3,E,174000,X,17000,E
+115,116,Cambodia,254,Oil palm fruit,2006,11733.6,E,160000,I,13636,I
+37,140,Central African Republic,254,Oil palm fruit,2007,7500,E,18750,E,2500,E
+129,450,Madagascar,254,Oil palm fruit,2007,11666.7,E,21000,E,1800,E
+131,458,Malaysia,254,Oil palm fruit,2007,18354.4,A,79014140,A,4304913,A
+197,694,Sierra Leone,254,Oil palm fruit,2007,8166.7,E,196000,E,24000,E
+217,768,Togo,254,Oil palm fruit,2007,8553.3,E,116526.49,I,13624,I
+48,188,Costa Rica,254,Oil palm fruit,2007,17043.3,A,825000,A,48406,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2007,6696.7,A,1359470,A,203006,A
+138,484,Mexico,254,Oil palm fruit,2007,12287.8,A,292499,A,23804,A
+169,600,Paraguay,254,Oil palm fruit,2007,9500,E,142500,E,15000,E
+56,214,Dominican Republic,254,Oil palm fruit,2007,14270.2,E,292402.29,I,20490,I
+74,266,Gabon,254,Oil palm fruit,2007,9012.2,E,101740.41,I,11289,I
+175,624,Guinea-Bissau,254,Oil palm fruit,2007,8421.1,E,80000,E,9500,E
+157,558,Nicaragua,254,Oil palm fruit,2007,20000,E,60000,E,3000,X
+216,764,Thailand,254,Oil palm fruit,2007,14995.7,A,6389983,A,426120,A
+115,116,Cambodia,254,Oil palm fruit,2007,11658.1,E,160000,I,13724,I
+46,178,Congo,254,Oil palm fruit,2007,12522.5,E,139000,E,11100,E
+61,226,Equatorial Guinea,254,Oil palm fruit,2007,10000,E,35000,E,3500,E
+95,340,Honduras,254,Oil palm fruit,2007,16599.4,E,1427552,A,86000,X
+53,204,Benin,254,Oil palm fruit,2007,13913,E,320000,E,23000,X
+21,76,Brazil,254,Oil palm fruit,2007,10522.4,A,1073727,A,102042,A
+29,108,Burundi,254,Oil palm fruit,2007,10000,E,85000,E,8500,E
+44,170,Colombia,254,Oil palm fruit,2007,19393.9,E,3200000,E,165000,E
+90,324,Guinea,254,Oil palm fruit,2007,2677.4,E,830000,E,310000,E
+159,566,Nigeria,254,Oil palm fruit,2007,2698.4,E,8500000,E,3150000,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,2007,9375,E,15000,E,1600,E
+207,740,Suriname,254,Oil palm fruit,2007,2000,E,1200,E,600,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2007,14444.4,E,65000,E,4500,E
+81,288,Ghana,254,Oil palm fruit,2007,5616.9,A,1684500,A,299900,A
+101,360,Indonesia,254,Oil palm fruit,2007,17105.3,E,78000000,E,4560000,X
+166,591,Panama,254,Oil palm fruit,2007,10132.5,E,76500,E,7550,E
+168,598,Papua New Guinea,254,Oil palm fruit,2007,14583.3,E,1400000,E,96000,X
+195,686,Senegal,254,Oil palm fruit,2007,10000,E,71000,E,7100,E
+25,90,Solomon Islands,254,Oil palm fruit,2007,17000,E,170000,E,10000,X
+75,270,Gambia,254,Oil palm fruit,2007,10000,E,36000,E,3600,E
+171,608,Philippines,254,Oil palm fruit,2007,11248.6,A,414162,A,36819,A
+32,120,Cameroon,254,Oil palm fruit,2007,21274.6,E,1550000,E,72857,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2007,12269.3,A,327750,A,26713,A
+41,156,"China, mainland",254,Oil palm fruit,2007,13854.2,E,665000,E,48000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2007,6513.7,E,1120350,A,172000,E
+7,24,Angola,254,Oil palm fruit,2007,12173.9,E,280000,E,23000,E
+123,430,Liberia,254,Oil palm fruit,2007,10235.3,E,174000,X,17000,E
+170,604,Peru,254,Oil palm fruit,2007,18933.5,A,238448,A,12594,A
+58,218,Ecuador,254,Oil palm fruit,2007,12457.2,A,1809473,A,145255,A
+89,320,Guatemala,254,Oil palm fruit,2007,18333.3,E,880000,E,48000,X
+101,360,Indonesia,254,Oil palm fruit,2008,17068.3,E,85000000,E,4980000,X
+131,458,Malaysia,254,Oil palm fruit,2008,19552.3,A,87749840,A,4487957,A
+166,591,Panama,254,Oil palm fruit,2008,11904.8,E,75000,A,6300,E
+195,686,Senegal,254,Oil palm fruit,2008,10705.9,E,91000,E,8500,E
+25,90,Solomon Islands,254,Oil palm fruit,2008,16118.2,E,177300,E,11000,X
+48,188,Costa Rica,254,Oil palm fruit,2008,16410.6,A,863200,A,52600,A
+58,218,Ecuador,254,Oil palm fruit,2008,14744.5,A,2204314,A,149501,A
+90,324,Guinea,254,Oil palm fruit,2008,2677.4,E,830000,E,310000,E
+115,116,Cambodia,254,Oil palm fruit,2008,11582.6,E,160000,I,13814,I
+46,178,Congo,254,Oil palm fruit,2008,12511.2,E,139500,E,11150,E
+95,340,Honduras,254,Oil palm fruit,2008,15400.9,E,1432287,A,93000,X
+138,484,Mexico,254,Oil palm fruit,2008,11874.3,A,307757,A,25918,A
+171,608,Philippines,254,Oil palm fruit,2008,12072.7,A,465995,A,38599,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2008,9090.9,E,15000,E,1650,E
+53,204,Benin,254,Oil palm fruit,2008,13750,E,330000,E,24000,X
+37,140,Central African Republic,254,Oil palm fruit,2008,7586.3,E,14414,A,1900,E
+41,156,"China, mainland",254,Oil palm fruit,2008,13916.7,E,668000,E,48000,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,2008,6623.5,E,1424043,A,215000,X
+61,226,Equatorial Guinea,254,Oil palm fruit,2008,10000,E,35000,E,3500,E
+75,270,Gambia,254,Oil palm fruit,2008,10000,E,35000,E,3500,E
+89,320,Guatemala,254,Oil palm fruit,2008,16800,E,840000,E,50000,X
+157,558,Nicaragua,254,Oil palm fruit,2008,21100,E,63300,E,3000,X
+159,566,Nigeria,254,Oil palm fruit,2008,2656.3,E,8500000,E,3200000,E
+7,24,Angola,254,Oil palm fruit,2008,10869.6,E,250000,E,23000,E
+21,76,Brazil,254,Oil palm fruit,2008,10577,A,1091104,A,103158,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2008,8421.1,E,80000,E,9500,E
+123,430,Liberia,254,Oil palm fruit,2008,10235.3,E,174000,X,17000,E
+168,598,Papua New Guinea,254,Oil palm fruit,2008,14529.9,E,1700000,E,117000,X
+217,768,Togo,254,Oil palm fruit,2008,8564.5,E,116471.02,I,13599,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2008,11895.7,A,369909,A,31096,A
+32,120,Cameroon,254,Oil palm fruit,2008,19884.4,E,1555000,E,78202,A
+170,604,Peru,254,Oil palm fruit,2008,18946.4,E,265250,E,14000,X
+197,694,Sierra Leone,254,Oil palm fruit,2008,8040,E,201000,E,25000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2008,14444.4,E,65000,E,4500,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2008,6483.3,E,1134580,A,175000,E
+44,170,Colombia,254,Oil palm fruit,2008,19393.9,E,3200000,E,165000,E
+74,266,Gabon,254,Oil palm fruit,2008,8919.6,E,116841.26,I,13099,I
+81,288,Ghana,254,Oil palm fruit,2008,5615,A,1896760,A,337800,A
+56,214,Dominican Republic,254,Oil palm fruit,2008,14234,E,306110.67,I,21506,I
+216,764,Thailand,254,Oil palm fruit,2008,20085.4,A,9270510,A,461555,A
+29,108,Burundi,254,Oil palm fruit,2008,10000,E,95000,E,9500,E
+169,600,Paraguay,254,Oil palm fruit,2008,9500,E,142500,E,15000,E
+129,450,Madagascar,254,Oil palm fruit,2008,11657.5,E,21100,E,1810,E
+207,740,Suriname,254,Oil palm fruit,2008,2000,E,1200,E,600,E
+58,218,Ecuador,254,Oil palm fruit,2009,11387.2,A,2226775,A,195550,A
+101,360,Indonesia,254,Oil palm fruit,2009,18000,E,90000000,E,5000000,E
+131,458,Malaysia,254,Oil palm fruit,2009,18269.6,A,85705499,A,4691160,A
+138,484,Mexico,254,Oil palm fruit,2009,12999.2,A,367084,A,28239,A
+157,558,Nicaragua,254,Oil palm fruit,2009,24333.3,E,73000,A,3000,X
+166,591,Panama,254,Oil palm fruit,2009,10150.3,E,77650,E,7650,E
+197,694,Sierra Leone,254,Oil palm fruit,2009,8038.5,E,209000,E,26000,E
+217,768,Togo,254,Oil palm fruit,2009,8577.6,E,116405.63,I,13571,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2009,14444.4,E,65000,E,4500,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2009,11509.8,A,345134,A,29986,A
+21,76,Brazil,254,Oil palm fruit,2009,10802.3,A,1122399,A,103904,A
+29,108,Burundi,254,Oil palm fruit,2009,10000,E,90000,E,9000,E
+32,120,Cameroon,254,Oil palm fruit,2009,15669.5,E,1600000,E,102109,A
+41,156,"China, mainland",254,Oil palm fruit,2009,13400,E,670000,E,50000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,2009,10000,E,35000,E,3500,E
+81,288,Ghana,254,Oil palm fruit,2009,5962.6,A,2103600,A,352800,A
+168,598,Papua New Guinea,254,Oil palm fruit,2009,14537.8,E,1730000,E,119000,X
+175,624,Guinea-Bissau,254,Oil palm fruit,2009,8526.3,E,81000,E,9500,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,2009,9697,E,16000,E,1650,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,2009,7137.8,E,1748754,A,245000,X
+171,608,Philippines,254,Oil palm fruit,2009,12453.3,A,516115,A,41444,A
+216,764,Thailand,254,Oil palm fruit,2009,16005.2,A,8162703,A,510003,A
+37,140,Central African Republic,254,Oil palm fruit,2009,7541,E,9200,A,1220,E
+48,188,Costa Rica,254,Oil palm fruit,2009,16322.7,A,897750,A,55000,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2009,6496.6,E,1149900,A,177000,E
+90,324,Guinea,254,Oil palm fruit,2009,2677.4,E,830000,E,310000,E
+170,604,Peru,254,Oil palm fruit,2009,14727.9,A,268268,A,18215,A
+25,90,Solomon Islands,254,Oil palm fruit,2009,15151.7,E,181820,E,12000,X
+44,170,Colombia,254,Oil palm fruit,2009,19393.9,E,3200000,E,165000,E
+75,270,Gambia,254,Oil palm fruit,2009,10000,E,35000,E,3500,E
+7,24,Angola,254,Oil palm fruit,2009,12173.9,E,280000,E,23000,E
+74,266,Gabon,254,Oil palm fruit,2009,8926.1,E,124783.08,I,13980,I
+89,320,Guatemala,254,Oil palm fruit,2009,16923.1,E,880000,E,52000,X
+123,430,Liberia,254,Oil palm fruit,2009,10235.3,E,174000,X,17000,E
+46,178,Congo,254,Oil palm fruit,2009,12500,E,140000,E,11200,E
+53,204,Benin,254,Oil palm fruit,2009,17600,E,440000,E,25000,X
+169,600,Paraguay,254,Oil palm fruit,2009,9500,E,152000,E,16000,E
+56,214,Dominican Republic,254,Oil palm fruit,2009,14197.8,E,319819.05,I,22526,I
+159,566,Nigeria,254,Oil palm fruit,2009,2656.3,E,8500000,E,3200000,E
+207,740,Suriname,254,Oil palm fruit,2009,2000,E,1250,E,625,E
+95,340,Honduras,254,Oil palm fruit,2009,15789.5,E,1578952,A,100000,X
+129,450,Madagascar,254,Oil palm fruit,2009,11657.5,E,21100,E,1810,E
+195,686,Senegal,254,Oil palm fruit,2009,10333.3,E,93000,E,9000,E
+115,116,Cambodia,254,Oil palm fruit,2009,11507.1,E,160000,I,13904,I
+7,24,Angola,254,Oil palm fruit,2010,12173.9,E,280000,E,23000,E
+115,116,Cambodia,254,Oil palm fruit,2010,11431.6,E,160000,I,13996,I
+37,140,Central African Republic,254,Oil palm fruit,2010,7553.6,E,4721,A,625,E
+89,320,Guatemala,254,Oil palm fruit,2010,15798.3,E,940000,E,59500,A
+95,340,Honduras,254,Oil palm fruit,2010,16840.2,E,1768216,A,105000,X
+159,566,Nigeria,254,Oil palm fruit,2010,2500,E,8000000,E,3200000,E
+21,76,Brazil,254,Oil palm fruit,2010,12147.3,A,1292713,A,106420,A
+41,156,"China, mainland",254,Oil palm fruit,2010,14042.6,E,660000,E,47000,E
+46,178,Congo,254,Oil palm fruit,2010,12500,E,141250,E,11300,E
+90,324,Guinea,254,Oil palm fruit,2010,2677.4,E,830000,E,310000,E
+157,558,Nicaragua,254,Oil palm fruit,2010,21675,E,86700,E,4000,X
+197,694,Sierra Leone,254,Oil palm fruit,2010,8000,E,212000,E,26500,E
+207,740,Suriname,254,Oil palm fruit,2010,2000,E,1250,E,625,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2010,11336.9,A,369208,A,32567,A
+48,188,Costa Rica,254,Oil palm fruit,2010,17294.7,A,985800,A,57000,A
+56,214,Dominican Republic,254,Oil palm fruit,2010,14000.1,E,236000,E,16857,E
+58,218,Ecuador,254,Oil palm fruit,2010,14730.9,A,2850465,A,193502,A
+74,266,Gabon,254,Oil palm fruit,2010,8932.6,E,132837.66,I,14871,I
+81,288,Ghana,254,Oil palm fruit,2010,5567.5,E,2004300,A,360000,X
+138,484,Mexico,254,Oil palm fruit,2010,13777.3,A,438172,A,31804,A
+170,604,Peru,254,Oil palm fruit,2010,15313.7,A,291802,A,19055,A
+171,608,Philippines,254,Oil palm fruit,2010,12553.5,A,565459.5,A,45044,A
+216,764,Thailand,254,Oil palm fruit,2010,15191.5,A,8227238,A,541569,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,2010,14479.2,E,69500,E,4800,E
+44,170,Colombia,254,Oil palm fruit,2010,19637.3,E,3994523.34,I,203415,I
+107,384,Côte d'Ivoire,254,Oil palm fruit,2010,6025.8,E,1566711,A,260000,X
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2010,6528.6,E,1163583,A,178229,I
+25,90,Solomon Islands,254,Oil palm fruit,2010,14692.3,E,191000,E,13000,X
+217,768,Togo,254,Oil palm fruit,2010,8591.9,E,116338.96,I,13541,I
+61,226,Equatorial Guinea,254,Oil palm fruit,2010,10000,E,35000,E,3500,E
+129,450,Madagascar,254,Oil palm fruit,2010,11648.4,E,21200,E,1820,E
+131,458,Malaysia,254,Oil palm fruit,2010,17118.9,A,83090935,A,4853766,A
+123,430,Liberia,254,Oil palm fruit,2010,10235.3,E,174000,X,17000,E
+175,624,Guinea-Bissau,254,Oil palm fruit,2010,8421.1,E,80000,E,9500,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,2010,9640.7,E,16100,E,1670,E
+75,270,Gambia,254,Oil palm fruit,2010,10000,E,35000,E,3500,E
+169,600,Paraguay,254,Oil palm fruit,2010,9500,E,152000,E,16000,E
+29,108,Burundi,254,Oil palm fruit,2010,10000,E,84000,E,8400,E
+53,204,Benin,254,Oil palm fruit,2010,17692.3,E,460000,E,26000,X
+101,360,Indonesia,254,Oil palm fruit,2010,19204.2,E,111000000,E,5780000,X
+166,591,Panama,254,Oil palm fruit,2010,10099.2,E,61100,E,6050,E
+168,598,Papua New Guinea,254,Oil palm fruit,2010,13703.7,E,1850000,E,135000,X
+32,120,Cameroon,254,Oil palm fruit,2010,19567.7,E,2200000,E,112430,A
+195,686,Senegal,254,Oil palm fruit,2010,11428.6,E,120000,E,10500,E
+53,204,Benin,254,Oil palm fruit,2011,15862.1,E,460000,E,29000,X
+175,624,Guinea-Bissau,254,Oil palm fruit,2011,8473.7,E,80500,E,9500,E
+95,340,Honduras,254,Oil palm fruit,2011,16971.9,E,1866912,A,110000,X
+101,360,Indonesia,254,Oil palm fruit,2011,18962.7,E,117000000,E,6170000,X
+138,484,Mexico,254,Oil palm fruit,2011,15504.4,A,507011,A,32701,A
+217,768,Togo,254,Oil palm fruit,2011,8606.6,E,116279.67,I,13511,I
+29,108,Burundi,254,Oil palm fruit,2011,10000,E,70000,E,7000,E
+46,178,Congo,254,Oil palm fruit,2011,12566.4,E,142000,E,11300,E
+48,188,Costa Rica,254,Oil palm fruit,2011,17500,A,1050000,A,60000,A
+75,270,Gambia,254,Oil palm fruit,2011,10000,E,35000,E,3500,E
+89,320,Guatemala,254,Oil palm fruit,2011,18000,E,1260000,E,70000,X
+168,598,Papua New Guinea,254,Oil palm fruit,2011,13986,E,2000000,E,143000,X
+170,604,Peru,254,Oil palm fruit,2011,10796.5,A,359784,A,33324,A
+216,764,Thailand,254,Oil palm fruit,2011,18861.5,A,10760020,A,570474,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2011,6173.6,E,1636000,A,265000,X
+56,214,Dominican Republic,254,Oil palm fruit,2011,14000.2,E,258500,E,18464,E
+81,288,Ghana,254,Oil palm fruit,2011,5994.8,E,2125600,A,354577,I
+90,324,Guinea,254,Oil palm fruit,2011,2677.4,E,830000,E,310000,E
+123,430,Liberia,254,Oil palm fruit,2011,10178.2,E,173029.04,I,17000,E
+131,458,Malaysia,254,Oil palm fruit,2011,18583.1,A,92917496,A,5000109,A
+157,558,Nicaragua,254,Oil palm fruit,2011,21675,E,86700,E,4000,X
+207,740,Suriname,254,Oil palm fruit,2011,2000,E,1300,E,650,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2011,14200,E,71000,E,5000,E
+7,24,Angola,254,Oil palm fruit,2011,12173.9,E,280000,E,23000,E
+21,76,Brazil,254,Oil palm fruit,2011,11928.8,A,1301192,A,109080,A
+115,116,Cambodia,254,Oil palm fruit,2011,11356,E,160000,I,14089,I
+41,156,"China, mainland",254,Oil palm fruit,2011,13541.7,E,650000,E,48000,E
+61,226,Equatorial Guinea,254,Oil palm fruit,2011,10000,E,35000,E,3500,E
+74,266,Gabon,254,Oil palm fruit,2011,8939.1,E,140997.58,I,15773,I
+159,566,Nigeria,254,Oil palm fruit,2011,2500,E,8000000,E,3200000,E
+197,694,Sierra Leone,254,Oil palm fruit,2011,8000,E,212000,E,26500,E
+32,120,Cameroon,254,Oil palm fruit,2011,16424.4,E,2000000,E,121770,A
+58,218,Ecuador,254,Oil palm fruit,2011,10349.6,A,2097356,A,202651,A
+129,450,Madagascar,254,Oil palm fruit,2011,11648.4,E,21200,E,1820,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2011,11633.6,A,422219,A,36293,A
+195,686,Senegal,254,Oil palm fruit,2011,11428.6,E,120000,E,10500,E
+25,90,Solomon Islands,254,Oil palm fruit,2011,13642.9,E,191000,E,14000,X
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2011,6620.6,E,1186074.29,I,179148,I
+37,140,Central African Republic,254,Oil palm fruit,2011,7936.5,E,5000,E,630,E
+44,170,Colombia,254,Oil palm fruit,2011,19958.3,E,4613805,A,231172,I
+166,591,Panama,254,Oil palm fruit,2011,10116.5,E,52100,E,5150,E
+171,608,Philippines,254,Oil palm fruit,2011,10965.6,A,540913.5,A,49328,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2011,9640.7,E,16100,E,1670,E
+169,600,Paraguay,254,Oil palm fruit,2011,9500,E,152000,E,16000,E
+7,24,Angola,254,Oil palm fruit,2012,12173.9,E,280000,E,23000,E
+21,76,Brazil,254,Oil palm fruit,2012,10969.1,A,1240992,A,113135,A
+44,170,Colombia,254,Oil palm fruit,2012,19874.8,E,4670860,A,235014,I
+46,178,Congo,254,Oil palm fruit,2012,12478.3,E,143500,E,11500,E
+48,188,Costa Rica,254,Oil palm fruit,2012,17500,A,1111250,A,63500,A
+90,324,Guinea,254,Oil palm fruit,2012,2677.4,E,830000,E,310000,E
+157,558,Nicaragua,254,Oil palm fruit,2012,20000,E,80000,E,4000,X
+166,591,Panama,254,Oil palm fruit,2012,10075.5,E,53400,E,5300,E
+169,600,Paraguay,254,Oil palm fruit,2012,9500,E,152000,E,16000,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2012,13942.3,E,72500,E,5200,E
+29,108,Burundi,254,Oil palm fruit,2012,10000,E,72000,E,7200,E
+37,140,Central African Republic,254,Oil palm fruit,2012,8730.2,E,5500,E,630,E
+115,116,Cambodia,254,Oil palm fruit,2012,11335.8,E,160000,I,14115,I
+170,604,Peru,254,Oil palm fruit,2012,13693.3,A,518319,A,37852,A
+216,764,Thailand,254,Oil palm fruit,2012,19106,A,11312301,A,592081,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2012,6885.9,E,1838540,A,267000,X
+61,226,Equatorial Guinea,254,Oil palm fruit,2012,10285.7,E,36000,E,3500,E
+81,288,Ghana,254,Oil palm fruit,2012,5674.7,A,2196100,A,387000,A
+131,458,Malaysia,254,Oil palm fruit,2012,18695.9,A,94917736,A,5076929,A
+159,566,Nigeria,254,Oil palm fruit,2012,2492.3,E,8100000,E,3250000,E
+217,768,Togo,254,Oil palm fruit,2012,8620.8,E,116313.7,I,13492,I
+56,214,Dominican Republic,254,Oil palm fruit,2012,14000.2,E,262000,E,18714,E
+58,218,Ecuador,254,Oil palm fruit,2012,13340.1,A,2649051,A,198578,A
+53,204,Benin,254,Oil palm fruit,2012,16562.5,E,530000,E,32000,X
+32,120,Cameroon,254,Oil palm fruit,2012,15625,E,2000000,E,128000,X
+95,340,Honduras,254,Oil palm fruit,2012,16997.6,E,1988723,A,117000,X
+168,598,Papua New Guinea,254,Oil palm fruit,2012,14041.1,E,2050000,E,146000,X
+193,678,Sao Tome and Principe,254,Oil palm fruit,2012,9640.7,E,16100,E,1670,E
+41,156,"China, mainland",254,Oil palm fruit,2012,13469.4,E,660000,E,49000,E
+138,484,Mexico,254,Oil palm fruit,2012,13508.8,A,462662,A,34249,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2012,8473.7,E,80500,E,9500,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2012,6568.9,E,1476935.9,I,224836,I
+89,320,Guatemala,254,Oil palm fruit,2012,16000,E,1440000,E,90000,X
+101,360,Indonesia,254,Oil palm fruit,2012,19849.6,E,132000000,E,6650000,X
+195,686,Senegal,254,Oil palm fruit,2012,11090.9,E,122000,E,11000,E
+197,694,Sierra Leone,254,Oil palm fruit,2012,7777.8,E,210000,E,27000,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2012,10987.8,A,374486,A,34082,A
+171,608,Philippines,254,Oil palm fruit,2012,10021.6,A,531294,A,53015,A
+74,266,Gabon,254,Oil palm fruit,2012,8945.6,E,149256.56,I,16685,I
+123,430,Liberia,254,Oil palm fruit,2012,10117.8,E,172003.31,I,17000,E
+75,270,Gambia,254,Oil palm fruit,2012,10000,E,35000,E,3500,E
+129,450,Madagascar,254,Oil palm fruit,2012,11891.9,E,22000,E,1850,E
+25,90,Solomon Islands,254,Oil palm fruit,2012,15800,E,237000,E,15000,X
+207,740,Suriname,254,Oil palm fruit,2012,2000,E,1300,E,650,E
+53,204,Benin,254,Oil palm fruit,2013,15555.6,E,560000,E,36000,X
+21,76,Brazil,254,Oil palm fruit,2013,11477.3,A,1246835,A,108635,A
+29,108,Burundi,254,Oil palm fruit,2013,10000,E,79000,E,7900,E
+115,116,Cambodia,254,Oil palm fruit,2013,11248.4,E,160000,I,14224,I
+44,170,Colombia,254,Oil palm fruit,2013,19993.4,E,5053170.02,A,252742,I
+46,178,Congo,254,Oil palm fruit,2013,12413.8,E,144000,E,11600,E
+56,214,Dominican Republic,254,Oil palm fruit,2013,14000.2,E,262000,E,18714,E
+61,226,Equatorial Guinea,254,Oil palm fruit,2013,10285.7,E,36000,E,3500,E
+81,288,Ghana,254,Oil palm fruit,2013,7299.9,A,2326920,A,318760,A
+197,694,Sierra Leone,254,Oil palm fruit,2013,7636.4,E,210000,E,27500,E
+217,768,Togo,254,Oil palm fruit,2013,8647.7,E,115444.96,I,13350,I
+37,140,Central African Republic,254,Oil palm fruit,2013,8923.1,E,5800,E,650,E
+48,188,Costa Rica,254,Oil palm fruit,2013,17500,A,1303960,A,74512,A
+74,266,Gabon,254,Oil palm fruit,2013,8952.1,E,157609.81,I,17606,I
+75,270,Gambia,254,Oil palm fruit,2013,10000,E,35000,E,3500,E
+101,360,Indonesia,254,Oil palm fruit,2013,18264.2,E,141000000,E,7720000,X
+157,558,Nicaragua,254,Oil palm fruit,2013,13000,E,221000,E,17000,X
+207,740,Suriname,254,Oil palm fruit,2013,2000,E,1350,E,675,E
+215,834,United Republic of Tanzania,254,Oil palm fruit,2013,13942.3,E,72500,E,5200,E
+41,156,"China, mainland",254,Oil palm fruit,2013,13400,E,670000,E,50000,E
+58,218,Ecuador,254,Oil palm fruit,2013,10587.2,A,2316838,A,218833,A
+131,458,Malaysia,254,Oil palm fruit,2013,18149.6,A,94917736,A,5229739,A
+168,598,Papua New Guinea,254,Oil palm fruit,2013,14000,E,2100000,E,150000,X
+25,90,Solomon Islands,254,Oil palm fruit,2013,15000,E,240000,E,16000,X
+89,320,Guatemala,254,Oil palm fruit,2013,14095.2,E,1480000,E,105000,X
+90,324,Guinea,254,Oil palm fruit,2013,2677.4,E,830000,E,310000,E
+123,430,Liberia,254,Oil palm fruit,2013,10062.8,E,171067.81,I,17000,E
+7,24,Angola,254,Oil palm fruit,2013,12173.9,E,280000,E,23000,E
+95,340,Honduras,254,Oil palm fruit,2013,15435.3,E,1929411.86,I,125000,X
+107,384,Côte d'Ivoire,254,Oil palm fruit,2013,6458.4,E,1743775,A,270000,X
+171,608,Philippines,254,Oil palm fruit,2013,8790.4,A,473416,A,53856,A
+159,566,Nigeria,254,Oil palm fruit,2013,2666.7,E,8000000,E,3000000,E
+169,600,Paraguay,254,Oil palm fruit,2013,9500,E,152000,E,16000,E
+195,686,Senegal,254,Oil palm fruit,2013,10714.3,E,120000,E,11200,E
+138,484,Mexico,254,Oil palm fruit,2013,12313,A,567554,A,46094,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2013,11171.1,A,397335,A,35568,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2013,6581.1,E,1763591.08,I,267977,I
+129,450,Madagascar,254,Oil palm fruit,2013,11459.5,E,21200,E,1850,E
+166,591,Panama,254,Oil palm fruit,2013,9888.9,E,53400,E,5400,E
+170,604,Peru,254,Oil palm fruit,2013,11931.1,A,566583,A,47488,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2013,8473.7,E,80500,E,9500,E
+216,764,Thailand,254,Oil palm fruit,2013,20597.2,A,12434520,A,603700,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2013,9529.4,E,16200,E,1700,E
+32,120,Cameroon,254,Oil palm fruit,2013,14814.8,E,2000000,E,135000,X
+58,218,Ecuador,254,Oil palm fruit,2014,12751.4,A,3468510.34,A,272011,A
+61,226,Equatorial Guinea,254,Oil palm fruit,2014,10213,E,36077.71,I,3533,I
+81,288,Ghana,254,Oil palm fruit,2014,7000,A,2443270,A,349040,A
+123,430,Liberia,254,Oil palm fruit,2014,10022.1,E,177000,E,17661,E
+169,600,Paraguay,254,Oil palm fruit,2014,9482.4,E,152026.15,I,16032,I
+170,604,Peru,254,Oil palm fruit,2014,16440.9,A,617634,A,37567,A
+74,266,Gabon,254,Oil palm fruit,2014,8958.6,E,166053.44,I,18536,I
+95,340,Honduras,254,Oil palm fruit,2014,14352.7,E,1865850.72,I,130000,X
+48,188,Costa Rica,254,Oil palm fruit,2014,11375,A,884406,A,77750,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2014,6380.6,E,1722766.07,I,270000,X
+56,214,Dominican Republic,254,Oil palm fruit,2014,14051.5,E,263000,E,18717,I
+75,270,Gambia,254,Oil palm fruit,2014,9997.3,E,35064.18,I,3507,I
+159,566,Nigeria,254,Oil palm fruit,2014,2633,E,8200000,E,3114347,I
+166,591,Panama,254,Oil palm fruit,2014,10136.9,E,53986,A,5326,I
+195,686,Senegal,254,Oil palm fruit,2014,10903.6,E,120712.94,I,11071,I
+216,764,Thailand,254,Oil palm fruit,2014,19372.9,A,12472505,A,643811,A
+115,116,Cambodia,254,Oil palm fruit,2014,11188.8,E,160000,E,14300,A
+37,140,Central African Republic,254,Oil palm fruit,2014,8969.6,E,5819.52,I,649,I
+175,624,Guinea-Bissau,254,Oil palm fruit,2014,8473.1,E,80500,E,9501,I
+131,458,Malaysia,254,Oil palm fruit,2014,20339.9,A,95380438,A,4689321,A
+7,24,Angola,254,Oil palm fruit,2014,12131.6,E,279835.09,I,23067,I
+32,120,Cameroon,254,Oil palm fruit,2014,15400.9,E,2100000,E,136356,I
+90,324,Guinea,254,Oil palm fruit,2014,2679,E,839936.89,I,313532,I
+129,450,Madagascar,254,Oil palm fruit,2014,11578.2,E,20931.64,I,1808,I
+168,598,Papua New Guinea,254,Oil palm fruit,2014,13771.1,E,2300000,E,167016,I
+25,90,Solomon Islands,254,Oil palm fruit,2014,14950,E,254150,I,17000,X
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2014,10281.6,A,407111,A,39596,A
+21,76,Brazil,254,Oil palm fruit,2014,11013.6,A,1393873,A,126559,A
+41,156,"China, mainland",254,Oil palm fruit,2014,13423.3,E,675887.72,I,50352,I
+138,484,Mexico,254,Oil palm fruit,2014,13347.1,A,678934.89,A,50868,A
+157,558,Nicaragua,254,Oil palm fruit,2014,13000,E,247000,E,19000,X
+101,360,Indonesia,254,Oil palm fruit,2014,18159.5,E,148000000,E,8150000,X
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2014,6592.9,E,1800000,E,273023,I
+193,678,Sao Tome and Principe,254,Oil palm fruit,2014,10122.6,E,16805.31,I,1660,I
+217,768,Togo,254,Oil palm fruit,2014,8658.4,E,115214.96,I,13307,I
+29,108,Burundi,254,Oil palm fruit,2014,9928,E,85736.88,I,8636,I
+53,204,Benin,254,Oil palm fruit,2014,16154,E,585937.5,I,36272,I
+207,740,Suriname,254,Oil palm fruit,2014,1999.1,E,1240.72,I,621,I
+44,170,Colombia,254,Oil palm fruit,2014,19485.4,E,5531894.53,A,283900,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2014,13940.2,E,72649.84,I,5212,I
+89,320,Guatemala,254,Oil palm fruit,2014,12500,E,1500000,E,120000,X
+171,608,Philippines,254,Oil palm fruit,2014,7941.5,A,437439,A,55083,A
+197,694,Sierra Leone,254,Oil palm fruit,2014,7610.9,E,218000,E,28643,I
+46,178,Congo,254,Oil palm fruit,2014,12460.4,E,144522.76,I,11599,I
+107,384,Côte d'Ivoire,254,Oil palm fruit,2015,6569.3,E,1800000,A,274000,X
+56,214,Dominican Republic,254,Oil palm fruit,2015,14056.3,E,268000,E,19066,I
+123,430,Liberia,254,Oil palm fruit,2015,10040.3,E,177000,E,17629,E
+131,458,Malaysia,254,Oil palm fruit,2015,20237.9,A,98344073,A,4859397,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2015,10268.6,E,17104.33,I,1666,I
+197,694,Sierra Leone,254,Oil palm fruit,2015,7690.1,E,263000,E,34200,E
+48,188,Costa Rica,254,Oil palm fruit,2015,11753.5,A,816000,A,69426,A
+53,204,Benin,254,Oil palm fruit,2015,17390.2,E,602169.63,I,34627,I
+58,218,Ecuador,254,Oil palm fruit,2015,14381.8,A,4175658.55,A,290343,A
+157,558,Nicaragua,254,Oil palm fruit,2015,13000,E,286000,E,22000,X
+166,591,Panama,254,Oil palm fruit,2015,10170.5,E,49809,A,4897,I
+169,600,Paraguay,254,Oil palm fruit,2015,9474.4,E,152352.21,I,16080,I
+195,686,Senegal,254,Oil palm fruit,2015,11159.2,E,129177.44,I,11576,I
+75,270,Gambia,254,Oil palm fruit,2015,9995.2,E,35071.59,I,3509,I
+37,140,Central African Republic,254,Oil palm fruit,2015,9076.9,E,5900,E,650,E
+44,170,Colombia,254,Oil palm fruit,2015,18758.8,E,6249380.48,A,333145,I
+90,324,Guinea,254,Oil palm fruit,2015,2679.7,E,846463.89,I,315882,I
+159,566,Nigeria,254,Oil palm fruit,2015,2569.8,E,8300000,E,3229848,I
+171,608,Philippines,254,Oil palm fruit,2015,7238,A,432496.47,A,59754,A
+207,740,Suriname,254,Oil palm fruit,2015,1999.4,E,1200,E,600,I
+21,76,Brazil,254,Oil palm fruit,2015,11315.4,A,1585088,A,140082,A
+168,598,Papua New Guinea,254,Oil palm fruit,2015,13694.7,E,2500000,E,182552,I
+170,604,Peru,254,Oil palm fruit,2015,15862.3,A,684301,A,43140,A
+25,90,Solomon Islands,254,Oil palm fruit,2015,14740.4,E,265327,I,18000,X
+46,178,Congo,254,Oil palm fruit,2015,12482.3,E,149950.88,I,12013,I
+81,288,Ghana,254,Oil palm fruit,2015,6999.2,A,2443000,A,349040,A
+89,320,Guatemala,254,Oil palm fruit,2015,15276.5,E,2215088.52,I,145000,X
+129,450,Madagascar,254,Oil palm fruit,2015,11632.9,E,21064.04,I,1811,I
+138,484,Mexico,254,Oil palm fruit,2015,12202,A,666237.75,A,54601,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2015,8463.5,E,80500,E,9511,I
+29,108,Burundi,254,Oil palm fruit,2015,9871.2,E,86281.44,I,8741,I
+61,226,Equatorial Guinea,254,Oil palm fruit,2015,10144,E,35622.32,I,3512,I
+74,266,Gabon,254,Oil palm fruit,2015,8965.1,E,174584.06,I,19474,I
+101,360,Indonesia,254,Oil palm fruit,2015,18265.9,E,158000000,E,8650000,X
+115,116,Cambodia,254,Oil palm fruit,2015,11117.3,E,192794.92,I,17342,I
+216,764,Thailand,254,Oil palm fruit,2015,17060.7,A,11058720,A,648198,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2015,10864.9,A,430597,A,39632,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,2015,13909.2,E,73668.03,I,5296,I
+7,24,Angola,254,Oil palm fruit,2015,12101.6,E,280042.33,I,23141,I
+95,340,Honduras,254,Oil palm fruit,2015,12562.6,E,1947200,A,155000,X
+217,768,Togo,254,Oil palm fruit,2015,8672.7,E,115488.85,I,13316,I
+41,156,"China, mainland",254,Oil palm fruit,2015,13440.5,E,666329.26,I,49576,I
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2015,6582.7,E,1830000,E,278001,I
+32,120,Cameroon,254,Oil palm fruit,2015,14391.5,E,2100000,E,145919,I
+53,204,Benin,254,Oil palm fruit,2016,16598.9,E,582702.38,E,35105,I
+32,120,Cameroon,254,Oil palm fruit,2016,13469.1,E,2300000,E,170761,I
+56,214,Dominican Republic,254,Oil palm fruit,2016,14030.6,E,252550.63,I,18000,X
+74,266,Gabon,254,Oil palm fruit,2016,8971.6,E,183198.36,I,20420,I
+89,320,Guatemala,254,Oil palm fruit,2016,16420,E,2463000,E,150000,X
+175,624,Guinea-Bissau,254,Oil palm fruit,2016,8455.5,E,80500,E,9520,I
+168,598,Papua New Guinea,254,Oil palm fruit,2016,13437.9,E,2600000,E,193482,I
+171,608,Philippines,254,Oil palm fruit,2016,7317.1,A,439528.62,A,60069,A
+207,740,Suriname,254,Oil palm fruit,2016,1999.2,E,1200,E,600,I
+41,156,"China, mainland",254,Oil palm fruit,2016,13459.5,E,665109.6,I,49416,I
+61,226,Equatorial Guinea,254,Oil palm fruit,2016,10144.2,E,35399.38,I,3490,I
+75,270,Gambia,254,Oil palm fruit,2016,9989.9,E,35061.73,I,3510,I
+159,566,Nigeria,254,Oil palm fruit,2016,2566.2,E,8500000,E,3312313,I
+169,600,Paraguay,254,Oil palm fruit,2016,9461.2,E,150682.32,I,15926,I
+195,686,Senegal,254,Oil palm fruit,2016,10928.4,E,123296.79,E,11282,E
+197,694,Sierra Leone,254,Oil palm fruit,2016,7785.2,E,277000,E,35580,I
+21,76,Brazil,254,Oil palm fruit,2016,11959.2,A,1621017,A,135546,A
+95,340,Honduras,254,Oil palm fruit,2016,11689.7,E,2045700,A,175000,X
+166,591,Panama,254,Oil palm fruit,2016,10148.4,E,47849,A,4715,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2016,13901.5,E,74597.64,I,5366,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2016,11278.4,A,501850.03,A,44496,A
+29,108,Burundi,254,Oil palm fruit,2016,9797,E,85747.74,I,8752,I
+115,116,Cambodia,254,Oil palm fruit,2016,11042.2,E,241107.81,I,21835,I
+37,140,Central African Republic,254,Oil palm fruit,2016,9090.9,E,6000,E,660,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2016,6577.5,E,1880000,E,285821,I
+131,458,Malaysia,254,Oil palm fruit,2016,17260.1,A,86325309,A,5001438,A
+157,558,Nicaragua,254,Oil palm fruit,2016,13179.2,E,285000,E,21625,A
+170,604,Peru,254,Oil palm fruit,2016,14422,A,736345,A,51057,A
+216,764,Thailand,254,Oil palm fruit,2016,18067.9,E,11420220,A,632072,I
+107,384,Côte d'Ivoire,254,Oil palm fruit,2016,6423.9,E,2019000,A,314294,I
+193,678,Sao Tome and Principe,254,Oil palm fruit,2016,10423.5,E,17473.73,I,1676,I
+217,768,Togo,254,Oil palm fruit,2016,8682.9,E,115815.38,I,13338,I
+46,178,Congo,254,Oil palm fruit,2016,12484.8,E,151144.99,I,12106,I
+58,218,Ecuador,254,Oil palm fruit,2016,11840.8,A,3124068.81,A,263839,A
+123,430,Liberia,254,Oil palm fruit,2016,10014.7,E,177000,E,17674,I
+138,484,Mexico,254,Oil palm fruit,2016,12885.8,A,755221.72,A,58609,A
+48,188,Costa Rica,254,Oil palm fruit,2016,15036,A,1089448,A,72456,A
+81,288,Ghana,254,Oil palm fruit,2016,6999.2,X,2443000,X,349040,X
+7,24,Angola,254,Oil palm fruit,2016,12100.5,E,280322.26,I,23166,I
+25,90,Solomon Islands,254,Oil palm fruit,2016,12105.3,E,230000,E,19000,X
+129,450,Madagascar,254,Oil palm fruit,2016,11697.3,E,21133.49,I,1807,I
+44,170,Colombia,254,Oil palm fruit,2016,18066.4,E,5612266.78,A,310647,I
+90,324,Guinea,254,Oil palm fruit,2016,2681.9,E,846503.99,I,315639,I
+101,360,Indonesia,254,Oil palm fruit,2016,16563.8,E,161000000,E,9720000,X
+29,108,Burundi,254,Oil palm fruit,2017,9711.9,E,85377.19,I,8791,I
+75,270,Gambia,254,Oil palm fruit,2017,9988.3,E,35063.91,I,3511,I
+89,320,Guatemala,254,Oil palm fruit,2017,16100.6,E,2721000,E,169000,X
+129,450,Madagascar,254,Oil palm fruit,2017,11705.1,E,21122.8,I,1805,I
+159,566,Nigeria,254,Oil palm fruit,2017,2566.8,E,9100000,E,3545307,I
+197,694,Sierra Leone,254,Oil palm fruit,2017,7812.5,E,297000,E,38016,I
+61,226,Equatorial Guinea,254,Oil palm fruit,2017,10149.9,E,37815.26,I,3726,I
+90,324,Guinea,254,Oil palm fruit,2017,2681.6,E,853235.67,I,318182,I
+107,384,Côte d'Ivoire,254,Oil palm fruit,2017,6275,E,2227000,A,354898,I
+195,686,Senegal,254,Oil palm fruit,2017,11008.1,E,124564,I,11316,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2017,13900.6,E,75505.82,I,5432,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2017,11102.9,A,522982,A,47103,A
+41,156,"China, mainland",254,Oil palm fruit,2017,13467.4,E,665381.46,I,49407,I
+46,178,Congo,254,Oil palm fruit,2017,12492.3,E,150955.96,I,12084,I
+48,188,Costa Rica,254,Oil palm fruit,2017,14257.1,A,1095800,A,76860,A
+56,214,Dominican Republic,254,Oil palm fruit,2017,13962.9,E,251332.12,I,18000,X
+74,266,Gabon,254,Oil palm fruit,2017,8978.1,E,191892.94,I,21373,I
+138,484,Mexico,254,Oil palm fruit,2017,13274.3,A,873518.21,A,65805,A
+169,600,Paraguay,254,Oil palm fruit,2017,9449.5,E,148797.01,I,15747,I
+25,90,Solomon Islands,254,Oil palm fruit,2017,12500,E,250000,E,20000,X
+32,120,Cameroon,254,Oil palm fruit,2017,13107.4,E,2400000,E,183103,I
+37,140,Central African Republic,254,Oil palm fruit,2017,8923.1,E,5800,E,650,E
+81,288,Ghana,254,Oil palm fruit,2017,6883.6,E,2485557.02,I,361082,I
+131,458,Malaysia,254,Oil palm fruit,2017,19907.4,A,101740900,A,5110713,A
+157,558,Nicaragua,254,Oil palm fruit,2017,13085.9,E,330000,E,25218,A
+168,598,Papua New Guinea,254,Oil palm fruit,2017,13237.4,E,2600000,E,196413,I
+193,678,Sao Tome and Principe,254,Oil palm fruit,2017,10785.4,E,18762.77,I,1740,I
+216,764,Thailand,254,Oil palm fruit,2017,18130.4,A,14452261,A,797128,A
+7,24,Angola,254,Oil palm fruit,2017,12106.6,E,280439.44,I,23164,I
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2017,6577.5,E,1880000,E,285823,I
+170,604,Peru,254,Oil palm fruit,2017,14453.1,A,852022,A,58951,A
+217,768,Togo,254,Oil palm fruit,2017,8685.6,E,116204.71,I,13379,I
+44,170,Colombia,254,Oil palm fruit,2017,17388.7,A,7914444,A,455149,A
+115,116,Cambodia,254,Oil palm fruit,2017,10969.2,E,307524.65,I,28035,I
+21,76,Brazil,254,Oil palm fruit,2017,14655.8,A,1687371,A,115133,A
+123,430,Liberia,254,Oil palm fruit,2017,9984.1,E,177000,E,17728,I
+166,591,Panama,254,Oil palm fruit,2017,10163.2,E,41240,A,4058,I
+58,218,Ecuador,254,Oil palm fruit,2017,12585.8,A,3275993,A,260292,A
+95,340,Honduras,254,Oil palm fruit,2017,13378.6,E,2408148,A,180000,X
+171,608,Philippines,254,Oil palm fruit,2017,7904.1,A,474792.35,A,60069,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2017,8449.9,E,80500,E,9527,I
+207,740,Suriname,254,Oil palm fruit,2017,1998.1,E,1200,E,601,I
+53,204,Benin,254,Oil palm fruit,2017,16937.8,E,592071.1,I,34956,I
+101,360,Indonesia,254,Oil palm fruit,2017,17545.5,E,193000000,E,11000000,X
+7,24,Angola,254,Oil palm fruit,2018,12121.4,E,280500,E,23141,I
+53,204,Benin,254,Oil palm fruit,2018,17300.1,E,615045.03,I,35552,I
+41,156,"China, mainland",254,Oil palm fruit,2018,13330.5,E,667282.98,I,50057,I
+95,340,Honduras,254,Oil palm fruit,2018,13133.7,E,2495403.87,A,190000,X
+101,360,Indonesia,254,Oil palm fruit,2018,16885.2,E,206000000,E,12200000,X
+159,566,Nigeria,254,Oil palm fruit,2018,2570.1,E,9600000,E,3735292,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2018,13885.1,E,76457.87,I,5506,I
+48,188,Costa Rica,254,Oil palm fruit,2018,14143.8,A,1087800,A,76910,A
+89,320,Guatemala,254,Oil palm fruit,2018,15460.5,E,2659200.85,I,172000,X
+216,764,Thailand,254,Oil palm fruit,2018,18139.4,A,15534984,A,856422,A
+37,140,Central African Republic,254,Oil palm fruit,2018,9445.6,E,5900,E,625,I
+107,384,Côte d'Ivoire,254,Oil palm fruit,2018,6210.3,E,2130842,A,343111,I
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2018,6578.9,E,1890000,E,287281,I
+61,226,Equatorial Guinea,254,Oil palm fruit,2018,10168.8,E,40098.66,I,3943,I
+168,598,Papua New Guinea,254,Oil palm fruit,2018,13073.3,E,2650000,E,202702,I
+171,608,Philippines,254,Oil palm fruit,2018,7985.6,A,500465.92,A,62671,A
+195,686,Senegal,254,Oil palm fruit,2018,11029.9,E,128025.62,I,11607,I
+25,90,Solomon Islands,254,Oil palm fruit,2018,11904.8,E,250000,E,21000,X
+29,108,Burundi,254,Oil palm fruit,2018,9641.7,E,85009.33,I,8817,I
+115,116,Cambodia,254,Oil palm fruit,2018,10890.7,E,378888.59,I,34790,I
+75,270,Gambia,254,Oil palm fruit,2018,9990.1,E,35083.96,I,3512,I
+129,450,Madagascar,254,Oil palm fruit,2018,11603.4,E,21018.21,I,1811,I
+157,558,Nicaragua,254,Oil palm fruit,2018,12776.9,E,342000,E,26767,A
+217,768,Togo,254,Oil palm fruit,2018,8680.1,E,116668.97,I,13441,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2018,10522.7,A,452907,A,43041,A
+32,120,Cameroon,254,Oil palm fruit,2018,12654.3,E,2500000,E,197561,I
+56,214,Dominican Republic,254,Oil palm fruit,2018,13931.6,E,264700.7,I,19000,X
+58,218,Ecuador,254,Oil palm fruit,2018,12438.5,A,2785756,A,223962,A
+131,458,Malaysia,254,Oil palm fruit,2018,18965.7,A,98419438,A,5189344,A
+123,430,Liberia,254,Oil palm fruit,2018,9951.4,E,176000,E,17686,I
+166,591,Panama,254,Oil palm fruit,2018,10160.5,E,147637,A,14530,I
+193,678,Sao Tome and Principe,254,Oil palm fruit,2018,11004.5,E,19776.01,I,1797,I
+21,76,Brazil,254,Oil palm fruit,2018,13925.5,A,2249770,A,161558,A
+44,170,Colombia,254,Oil palm fruit,2018,16969,A,8267513,A,487214,A
+74,266,Gabon,254,Oil palm fruit,2018,8984.6,E,200664.25,I,22334,I
+90,324,Guinea,254,Oil palm fruit,2018,2682.2,E,860445.74,I,320801,I
+170,604,Peru,254,Oil palm fruit,2018,13906.5,A,921000.61,A,66228,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2018,8454,E,80500,E,9522,I
+207,740,Suriname,254,Oil palm fruit,2018,1998.8,E,1200,E,600,I
+46,178,Congo,254,Oil palm fruit,2018,12499.2,E,150685.85,I,12056,I
+138,484,Mexico,254,Oil palm fruit,2018,13504.4,A,983676.04,A,72841,A
+169,600,Paraguay,254,Oil palm fruit,2018,9438.7,E,146516.39,I,15523,I
+197,694,Sierra Leone,254,Oil palm fruit,2018,7807.4,E,332993.19,I,42651,I
+81,288,Ghana,254,Oil palm fruit,2018,6936.6,E,2543860.08,I,366728,I
+29,108,Burundi,254,Oil palm fruit,2019,9574.5,E,84639.14,I,8840,I
+159,566,Nigeria,254,Oil palm fruit,2019,2569.8,E,9790903.37,I,3809946,I
+169,600,Paraguay,254,Oil palm fruit,2019,9428.4,E,143459.13,I,15216,I
+195,686,Senegal,254,Oil palm fruit,2019,10525.3,E,125295.47,E,11904,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2019,13871.4,E,77409.35,I,5581,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2019,11947.8,A,488114,A,40854,A
+21,76,Brazil,254,Oil palm fruit,2019,14555.8,A,2583293,A,177475,A
+58,218,Ecuador,254,Oil palm fruit,2019,11328.3,A,2275948.06,A,200908,A
+75,270,Gambia,254,Oil palm fruit,2019,9988.5,E,35089.47,I,3513,I
+207,740,Suriname,254,Oil palm fruit,2019,1998.7,E,1200,E,600,E
+217,768,Togo,254,Oil palm fruit,2019,8675.6,E,116000,E,13371,I
+7,24,Angola,254,Oil palm fruit,2019,12126,E,280390.77,I,23123,I
+48,188,Costa Rica,254,Oil palm fruit,2019,14100.6,A,1081800,A,76720,A
+61,226,Equatorial Guinea,254,Oil palm fruit,2019,10181.4,E,42235,E,4148,I
+157,558,Nicaragua,254,Oil palm fruit,2019,12996.8,E,416000,E,32008,A
+115,116,Cambodia,254,Oil palm fruit,2019,10812.6,E,445000,E,41156,I
+37,140,Central African Republic,254,Oil palm fruit,2019,8971,E,5785.2,I,645,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,2019,6411.8,E,2486704,A,387832,I
+175,624,Guinea-Bissau,254,Oil palm fruit,2019,8462.7,E,80650.16,I,9530,I
+129,450,Madagascar,254,Oil palm fruit,2019,11597.3,E,20958.59,I,1807,I
+131,458,Malaysia,254,Oil palm fruit,2019,18989.6,A,99065364,A,5216822,A
+138,484,Mexico,254,Oil palm fruit,2019,13962.4,A,1194210.19,A,85530,A
+168,598,Papua New Guinea,254,Oil palm fruit,2019,12920.9,E,2818346.16,I,218123,I
+193,678,Sao Tome and Principe,254,Oil palm fruit,2019,11324.7,E,21426.81,I,1892,I
+46,178,Congo,254,Oil palm fruit,2019,12509.2,E,150054.1,I,11996,I
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2019,6581.9,E,2020000,E,306901,I
+123,430,Liberia,254,Oil palm fruit,2019,9911.3,E,181752.59,I,18338,I
+32,120,Cameroon,254,Oil palm fruit,2019,12173.5,E,2400000,E,197150,I
+53,204,Benin,254,Oil palm fruit,2019,17701.6,E,633570.91,I,35792,I
+74,266,Gabon,254,Oil palm fruit,2019,8924.8,E,238184,A,26688,I
+81,288,Ghana,254,Oil palm fruit,2019,6990.3,E,2605833.27,I,372777,I
+89,320,Guatemala,254,Oil palm fruit,2019,15310.2,E,2771151.97,I,181000,X
+166,591,Panama,254,Oil palm fruit,2019,10156.7,E,252126,A,24824,I
+216,764,Thailand,254,Oil palm fruit,2019,18109.3,A,16408440,A,906080,A
+41,156,"China, mainland",254,Oil palm fruit,2019,13264.9,E,668724.78,I,50413,I
+56,214,Dominican Republic,254,Oil palm fruit,2019,13905.7,E,278114.94,I,20000,X
+90,324,Guinea,254,Oil palm fruit,2019,2683.1,E,864000,E,322013,I
+95,340,Honduras,254,Oil palm fruit,2019,12302.1,E,2337393.84,A,190000,X
+171,608,Philippines,254,Oil palm fruit,2019,7946.4,A,499307.44,A,62835,A
+44,170,Colombia,254,Oil palm fruit,2019,16643.6,A,8390314,A,504117,A
+101,360,Indonesia,254,Oil palm fruit,2019,16847.8,E,217000000,E,12880000,X
+197,694,Sierra Leone,254,Oil palm fruit,2019,7785,E,380000,E,48812,I
+170,604,Peru,254,Oil palm fruit,2019,12472.8,A,932210.29,A,74739,A
+25,90,Solomon Islands,254,Oil palm fruit,2019,7727.3,E,170000,E,22000,X
+21,76,Brazil,254,Oil palm fruit,2020,14218.9,A,2867986,A,201702,A
+75,270,Gambia,254,Oil palm fruit,2020,9986.9,E,35084.35,I,3513,I
+123,430,Liberia,254,Oil palm fruit,2020,9867.8,E,188000,E,19052,I
+25,90,Solomon Islands,254,Oil palm fruit,2020,8636.4,E,190000,E,22000,X
+29,108,Burundi,254,Oil palm fruit,2020,9515.4,E,84282.69,I,8857,I
+46,178,Congo,254,Oil palm fruit,2020,12508.9,E,149512.85,I,11953,I
+89,320,Guatemala,254,Oil palm fruit,2020,17225.5,E,3410655.65,I,198000,X
+101,360,Indonesia,254,Oil palm fruit,2020,17132.1,E,227000000,E,13250000,X
+115,116,Cambodia,254,Oil palm fruit,2020,10742.3,E,500000,E,46545,I
+168,598,Papua New Guinea,254,Oil palm fruit,2020,12775.4,E,3018530.25,I,236276,I
+169,600,Paraguay,254,Oil palm fruit,2020,9439,E,146257.51,E,15495,E
+197,694,Sierra Leone,254,Oil palm fruit,2020,7775.7,E,350000,E,45012,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2020,11267.6,A,588460.83,A,52226,A
+7,24,Angola,254,Oil palm fruit,2020,12136.1,E,280977.64,I,23152,I
+48,188,Costa Rica,254,Oil palm fruit,2020,16749.3,A,1138887,A,67996,A
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2020,6579.5,E,1930000,E,293335,E
+90,324,Guinea,254,Oil palm fruit,2020,2683.7,E,887500,E,330699,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2020,13839.2,E,78346.54,I,5661,I
+32,120,Cameroon,254,Oil palm fruit,2020,11533.9,E,3000000,E,260102,I
+41,156,"China, mainland",254,Oil palm fruit,2020,13237.9,E,669458.9,I,50571,I
+58,218,Ecuador,254,Oil palm fruit,2020,12979.9,A,2446312.17,A,188469,A
+159,566,Nigeria,254,Oil palm fruit,2020,2567.5,E,10000000,E,3894907,I
+195,686,Senegal,254,Oil palm fruit,2020,10676.6,E,126548.42,I,11853,I
+207,740,Suriname,254,Oil palm fruit,2020,1998.5,E,1200,E,600,E
+216,764,Thailand,254,Oil palm fruit,2020,17269.8,A,16221974,A,939324,A
+95,340,Honduras,254,Oil palm fruit,2020,11792.2,E,2358430.17,A,200000,X
+129,450,Madagascar,254,Oil palm fruit,2020,11592.2,E,20923.56,I,1805,I
+157,558,Nicaragua,254,Oil palm fruit,2020,14345.9,E,480000,E,33459,A
+81,288,Ghana,254,Oil palm fruit,2020,7005.2,E,2707530.38,I,386503,I
+131,458,Malaysia,254,Oil palm fruit,2020,18534.8,A,96969316,A,5231743,A
+170,604,Peru,254,Oil palm fruit,2020,13635.7,A,898480.73,A,65892,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2020,12064.1,E,23003.66,I,1907,I
+53,204,Benin,254,Oil palm fruit,2020,17842.5,E,650000,E,36430,I
+138,484,Mexico,254,Oil palm fruit,2020,13670.2,A,1571230.97,A,114938,A
+217,768,Togo,254,Oil palm fruit,2020,8652.4,E,117000,E,13522,I
+107,384,Côte d'Ivoire,254,Oil palm fruit,2020,6484.1,E,2346698,A,361918,I
+166,591,Panama,254,Oil palm fruit,2020,10141.2,E,281987,A,27806,I
+171,608,Philippines,254,Oil palm fruit,2020,7712.2,A,493061.79,A,63933,A
+37,140,Central African Republic,254,Oil palm fruit,2020,8687.3,E,5619.52,I,647,I
+56,214,Dominican Republic,254,Oil palm fruit,2020,13872.8,E,291329.05,I,21000,X
+61,226,Equatorial Guinea,254,Oil palm fruit,2020,10180.8,E,42000,E,4125,I
+44,170,Colombia,254,Oil palm fruit,2020,15004.8,A,7172978,A,478045,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2020,8467,E,80752.39,I,9537,I
+74,266,Gabon,254,Oil palm fruit,2020,8890.8,E,291741,A,32814,I
+61,226,Equatorial Guinea,254,Oil palm fruit,2021,10191.2,E,41820.64,I,4104,I
+81,288,Ghana,254,Oil palm fruit,2021,7093.4,E,2799735.94,I,394698,I
+216,764,Thailand,254,Oil palm fruit,2021,17509.7,A,16904704,A,965447,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,2021,14180.3,E,79165.07,I,5583,E
+25,90,Solomon Islands,254,Oil palm fruit,2021,10000,E,250000,E,25000,X
+56,214,Dominican Republic,254,Oil palm fruit,2021,13863,E,304985.05,I,22000,X
+58,218,Ecuador,254,Oil palm fruit,2021,15858.3,A,2418855.36,A,152529,A
+90,324,Guinea,254,Oil palm fruit,2021,2684.2,E,883000,E,328957,I
+168,598,Papua New Guinea,254,Oil palm fruit,2021,12751.2,E,3207362.53,I,251535,I
+195,686,Senegal,254,Oil palm fruit,2021,10741.6,E,126623.17,E,11788,E
+32,120,Cameroon,254,Oil palm fruit,2021,10798.4,E,2872148.52,I,265980,I
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2021,6580.2,E,1946666.67,E,295839,E
+29,108,Burundi,254,Oil palm fruit,2021,10062.6,E,88934.04,I,8838,E
+115,116,Cambodia,254,Oil palm fruit,2021,10698,E,552981.25,I,51690,I
+41,156,"China, mainland",254,Oil palm fruit,2021,13250,E,667578.13,I,50383,I
+44,170,Colombia,254,Oil palm fruit,2021,16339.6,A,7886314,A,482649,A
+48,188,Costa Rica,254,Oil palm fruit,2021,15350,A,1161995,A,75700,A
+95,340,Honduras,254,Oil palm fruit,2021,10198.4,E,2141666.63,A,210000,X
+101,360,Indonesia,254,Oil palm fruit,2021,18434.5,E,252000000,E,13670000,X
+37,140,Central African Republic,254,Oil palm fruit,2021,9029.9,E,5768.24,E,639,E
+131,458,Malaysia,254,Oil palm fruit,2021,17766.4,A,91393666,A,5144180,A
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2021,9878.8,A,424227,A,42943,A
+7,24,Angola,254,Oil palm fruit,2021,12140.2,E,282391.61,I,23261,I
+46,178,Congo,254,Oil palm fruit,2021,12497.1,E,154258.06,I,12343,I
+123,430,Liberia,254,Oil palm fruit,2021,9863.6,E,189000,E,19161,I
+129,450,Madagascar,254,Oil palm fruit,2021,11594.5,E,20966.1,I,1808,I
+159,566,Nigeria,254,Oil palm fruit,2021,2568.3,E,10500000,E,4088238,I
+175,624,Guinea-Bissau,254,Oil palm fruit,2021,8456.5,E,80812.34,I,9556,I
+207,740,Suriname,254,Oil palm fruit,2021,1998.7,E,1200,E,600,E
+169,600,Paraguay,254,Oil palm fruit,2021,9435.4,E,145411.01,E,15411,E
+170,604,Peru,254,Oil palm fruit,2021,12355.8,A,1172587.16,A,94902,A
+75,270,Gambia,254,Oil palm fruit,2021,9988.1,E,35079.85,I,3512,I
+217,768,Togo,254,Oil palm fruit,2021,8680.6,E,120000,E,13824,E
+53,204,Benin,254,Oil palm fruit,2021,17816,E,700000,E,39291,I
+138,484,Mexico,254,Oil palm fruit,2021,13889.2,A,1600558.76,A,115238,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2021,12858.5,E,25000,E,1944,I
+74,266,Gabon,254,Oil palm fruit,2021,8903.2,E,449748,A,50516,I
+89,320,Guatemala,254,Oil palm fruit,2021,18210.7,E,3824243.78,I,210000,X
+197,694,Sierra Leone,254,Oil palm fruit,2021,7781.2,E,353303.84,I,45405,I
+157,558,Nicaragua,254,Oil palm fruit,2021,14232.1,E,500000,E,35132,A
+166,591,Panama,254,Oil palm fruit,2021,10145.4,E,268398,A,26455,I
+171,608,Philippines,254,Oil palm fruit,2021,8152.4,A,522861.06,A,64136,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2021,6906.5,E,2762606,A,400000,E
+21,76,Brazil,254,Oil palm fruit,2021,14646.1,A,2887696,A,197165,A
+37,140,Central African Republic,254,Oil palm fruit,2022,8722.7,E,5716.9,I,655,I
+44,170,Colombia,254,Oil palm fruit,2022,16471.5,A,8022886.52,A,487076,A
+101,360,Indonesia,254,Oil palm fruit,2022,17073.2,E,238000000,E,13940000,X
+129,450,Madagascar,254,Oil palm fruit,2022,11598.7,E,21011.35,I,1812,I
+138,484,Mexico,254,Oil palm fruit,2022,17519.1,A,1719177.75,A,98132,A
+46,178,Congo,254,Oil palm fruit,2022,12474,E,153701.7,I,12322,I
+53,204,Benin,254,Oil palm fruit,2022,17685.5,E,717323.66,I,40560,I
+56,214,Dominican Republic,254,Oil palm fruit,2022,13841.3,E,318349.74,I,23000,X
+58,218,Ecuador,254,Oil palm fruit,2022,16242.6,A,2296402.23,A,141381,A
+61,226,Equatorial Guinea,254,Oil palm fruit,2022,10212.3,E,40667.48,I,3982,I
+75,270,Gambia,254,Oil palm fruit,2022,9985.6,E,35073.5,I,3512,I
+95,340,Honduras,254,Oil palm fruit,2022,9788.5,E,2124100,A,217000,X
+197,694,Sierra Leone,254,Oil palm fruit,2022,7783.4,E,363823.57,I,46744,I
+29,108,Burundi,254,Oil palm fruit,2022,10056.5,E,88952.1,I,8845,E
+32,120,Cameroon,254,Oil palm fruit,2022,13159.2,E,2829984.34,I,215058,E
+107,384,Côte d'Ivoire,254,Oil palm fruit,2022,6223.4,E,2489376,A,400000,E
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2022,6580.5,E,1965555.56,E,298692,E
+123,430,Liberia,254,Oil palm fruit,2022,9838.9,E,190115.13,I,19323,I
+159,566,Nigeria,254,Oil palm fruit,2022,2568.9,E,11100000,E,4320992,I
+168,598,Papua New Guinea,254,Oil palm fruit,2022,12671.5,E,3420000,E,269898,I
+169,600,Paraguay,254,Oil palm fruit,2022,9434.3,E,145042.55,E,15374,E
+193,678,Sao Tome and Principe,254,Oil palm fruit,2022,14285.7,E,30000,E,2100,X
+195,686,Senegal,254,Oil palm fruit,2022,11146.5,E,132068.51,I,11848,E
+25,90,Solomon Islands,254,Oil palm fruit,2022,9615.4,E,250000,E,26000,X
+216,764,Thailand,254,Oil palm fruit,2022,18937.3,A,18588120,A,981561,A
+215,834,United Republic of Tanzania,254,Oil palm fruit,2022,13963.1,E,78306.98,E,5608,E
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2022,11141.7,A,475115,A,42643,A
+7,24,Angola,254,Oil palm fruit,2022,12105.5,E,281633.14,I,23265,I
+21,76,Brazil,254,Oil palm fruit,2022,14712,A,2951584,A,200624,A
+115,116,Cambodia,254,Oil palm fruit,2022,10627.2,E,556281.92,I,52345,I
+48,188,Costa Rica,254,Oil palm fruit,2022,16180,A,1227253,A,75850,A
+90,324,Guinea,254,Oil palm fruit,2022,2677,E,886000,E,330963,I
+170,604,Peru,254,Oil palm fruit,2022,16172.8,A,1504600.49,A,93033,A
+81,288,Ghana,254,Oil palm fruit,2022,7215.4,E,2900000,E,401916,I
+171,608,Philippines,254,Oil palm fruit,2022,8415.8,A,533398.52,A,63381,A
+41,156,"China, mainland",254,Oil palm fruit,2022,13220.2,E,666783.43,I,50437,I
+89,320,Guatemala,254,Oil palm fruit,2022,22276.7,E,4789496,A,215000,X
+131,458,Malaysia,254,Oil palm fruit,2022,18492.1,A,94814456,A,5127290,A
+157,558,Nicaragua,254,Oil palm fruit,2022,14902.3,E,520000,E,34894,A
+207,740,Suriname,254,Oil palm fruit,2022,1998.6,E,1200,E,600,E
+74,266,Gabon,254,Oil palm fruit,2022,8920.3,E,619630,A,69463,I
+175,624,Guinea-Bissau,254,Oil palm fruit,2022,8441.6,E,80696.18,I,9559,I
+217,768,Togo,254,Oil palm fruit,2022,8234.8,E,130300,E,15823,E
+166,591,Panama,254,Oil palm fruit,2022,10137.2,E,250096.09,I,24671,I
+81,288,Ghana,254,Oil palm fruit,2023,7289.6,E,3100000,E,425263,I
+157,558,Nicaragua,254,Oil palm fruit,2023,15357.3,E,460410.56,I,29980,A
+195,686,Senegal,254,Oil palm fruit,2023,10855.1,E,128413.37,E,11830,E
+32,120,Cameroon,254,Oil palm fruit,2023,13159.2,E,2870801.53,I,218160,E
+37,140,Central African Republic,254,Oil palm fruit,2023,9159.4,E,5926.31,I,647,E
+44,170,Colombia,254,Oil palm fruit,2023,16546.8,A,8316826.3,A,502624,A
+75,270,Gambia,254,Oil palm fruit,2023,9984.6,E,35074.64,I,3513,I
+95,340,Honduras,254,Oil palm fruit,2023,8834.2,E,1987700,A,225000,X
+159,566,Nigeria,254,Oil palm fruit,2023,2567.3,E,11583922.63,I,4512131,I
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2023,6580.1,E,1947407.41,E,295955,E
+89,320,Guatemala,254,Oil palm fruit,2023,18421.2,E,4052653,A,220000,X
+90,324,Guinea,254,Oil palm fruit,2023,2676.8,E,886020,I,331000,I
+175,624,Guinea-Bissau,254,Oil palm fruit,2023,8440.3,E,80728.25,I,9565,I
+129,450,Madagascar,254,Oil palm fruit,2023,11592.9,E,21001.13,I,1812,I
+193,678,Sao Tome and Principe,254,Oil palm fruit,2023,14570.4,E,27377.8,I,1879,X
+216,764,Thailand,254,Oil palm fruit,2023,18389.9,A,18273629,A,993677,A
+74,266,Gabon,254,Oil palm fruit,2023,8919.6,E,617917,A,69277,I
+131,458,Malaysia,254,Oil palm fruit,2023,18508.6,A,94952547,A,5130172,A
+169,600,Paraguay,254,Oil palm fruit,2023,9436.2,E,145570.36,E,15427,E
+171,608,Philippines,254,Oil palm fruit,2023,8508.1,A,540643.52,A,63544,A
+217,768,Togo,254,Oil palm fruit,2023,8242.1,E,140800,E,17083,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2023,11838.9,A,521942,A,44087,A
+7,24,Angola,254,Oil palm fruit,2023,12107,E,281928.4,I,23286,I
+53,204,Benin,254,Oil palm fruit,2023,17816.8,E,745000,E,41814,I
+115,116,Cambodia,254,Oil palm fruit,2023,10558.6,E,605793.33,I,57374,I
+46,178,Congo,254,Oil palm fruit,2023,12471.4,E,154392.79,I,12380,I
+101,360,Indonesia,254,Oil palm fruit,2023,16937.2,E,240000000,E,14170000,X
+170,604,Peru,254,Oil palm fruit,2023,14453.3,A,1436282.54,A,99374,A
+25,90,Solomon Islands,254,Oil palm fruit,2023,8148.1,E,220000,E,27000,X
+61,226,Equatorial Guinea,254,Oil palm fruit,2023,10222.1,E,40524.49,I,3964,I
+166,591,Panama,254,Oil palm fruit,2023,10129.4,E,254941.99,I,25169,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2023,13993.4,E,78606.2,E,5617,E
+41,156,"China, mainland",254,Oil palm fruit,2023,13193.7,E,666997.61,I,50554,I
+107,384,Côte d'Ivoire,254,Oil palm fruit,2023,6172.1,E,2605246,A,422097,I
+197,694,Sierra Leone,254,Oil palm fruit,2023,7789.2,A,376372.16,A,48320,A
+207,740,Suriname,254,Oil palm fruit,2023,1998.6,E,1200,E,600,E
+21,76,Brazil,254,Oil palm fruit,2023,14404.2,A,2898435,A,201222,A
+29,108,Burundi,254,Oil palm fruit,2023,9878,E,87389.61,E,8847,E
+123,430,Liberia,254,Oil palm fruit,2023,9814.8,E,190472.35,I,19407,I
+138,484,Mexico,254,Oil palm fruit,2023,13703,A,1392671.63,A,101633,A
+168,598,Papua New Guinea,254,Oil palm fruit,2023,12566,E,3586510.47,I,285414,I
+48,188,Costa Rica,254,Oil palm fruit,2023,16073.4,A,1219406,A,75865,A
+56,214,Dominican Republic,254,Oil palm fruit,2023,13816.7,E,331601.83,I,24000,X
+58,218,Ecuador,254,Oil palm fruit,2023,14887.6,A,2049699.57,A,137678,A
+32,120,Cameroon,254,Oil palm fruit,2024,13159.2,E,2947379.72,I,223979,E
+48,188,Costa Rica,254,Oil palm fruit,2024,16400,A,1225773.66,A,74742,A
+107,384,Côte d'Ivoire,254,Oil palm fruit,2024,6396.3,E,2298984.69,A,359423,I
+75,270,Gambia,254,Oil palm fruit,2024,9983.5,E,35075.79,I,3513,I
+131,458,Malaysia,254,Oil palm fruit,2024,19769.7,A,100163525,A,5066524,A
+159,566,Nigeria,254,Oil palm fruit,2024,2565.7,E,11517077.61,I,4488839,I
+25,90,Solomon Islands,254,Oil palm fruit,2024,7761.5,E,217320.84,I,28000,X
+46,178,Congo,254,Oil palm fruit,2024,12468.8,E,155083.88,I,12438,I
+61,226,Equatorial Guinea,254,Oil palm fruit,2024,10232,E,40362.86,I,3945,I
+95,340,Honduras,254,Oil palm fruit,2024,10224.3,E,1907400,A,186555,I
+123,430,Liberia,254,Oil palm fruit,2024,9790.7,E,191032.68,I,19512,I
+168,598,Papua New Guinea,254,Oil palm fruit,2024,12460.5,E,3513071.92,I,281937,I
+250,180,Democratic Republic of the Congo,254,Oil palm fruit,2024,6580.3,E,1953209.88,E,296829,E
+53,204,Benin,254,Oil palm fruit,2024,17948.2,E,755056.96,I,42069,I
+29,108,Burundi,254,Oil palm fruit,2024,9999,E,88425.25,E,8843,E
+81,288,Ghana,254,Oil palm fruit,2024,7364.4,E,3210394.04,I,435934,I
+101,360,Indonesia,254,Oil palm fruit,2024,16969.3,E,243000000,E,14320000,X
+129,450,Madagascar,254,Oil palm fruit,2024,11587.1,E,20990.91,I,1812,I
+197,694,Sierra Leone,254,Oil palm fruit,2024,7790.4,E,401641.84,I,51556,I
+236,862,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2024,11282.6,E,542669.91,I,48098,I
+7,24,Angola,254,Oil palm fruit,2024,12108.4,E,282223.65,I,23308,I
+115,116,Cambodia,254,Oil palm fruit,2024,10490.1,E,436878.9,E,41647,E
+74,266,Gabon,254,Oil palm fruit,2024,8918.5,E,607940.7,I,68166,I
+90,324,Guinea,254,Oil palm fruit,2024,2676.6,E,891908.74,I,333229,I
+170,604,Peru,254,Oil palm fruit,2024,14690.6,E,1469056.75,A,100000,E
+171,608,Philippines,254,Oil palm fruit,2024,7638.1,A,521800.53,A,68315,A
+41,156,"China, mainland",254,Oil palm fruit,2024,13167.2,E,667211.78,I,50672,I
+166,591,Panama,254,Oil palm fruit,2024,10121.6,E,260838.6,I,25770,I
+215,834,United Republic of Tanzania,254,Oil palm fruit,2024,14045.4,E,78692.75,E,5603,E
+37,140,Central African Republic,254,Oil palm fruit,2024,9482.3,E,6135.72,I,647,E
+89,320,Guatemala,254,Oil palm fruit,2024,18152.5,E,4175082.12,I,230000,X
+217,768,Togo,254,Oil palm fruit,2024,8519.5,E,143129.71,I,16800,I
+138,484,Mexico,254,Oil palm fruit,2024,14260.2,A,1463244.27,A,102610,A
+193,678,Sao Tome and Principe,254,Oil palm fruit,2024,12862.7,E,27393.61,I,2130,I
+44,170,Colombia,254,Oil palm fruit,2024,15295.2,A,7824755.58,A,511583,A
+58,218,Ecuador,254,Oil palm fruit,2024,16869.6,A,2651973.05,A,157204,A
+175,624,Guinea-Bissau,254,Oil palm fruit,2024,8439.1,E,80760.32,I,9570,I
+207,740,Suriname,254,Oil palm fruit,2024,1998.6,E,1200,E,600,E
+21,76,Brazil,254,Oil palm fruit,2024,14524.8,A,3222018,A,221828,A
+195,686,Senegal,254,Oil palm fruit,2024,10914.7,E,129035.02,E,11822,E
+56,214,Dominican Republic,254,Oil palm fruit,2024,13796.9,E,344921.99,I,25000,X
+169,600,Paraguay,254,Oil palm fruit,2024,9435.3,E,145341.31,E,15404,E
+216,764,Thailand,254,Oil palm fruit,2024,18332.9,A,18606769,A,1014941,A
