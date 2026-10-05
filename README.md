@@ -103,16 +103,12 @@ PalmOilDashboard/
 
 ---
 
-## Group Members
+## ผู้จัดทำ
 
 1. 67160243 Issaranuwat Chankaew
-2. ......................................
-3. ......................................
-
+   
 ---
 
 ## Course
 
-Business Idea Creation
-
-Mini Project: Storytelling Dashboard for Palm Oil Industry Analysis
+89033267 Data Warehousing Concepts and Design
